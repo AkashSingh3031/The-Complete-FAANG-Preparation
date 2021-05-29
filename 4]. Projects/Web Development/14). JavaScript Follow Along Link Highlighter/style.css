@@ -1,0 +1,62 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0; /* Important! */
+  font-family: sans-serif;
+  background:
+    linear-gradient(45deg, hsla(340, 100%, 55%, 1) 0%, hsla(340, 100%, 55%, 0) 70%),
+    linear-gradient(135deg, rgb(6, 249, 127) 10%, hsla(225, 95%, 50%, 0) 80%),
+    linear-gradient(135deg, rgb(6, 249, 6) 10%, hsla(225, 95%, 50%, 0) 80%),
+    linear-gradient(225deg, rgb(242, 13, 242) 10%, hsla(140, 90%, 50%, 0) 80%),
+    linear-gradient(315deg, rgb(129, 249, 31) 100%, hsla(35, 95%, 55%, 0) 70%);
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 500px;
+  font-size: 20px;
+  line-height: 2;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background: rgba(0,0,0,0.05);
+  border-radius: 20px;
+}
+
+.highlight {
+  transition: all 0.2s;
+  border-bottom: 2px solid rgb(231, 1, 1);
+  position: absolute;
+  top: 0;
+  background: rgb(72, 231, 58);
+  left: 0;
+  z-index: -1;
+  border-radius: 20px;
+  display: block;
+  box-shadow: 0 0 20px rgba(245, 6, 6, 0.9);
+}
+
+.menu {
+  padding: 0;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  margin:100px 0;
+}
+
+.menu a {
+  display: inline-block;
+  padding: 5px;
+  margin: 0 20px;
+  color: rgb(255, 0, 0);
+}
