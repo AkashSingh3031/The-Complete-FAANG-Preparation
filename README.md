@@ -1,7 +1,26 @@
 <p align="center">
 <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/FAANG-2.png">
-</p>    
+</p>    <br> 
+ 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=Iamtripathisatyam />
+</p>
 
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api"/>
+</p>
+
+![Size](https://img.shields.io/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Repo%20Size%20)
+![](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Lines%20of%20Code)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
+<br>
+<img src="https://forthebadge.com/images/badges/for-you.svg" />
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
+<img src="http://ForTheBadge.com/images/badges/made-with-c-plus-plus.svg" />
+<img src="http://ForTheBadge.com/images/badges/made-with-java.svg" />
+<img src="http://ForTheBadge.com/images/badges/made-with-javascript.svg" />
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+---
 
 # The Complete FAANG Preparation
 
