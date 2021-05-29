@@ -14,7 +14,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | --- | --------- |
 | 1. | [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff) |
 | 2. | [DSA](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA) |
-| 3. | [Technical Subject](#tech) |
+| 3. | [Technical Subject](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects) |
 | 4. | [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201) |
 | 5. | [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects) |
 
