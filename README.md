@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/FAANG-2.png">
+<img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-2.png">
 </p>    <br> 
  
 <p align="center">
@@ -34,8 +34,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 1. | [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff) |
 | 2. | [DSA](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA) |
 | 3. | [Technical Subject](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects) |
-| 4. | [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201) |
-| 5. | [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects) |
+| 4. | [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming) |
+| 5. | [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201) |
+| 6. | [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects) |
 
 ### Domain 
 1. [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
@@ -55,6 +56,14 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
       - [Google](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Google)
       - [Others](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Others)
 
+4. [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming)
+   - [HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerRank)
+   - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/GeeksforGeeks)
+   - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeChef)
+   - [CodeForce](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForce)
+   - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/LeetCode)
+   - [InterviewBit](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/InterviewBit)
+
 5. [Technical Subject](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects)
    - [Object Oriented Programming (OOPs)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP))
    - [Operating System (OS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS))
@@ -63,13 +72,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Computer Network (CN)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN))
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
-7. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201)
+7. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201)
    
-9. [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects)
-   - [Machine Learning & Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS))
-   - [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Internet%20of%20Things%20(IOT))
-   - [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Web%20Development)
-   - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Mobile%20Development)
+9. [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects)
+   - [Machine Learning & Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS))
+   - [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Internet%20of%20Things%20(IOT))
+   - [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development)
+   - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
 
 ## Project Admin
 
