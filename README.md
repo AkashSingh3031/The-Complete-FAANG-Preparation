@@ -95,7 +95,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 <!-- markdownlint-disable -->
 <table>
  <tr>
-<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commit">💻</a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribute">✍️</a></td>
 </table>
 
 
