@@ -9,12 +9,12 @@
 - In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
 
 
-<p>2 / 3</p>
-* <p>5 / 6</p> ( CURRECT )
-<p>1 / 4</p>
-<p>1 / 6</p>
+- [ ] 2 / 3
+- [X] 5 / 6
+- [ ] 1 / 4
+- [ ] 1 / 6
 
-=============================================================================
+---
 
 ### 2nd Question
 **Objective**
@@ -25,11 +25,12 @@
 - In a single toss 2 of  fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die will be different and the two dice have a sum of 6.
 
 
-* 1 / 9 ( CURRECT )
-1 / 6
-2 / 3
-5 / 6
-=============================================================================
+- [X] 1 / 9
+- [ ] 1 / 6
+- [ ] 2 / 3
+- [ ] 5 / 6
+
+---
 
 ### 3rd Question
 **Objective**
@@ -44,16 +45,9 @@
 
 One ball is drawn from each of the 3 urns. What is the probability that, of the 3 balls drawn, 2 are red and 1 is black?
 
-[] 10 / 63
-[] 2 / 7
-[X] 17 / 42 ( CURRECT )
-[] 31 / 126
-
-
-
-
-
-
---------------------------------------------------------------------------------
+- [ ] 10 / 63
+- [ ] 2 / 7
+- [X] 17 / 42
+- [ ] 31 / 126
 
 
