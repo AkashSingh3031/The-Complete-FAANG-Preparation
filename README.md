@@ -43,10 +43,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | --- | --------- |
 | 1. | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
 | 2. | [DSA](#2-dsa) |
-| 3. | [Technical Subject](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects) |
-| 4. | [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming) |
-| 5. | [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201) |
-| 6. | [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects) |
+| 3. | [Technical Subject](#3-competitive-programming) |
+| 4. | [Competitive Programming](#4-technical-subject) |
+| 5. | [Low Level Design](#5-low-level-design) |
+| 6. | [Projects](#6-projects) |
 
 ## Domain 
 ### 1. [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
