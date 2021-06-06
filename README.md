@@ -10,9 +10,20 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031) 
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AkashSingh3031.profileviews-badge)](https://github.com/AkashSingh3031) 
+[![followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akash-singh3031/) 
+[![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 ![Size](https://img.shields.io/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Repo%20Size%20)
-![](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Lines%20of%20Code)
+![Lines of code](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Lines%20of%20Code)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
+![License](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Forks](https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Issues](https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
 <br>
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
