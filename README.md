@@ -69,6 +69,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ### 3. [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming)
    - [HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerRank)
    - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/GeeksforGeeks)
+   - [HackerEarth](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerEarth)
    - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeChef)
    - [CodeForce](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForce)
    - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/LeetCode)
@@ -105,11 +106,11 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 <!-- markdownlint-disable -->
 <table>
  <tr>
-<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commit">💻</a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribute">✍️</a></td>
+<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
-## Contributing 🤝
+## Contributing <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px">
 We'd love your contributions! Kindly follow the steps below to get started:
 
 0. Star <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="this">this</a> repository.
