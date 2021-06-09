@@ -48,6 +48,114 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 5. | [Low Level Design](#5-low-level-design) |
 | 6. | [Projects](#6-projects) |
 
+## Graph of Index 
+```
+.
+├── ...
+├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
+│   ├── Aptitude & Reasoning              
+|   |   └── ...
+|   |
+|   |── Basic Programming MCQs
+|   |   └── ...
+|   |
+|   |── Puzzles
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑫𝑺𝑨
+│   ├── Data Structures              
+|   |   └── ...
+|   |
+|   |── Algorithms
+|   |   └── ...
+|   |
+|   |── 450 DSA by @Love Babbar
+|   |   └── ...
+|   |
+|   |── FAANG Interview Questions
+|   |   |── Facebook
+|   |   |── Amazon
+|   |   |── Apple
+|   |   |── Netflix
+|   |   |── Google
+|   |   |── Others
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
+│   ├── HackerRank              
+|   |   └── ...
+|   |
+|   |── GeeksforGeeks
+|   |   └── ...
+|   |
+|   |── HackerEarth
+|   |   └── ...
+|   |
+│   ├── CodeChef              
+|   |   └── ...
+|   |
+|   |── CodeForce
+|   |   └── ...
+|   |
+|   |── LeetCode
+|   |   └── ...
+|   |
+|   |── InterviewBit
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
+│   ├── Object Oriented Programming (OOPs)              
+|   |   └── ...
+|   |
+|   |── Operating System (OS)
+|   |   └── ...
+|   |
+|   |── Database Management System (DBMS)
+|   |   └── ...
+|   |
+│   ├── Structured Query Language (SQL)              
+|   |   └── ...
+|   |
+|   |── Computer Network (CN)
+|   |   └── ...
+|   |
+|   |── Interview Questions
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
+│   └── ...
+|
+|
+└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+│   ├── Machine Learning & Data Science              
+|   |   └── ...
+|   |
+|   |── Internet of Things (IOT)
+|   |   └── ...
+|   |
+|   |── Web Development
+|   |   └── ...
+|   |
+│   ├── Mobile Development              
+|   |   └── ...
+|   |
+│   └── ...
+└── ...
+
+```
+
 ## Domain 
 ### 1. [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
    - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning) 
@@ -69,6 +177,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ### 3. [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming)
    - [HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerRank)
    - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/GeeksforGeeks)
+   - [HackerEarth](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerEarth)
    - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeChef)
    - [CodeForce](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForce)
    - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/LeetCode)
@@ -105,11 +214,11 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 <!-- markdownlint-disable -->
 <table>
  <tr>
-<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commit">💻</a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribute">✍️</a></td>
+<td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
-## Contributing 🤝
+## Contributing <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px">
 We'd love your contributions! Kindly follow the steps below to get started:
 
 0. Star <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="this">this</a> repository.
@@ -144,6 +253,32 @@ git commit -m "<your_commit_message>"
 ```
 git push -u origin <your_branch_name>
 ```
-8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `develop !`
+8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `develop` !
 
 9. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a>. ✌️ ❤️ 💥
+---
+
+## [`MIT LICENSE`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
+```
+MIT License
+
+Copyright (c) 2021 Akash Singh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
