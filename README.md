@@ -48,6 +48,114 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 5. | [Low Level Design](#5-low-level-design) |
 | 6. | [Projects](#6-projects) |
 
+## Graph of Index 
+```
+.
+├── ...
+├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
+│   ├── Aptitude & Reasoning              
+|   |   └── ...
+|   |
+|   |── Basic Programming MCQs
+|   |   └── ...
+|   |
+|   |── Puzzles
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑫𝑺𝑨
+│   ├── Data Structures              
+|   |   └── ...
+|   |
+|   |── Algorithms
+|   |   └── ...
+|   |
+|   |── 450 DSA by @Love Babbar
+|   |   └── ...
+|   |
+|   |── FAANG Interview Questions
+|   |   |── Facebook
+|   |   |── Amazon
+|   |   |── Apple
+|   |   |── Netflix
+|   |   |── Google
+|   |   |── Others
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
+│   ├── HackerRank              
+|   |   └── ...
+|   |
+|   |── GeeksforGeeks
+|   |   └── ...
+|   |
+|   |── HackerEarth
+|   |   └── ...
+|   |
+│   ├── CodeChef              
+|   |   └── ...
+|   |
+|   |── CodeForce
+|   |   └── ...
+|   |
+|   |── LeetCode
+|   |   └── ...
+|   |
+|   |── InterviewBit
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
+│   ├── Object Oriented Programming (OOPs)              
+|   |   └── ...
+|   |
+|   |── Operating System (OS)
+|   |   └── ...
+|   |
+|   |── Database Management System (DBMS)
+|   |   └── ...
+|   |
+│   ├── Structured Query Language (SQL)              
+|   |   └── ...
+|   |
+|   |── Computer Network (CN)
+|   |   └── ...
+|   |
+|   |── Interview Questions
+|   |   └── ...
+|   |
+│   └── ...
+|
+|
+└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
+│   └── ...
+|
+|
+└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+│   ├── Machine Learning & Data Science              
+|   |   └── ...
+|   |
+|   |── Internet of Things (IOT)
+|   |   └── ...
+|   |
+|   |── Web Development
+|   |   └── ...
+|   |
+│   ├── Mobile Development              
+|   |   └── ...
+|   |
+│   └── ...
+└── ...
+
+```
+
 ## Domain 
 ### 1. [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
    - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning) 
@@ -145,6 +253,32 @@ git commit -m "<your_commit_message>"
 ```
 git push -u origin <your_branch_name>
 ```
-8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `develop !`
+8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `develop` !
 
 9. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a>. ✌️ ❤️ 💥
+---
+
+## [`MIT LICENSE`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
+```
+MIT License
+
+Copyright (c) 2021 Akash Singh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
