@@ -48,7 +48,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 5. | [Low Level Design](#5-low-level-design) |
 | 6. | [Projects](#6-projects) |
 
-## Graph of Index 
+## Tree of Index 
 ```
 .
 ├── ...
