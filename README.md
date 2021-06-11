@@ -48,7 +48,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 5. | [Low Level Design](#5-low-level-design) |
 | 6. | [Projects](#6-projects) |
 
-## Graph of Index 
+## Tree of Index 
 ```
 .
 ├── ...
@@ -207,14 +207,16 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 
 ## Awesome Contributors ✨🎉
 
-<!-- Thanks goes to these **Wonderful People** 👨🏻‍💻:        -->
+Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
- <tr>
+<tr>
 <td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width="100px;" alt=""/><br /><sub><b>AkashSingh3031</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=AkashSingh3031" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/Anuradha0501"><img src="https://avatars.githubusercontent.com/u/71958796?v=4" width="100px;" alt=""/><br /><sub><b>Anuradha0501</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Anuradha0501" title="Commits">💻</a> <a href="https://github.com/Anuradha0501/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
@@ -257,6 +259,10 @@ git push -u origin <your_branch_name>
 
 9. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a>. ✌️ ❤️ 💥
 ---
+
+## Stargazers Over Time 
+
+[![Stargazers over time](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation.svg)](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation)
 
 ## [`MIT LICENSE`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
 ```
