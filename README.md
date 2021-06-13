@@ -40,13 +40,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 
 ### Table of Contents
 | SNo. | **Contents** |
-| --- | --------- |
-| 1. | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
-| 2. | [DSA](#2-dsa) |
-| 3. | [Competitive Programming](#3-competitive-programming) |
-| 4. | [Technical Subject](#4-technical-subject) |
-| 5. | [Low Level Design](#5-low-level-design) |
-| 6. | [Projects](#6-projects) |
+| ---  | ---------    |
+| 1.   | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
+| 2.   | [DSA](#2-dsa) |
+| 3.   | [Competitive Programming](#3-competitive-programming) |
+| 4.   | [Technical Subject](#4-technical-subject) |
+| 5.   | [Low Level Design](#5-low-level-design) |
+| 6.   | [Projects](#6-projects) |
 
 ## Tree of Index 
 ```
@@ -56,10 +56,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Aptitude & Reasoning              
 |   |   └── ...
 |   |
-|   |── Basic Programming MCQs
+|   ├── Basic Programming MCQs
 |   |   └── ...
 |   |
-|   |── Puzzles
+|   ├── Puzzles
 |   |   └── ...
 |   |
 |   └── ...
@@ -69,19 +69,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Data Structures              
 |   |   └── ...
 |   |
-|   |── Algorithms
+|   ├── Algorithms
 |   |   └── ...
 |   |
-|   |── 450 DSA by @Love Babbar
+|   ├── 450 DSA by @Love Babbar
 |   |   └── ...
 |   |
-|   |── FAANG Interview Questions
-|   |   |── Facebook
-|   |   |── Amazon
-|   |   |── Apple
-|   |   |── Netflix
-|   |   |── Google
-|   |   |── Others
+|   ├── FAANG Interview Questions
+|   |   ├── Facebook
+|   |   ├── Amazon
+|   |   ├── Apple
+|   |   ├── Netflix
+|   |   ├── Google
+|   |   ├── Others
 |   |   └── ...
 |   |
 |   └── ...
@@ -91,22 +91,22 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── HackerRank              
 |   |   └── ...
 |   |
-|   |── GeeksforGeeks
+|   ├── GeeksforGeeks
 |   |   └── ...
 |   |
-|   |── HackerEarth
+|   ├── HackerEarth
 |   |   └── ...
 |   |
 |   ├── CodeChef              
 |   |   └── ...
 |   |
-|   |── CodeForce
+|   ├── CodeForce
 |   |   └── ...
 |   |
-|   |── LeetCode
+|   ├── LeetCode
 |   |   └── ...
 |   |
-|   |── InterviewBit
+|   ├── InterviewBit
 |   |   └── ...
 |   |
 |   └── ...
@@ -116,19 +116,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Object Oriented Programming (OOPs)              
 |   |   └── ...
 |   |
-|   |── Operating System (OS)
+|   ├── Operating System (OS)
 |   |   └── ...
 |   |
-|   |── Database Management System (DBMS)
+|   ├── Database Management System (DBMS)
 |   |   └── ...
 |   |
 |   ├── Structured Query Language (SQL)              
 |   |   └── ...
 |   |
-|   |── Computer Network (CN)
+|   ├── Computer Network (CN)
 |   |   └── ...
 |   |
-|   |── Interview Questions
+|   ├── Interview Questions
 |   |   └── ...
 |   |
 |   └── ...
@@ -139,13 +139,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
-|   |── Machine Learning & Data Science              
+|   ├── Machine Learning & Data Science              
 |   |   └── ...
 |   |
-|   |── Internet of Things (IOT)
+|   ├── Internet of Things (IOT)
 |   |   └── ...
 |   |
-|   |── Web Development
+|   ├── Web Development
 |   |   └── ...
 |   |
 |   ├── Mobile Development              
