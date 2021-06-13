@@ -53,7 +53,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 .
 ├── ...
 ├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
-│   ├── Aptitude & Reasoning              
+|   ├── Aptitude & Reasoning              
 |   |   └── ...
 |   |
 |   |── Basic Programming MCQs
@@ -62,11 +62,11 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |── Puzzles
 |   |   └── ...
 |   |
-│   └── ...
+|   └── ...
 |
 |
 └── 𝑫𝑺𝑨
-│   ├── Data Structures              
+|   ├── Data Structures              
 |   |   └── ...
 |   |
 |   |── Algorithms
@@ -84,11 +84,11 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |── Others
 |   |   └── ...
 |   |
-│   └── ...
+|   └── ...
 |
 |
 └── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
-│   ├── HackerRank              
+|   ├── HackerRank              
 |   |   └── ...
 |   |
 |   |── GeeksforGeeks
@@ -97,7 +97,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |── HackerEarth
 |   |   └── ...
 |   |
-│   ├── CodeChef              
+|   ├── CodeChef              
 |   |   └── ...
 |   |
 |   |── CodeForce
@@ -109,11 +109,11 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |── InterviewBit
 |   |   └── ...
 |   |
-│   └── ...
+|   └── ...
 |
 |
 └── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
-│   ├── Object Oriented Programming (OOPs)              
+|   ├── Object Oriented Programming (OOPs)              
 |   |   └── ...
 |   |
 |   |── Operating System (OS)
@@ -122,7 +122,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |── Database Management System (DBMS)
 |   |   └── ...
 |   |
-│   ├── Structured Query Language (SQL)              
+|   ├── Structured Query Language (SQL)              
 |   |   └── ...
 |   |
 |   |── Computer Network (CN)
@@ -131,15 +131,15 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |── Interview Questions
 |   |   └── ...
 |   |
-│   └── ...
+|   └── ...
 |
 |
 └── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
 │   └── ...
 |
 |
-└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
-│   ├── Machine Learning & Data Science              
+└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
+|   |── Machine Learning & Data Science              
 |   |   └── ...
 |   |
 |   |── Internet of Things (IOT)
@@ -148,10 +148,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |── Web Development
 |   |   └── ...
 |   |
-│   ├── Mobile Development              
+|   ├── Mobile Development              
 |   |   └── ...
 |   |
-│   └── ...
+|   └── ...
 └── ...
 
 ```
