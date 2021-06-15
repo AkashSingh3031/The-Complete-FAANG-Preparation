@@ -228,33 +228,34 @@ We'd love your contributions! Kindly follow the steps below to get started:
 1. Fork <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="this">this</a> repository.
 
 2. Clone the forked repository.
-
-```
+```css
 git clone https://github.com/<your-github-username>/The-Complete-FAANG-Preparation 
 ```
   
 3. Navigate to the project directory.
-```
+```py
 cd The-Complete-FAANG-Preparation
 ```
 
 4. Create a new branch.
-```
+```css
 git checkout -b <your_branch_name>
 ```
 
 5. Make changes.
 
 6. Stage your changes and commit
-```
+```css
 git add -A
 
 git commit -m "<your_commit_message>"
 ```
+
 7. Push your local commits to the remote repo.
-```
+```css
 git push -u origin <your_branch_name>
 ```
+
 8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `develop` !
 
 9. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a>. ✌️ ❤️ 💥
