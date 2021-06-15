@@ -229,7 +229,7 @@ We'd love your contributions! Kindly follow the steps below to get started:
 
 2. Clone the forked repository.
 
-``` 
+```
 git clone https://github.com/<your-github-username>/The-Complete-FAANG-Preparation 
 ```
   
@@ -265,7 +265,7 @@ git push -u origin <your_branch_name>
 [![Stargazers over time](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation.svg)](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation)
 
 ## [`MIT LICENSE`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
-```
+```css
 MIT License
 
 Copyright (c) 2021 Akash Singh
