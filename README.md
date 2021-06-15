@@ -49,7 +49,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 6.   | [Projects](#6-projects) |
 
 ## `Tree of Index`
-```
+```js
 .
 ├── ...
 ├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
@@ -142,7 +142,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Machine Learning & Data Science              
 |   |   └── ...
 |   |
-|   ├── Internet of Things (IOT)
+|   ├── Internet of Things (IoT)
 |   |   └── ...
 |   |
 |   ├── Web Development
