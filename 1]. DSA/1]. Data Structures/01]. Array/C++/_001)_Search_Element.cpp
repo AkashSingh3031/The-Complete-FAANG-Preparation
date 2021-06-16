@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// function to search for element in array
 int search(int arr[], int n, int x)
 {
 	for(int i = 0; i < n; i++)
