@@ -1,8 +1,7 @@
 /**
  * 
  */
-package com.javaaid.hackerrank.solutions.languages.java.introduction;
-
+ 
 /**
  * @author Mayur Ingle(https://github.com/thecoder8890)
  * https://www.hackerrank.com/challenges/java-int-to-string/problem
