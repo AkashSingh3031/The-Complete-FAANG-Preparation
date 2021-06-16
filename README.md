@@ -18,9 +18,10 @@
 ![Size](https://img.shields.io/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Repo%20Size%20)
 ![Lines of code](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Lines%20of%20Code)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
-![License](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Stars](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Forks](https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
-![Issues](https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Issues Open](https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
 <br>
