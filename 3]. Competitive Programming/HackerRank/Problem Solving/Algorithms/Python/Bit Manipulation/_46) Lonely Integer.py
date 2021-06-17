@@ -17,17 +17,17 @@ import sys
 # The function accepts INTEGER_ARRAY a as parameter.
 #
 
-def lonelyinteger(a):
-    answer = 0
-    for i in a:
-        answer ^= i
-    return 
+# def lonelyinteger(a):
+#     answer = 0
+#     for i in a:
+#         answer ^= i
+#     return 
     
 # Using in-built count()
-# def lonelyinteger(a):
-#     for i in a:
-#         if a.count(i) == 1:
-#             return i
+def lonelyinteger(a):
+    for i in a:
+        if a.count(i) == 1:
+            return i
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
