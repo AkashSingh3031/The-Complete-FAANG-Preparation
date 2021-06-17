@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 public class CountSetBitsInInteger {
 	
-	static int countSetBits1(int n) { 
+	static int countSetBits(int n) { 
 		int setBits = 0;
 		while(n!=0) {
 			setBits++;

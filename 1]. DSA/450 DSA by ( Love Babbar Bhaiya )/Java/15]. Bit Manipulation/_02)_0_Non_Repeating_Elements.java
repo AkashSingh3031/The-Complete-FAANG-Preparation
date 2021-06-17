@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 public class NonRepeatingElement {
 
-	static int[] twoNumbers1(int a[]) { 
+	static int[] twoNumbers(int a[]) { 
 		int xor = 0;
 		for(int i : a) {
 			xor^=i;
