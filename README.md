@@ -252,6 +252,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/Pranjal-bisht"><img src="https://avatars.githubusercontent.com/u/58468853?v=4" width="100px;" alt=""/><br /><sub><b>Pranjal-bisht</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Pranjal-bisht" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
 <tr>
+<td align="center"><a href="https://github.com/SanandhKumar02"><img src="https://avatars.githubusercontent.com/u/72318041?v=4" width="100px;" alt=""/><br /><sub><b>SanandhKumar02</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=SanandhKumar02" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
