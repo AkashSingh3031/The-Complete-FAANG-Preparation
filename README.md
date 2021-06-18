@@ -10,8 +10,8 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
-# [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
-[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+<code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code>
 
 ---
 
@@ -105,7 +105,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   ├── Interview Preparation Kit
 |   |   ├── Problem Solving
 |   |   |   ├── Data Structures
-|   |   |   ├── Algorithms
+|   |   |   └── Algorithms
 |   |   ├── SQL
 |   |   └── ...
 |   |
@@ -129,6 +129,24 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── InterviewBit
+|   |   ├── Programming
+|   |   |   ├── Time Complexity Problems
+|   |   |   ├── Arrays
+|   |   |   ├── Math
+|   |   |   ├── Binary Search
+|   |   |   ├── String
+|   |   |   ├── Bit Manipulation
+|   |   |   ├── Two Pointers
+|   |   |   ├── Linked List
+|   |   |   ├── Stack & Queue
+|   |   |   ├── Backtracking
+|   |   |   ├── Hashing
+|   |   |   ├── Heap & Map
+|   |   |   ├── Tree Data Structure
+|   |   |   ├── Dynamic Programming
+|   |   |   ├── Greedy Algorithm
+|   |   |   ├── Graph Data Structure & Algorithms
+|   |   |   └── ...
 |   |   └── ...
 |   |
 |   └── ...
@@ -166,6 +184,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Case Study
+|   |   └── ...
 |   |
 │   └── ...
 |
