@@ -10,6 +10,11 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
+# [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+
+---
+
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
@@ -89,7 +94,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
-|   ├── HackerRank              
+|   ├── HackerRank
+|   |   ├── C
+|   |   ├── C++
+|   |   ├── Python
+|   |   ├── Java
+|   |   ├── 30 Days of Code
+|   |   ├── 10 Days of JavaScript
+|   |   ├── 10 Days of Statistics
+|   |   ├── Interview Preparation Kit
+|   |   ├── Problem Solving
+|   |   |   ├── Data Structures
+|   |   |   ├── Algorithms
+|   |   ├── SQL
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
@@ -98,13 +115,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── HackerEarth
 |   |   └── ...
 |   |
-|   ├── CodeChef              
+|   ├── CodeChef
+|   |   ├── Long Challenge
+|   |   ├── Cook-off
+|   |   ├── Lunch Time
 |   |   └── ...
 |   |
 |   ├── CodeForce
 |   |   └── ...
 |   |
 |   ├── LeetCode
+|   |   ├── Problems
 |   |   └── ...
 |   |
 |   ├── InterviewBit
@@ -135,7 +156,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   └── ...
 |
 |
-└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
+└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
+|   ├── Object Oriented Design
+|   |   ├── Introduciton to Classes and Objects
+|   |   ├── Software Development Process
+|   |   ├── Introduction to UML
+|   |   ├── Class Diagrams and Object Diagrams
+|   |   ├── Use Case Diagrams
+|   |   └── ...
+|   |
+|   ├── Case Study
+|   |
 │   └── ...
 |
 |
@@ -241,6 +272,13 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/tanmayChakrawarty"><img src="https://avatars.githubusercontent.com/u/75254780?v=4" width="100px;" alt=""/><br /><sub><b>tanmayChakrawarty</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=tanmayChakrawarty" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
 <td align="center"><a href="https://github.com/onlykingKD"><img src="https://avatars.githubusercontent.com/u/55577276?v=4" width="100px;" alt=""/><br /><sub><b>onlykingKD</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=onlykingKD" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/parajshah"><img src="https://avatars.githubusercontent.com/u/65371747?v=4" width="100px;" alt=""/><br /><sub><b>parajshah</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=parajshah" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/Pranjal-bisht"><img src="https://avatars.githubusercontent.com/u/58468853?v=4" width="100px;" alt=""/><br /><sub><b>Pranjal-bisht</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Pranjal-bisht" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<tr>
+<td align="center"><a href="https://github.com/SanandhKumar02"><img src="https://avatars.githubusercontent.com/u/72318041?v=4" width="100px;" alt=""/><br /><sub><b>SanandhKumar02</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=SanandhKumar02" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
