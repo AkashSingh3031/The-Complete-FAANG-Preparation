@@ -94,7 +94,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
-|   ├── HackerRank              
+|   ├── HackerRank
+|   |   ├── C
+|   |   ├── C++
+|   |   ├── Python
+|   |   ├── Java
+|   |   ├── 30 Days of Code
+|   |   ├── 10 Days of JavaScript
+|   |   ├── 10 Days of Statistics
+|   |   ├── Interview Preparation Kit
+|   |   ├── Problem Solving
+|   |   |   ├── Data Structures
+|   |   |   ├── Algorithms
+|   |   ├── SQL
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
@@ -103,13 +115,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── HackerEarth
 |   |   └── ...
 |   |
-|   ├── CodeChef              
+|   ├── CodeChef
+|   |   ├── Long Challenge
+|   |   ├── Cook-off
+|   |   ├── Lunch Time
 |   |   └── ...
 |   |
 |   ├── CodeForce
 |   |   └── ...
 |   |
 |   ├── LeetCode
+|   |   ├── Problems
 |   |   └── ...
 |   |
 |   ├── InterviewBit
@@ -140,7 +156,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   └── ...
 |
 |
-└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
+└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
+|   ├── Object Oriented Design
+|   |   ├── Introduciton to Classes and Objects
+|   |   ├── Software Development Process
+|   |   ├── Introduction to UML
+|   |   ├── Class Diagrams and Object Diagrams
+|   |   ├── Use Case Diagrams
+|   |   └── ...
+|   |
+|   ├── Case Study
+|   |
 │   └── ...
 |
 |
