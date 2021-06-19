@@ -223,6 +223,11 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Interview Questions
+|   |   ├── OOP
+|   |   ├── OS
+|   |   ├── DBMS
+|   |   ├── SQL
+|   |   ├── CN
 |   |   └── ...
 |   |
 |   └── ...
@@ -243,7 +248,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 │   └── ...
 |
 |
-└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
+└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 |   ├── Machine Learning & Data Science
 |   |   ├── Data Analysis
 |   |   ├── Machine Learning
@@ -262,6 +267,28 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── GUI Projects              
 |   |   └── ...
 |   |
+|   └── ...
+|
+|
+└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔
+|   ├── Programming Language
+|   |   ├── C
+|   |   ├── C++
+|   |   ├── Python
+|   |   ├── Java
+|   |   └── ...
+|   ├── Data Structures              
+|   ├── Algorithms
+|   ├── Competitive Programming
+|   ├── Coding Interviews
+|   ├── Technical Subjects
+|   |   ├── OOP
+|   |   ├── OS
+|   |   ├── DBMS
+|   |   ├── SQL
+|   |   ├── CN
+|   |   └── ...
+|   ├── Aptitude & Reasoning
 |   └── ...
 └── ...
 
