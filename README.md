@@ -94,6 +94,52 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
+|   ├── Google
+|   |   ├── Code Jam
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   └── ... 
+|   |   |
+|   |   ├── Hash Code
+|   |   |   ├── 2016
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   |
+|   |   ├── Kick Start
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   └── ...
+|   |   └── ...
+|   |
+|   ├── Facebook
+|   |   ├── Hacker Cup
+|   |   |   ├── 2011
+|   |   |   ├── 2012
+|   |   |   ├── 2013
+|   |   |   ├── 2014
+|   |   |   ├── 2015
+|   |   |   ├── 2016
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   |
+|   |   ├── FB Hack
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   └── ...
+|   |
 |   ├── HackerRank
 |   |   ├── C
 |   |   ├── C++
@@ -113,6 +159,12 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── HackerEarth
+|   |   ├── Practice
+|   |   |   ├── Basic Programming
+|   |   |   ├── Data Structures
+|   |   |   ├── Algorithms
+|   |   |   ├── Math
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── CodeChef
@@ -121,7 +173,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   ├── Lunch Time
 |   |   └── ...
 |   |
-|   ├── CodeForce
+|   ├── CodeForces
+|   |   ├── Problem_Set
 |   |   └── ...
 |   |
 |   ├── LeetCode
@@ -153,7 +206,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
-|   ├── Object Oriented Programming (OOPs)              
+|   ├── Object Oriented Programming (OOP)              
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
@@ -190,7 +243,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
-|   ├── Machine Learning & Data Science              
+|   ├── Machine Learning & Data Science
+|   |   ├── Data Analysis
+|   |   ├── Machine Learning
+|   |   ├── Deep Learning
 |   |   └── ...
 |   |
 |   ├── Internet of Things (IoT)
@@ -200,6 +256,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Mobile Development              
+|   |   └── ...
+|   |
+|   ├── GUI Projects              
 |   |   └── ...
 |   |
 |   └── ...
@@ -243,6 +302,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
 ### 5. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201)
+   - [Object Oriented Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design)
+   - [Case Study](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study)
    
 ### 6. [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects)
    - [Machine Learning & Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS))
