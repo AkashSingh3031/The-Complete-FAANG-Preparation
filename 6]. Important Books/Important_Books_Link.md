@@ -12,9 +12,9 @@
 |   ├── Data Structures              
 |   ├── Algorithms
 |   ├── Competitive Programming
-|   |   ├── Competitive Programming By Antti Laaksonen - Click Here to [Download](https://drive.google.com/file/d/13ceEppbAS1oEe4QRmtCuhF4LlpFxmEHL/view?usp=sharing)
+|   |   ├── Competitive Programming By Antti Laaksonen - Click Here to <a href="https://drive.google.com/file/d/13ceEppbAS1oEe4QRmtCuhF4LlpFxmEHL/view?usp=sharing">download</a> 
 |   ├── Coding Interviews
-|   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN McDowELL -  Click Here to [Download](https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html)
+|   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN McDowELL -  Click Here to <a href="https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html">download</a>
 |   ├── Technical Subjects
 |   |   ├── OOP
 |   |   ├── OS
