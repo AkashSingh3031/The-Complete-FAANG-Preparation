@@ -9,10 +9,7 @@
 |   |   ├── Python
 |   |   ├── Java
 |   |   └── ...
-|   ├── Data Structures              
-|   ├── Algorithms
-|   ├── Competitive Programming
-|   ├── Coding Interviews
+ 
 |   ├── Technical Subjects
 |   |   ├── OOP
 |   |   ├── OS
@@ -20,7 +17,4 @@
 |   |   ├── SQL
 |   |   ├── CN
 |   |   └── ...
-|   ├── Aptitude & Reasoning
-|   └── ...
-└── ...
-```
+ 
