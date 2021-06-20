@@ -13,7 +13,7 @@
 |   ├── Algorithms
 |   ├── Competitive Programming
 |   |   ├── Guide to Competitive Programming By Antti Laaksonen
-|   |   ├── Competitive Programming By Antti Laaksonen 
+|   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
 |   |   └── ...
 |   ├── Coding Interviews
 |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN McDowELL
