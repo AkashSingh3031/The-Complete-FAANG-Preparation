@@ -41,12 +41,12 @@
 ---
 
 ## `Competitive Programming`
-[Guide to Competitive Programming By Antti Laaksonen](https://drive.google.com/file/d/1-_qgdODciPQgzi8NciMtjYj01Dydq385/view)
+[Guide to Competitive Programming By `Antti Laaksonen`](https://drive.google.com/file/d/1-_qgdODciPQgzi8NciMtjYj01Dydq385/view)
 <br>
-[Competitive Programmer’s Handbook By Antti Laaksonen](https://drive.google.com/file/d/13ceEppbAS1oEe4QRmtCuhF4LlpFxmEHL/view?usp=sharing)
+[Competitive Programmer’s Handbook By `Antti Laaksonen`](https://drive.google.com/file/d/13ceEppbAS1oEe4QRmtCuhF4LlpFxmEHL/view?usp=sharing)
 <br>
 
 ## `Coding Interviews`
-[Cracking the Coding Interview by GAYLE LAAKMANN McDowELL](https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html)
+[Cracking the Coding Interview by `GAYLE LAAKMANN McDowELL`](https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html)
 
 ---
