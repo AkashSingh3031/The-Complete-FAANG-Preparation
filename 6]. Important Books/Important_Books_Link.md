@@ -12,7 +12,12 @@
 |   ├── Data Structures              
 |   ├── Algorithms
 |   ├── Competitive Programming
+|   |   ├── Guide to Competitive Programming By Antti Laaksonen
+|   |   ├── Competitive Programming By Antti Laaksonen 
+|   |   └── ...
 |   ├── Coding Interviews
+|   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN McDowELL
+|   |   └── ...
 |   ├── Technical Subjects
 |   |   ├── OOP
 |   |   ├── OS
@@ -25,23 +30,23 @@
 └── ...
 ```
 
+1. `Programming Language`
+2. `Data Structures`
+3. `Algorithms`
+4. [`Competitive Programming`](#competitive-programming)
+5. [`Coding Interviews`](#coding-interviews)
+6. `Technical Subjects`
+7. `Aptitude & Reasoning`
 
-### 1. `Programming Language Book Links`
+---
 
+## `Competitive Programming`
+[Guide to Competitive Programming By Antti Laaksonen](https://drive.google.com/file/d/1-_qgdODciPQgzi8NciMtjYj01Dydq385/view)
+<br>
+[Competitive Programmer’s Handbook By Antti Laaksonen](https://drive.google.com/file/d/13ceEppbAS1oEe4QRmtCuhF4LlpFxmEHL/view?usp=sharing)
+<br>
 
-### 2. `Data Structures Book Links`
+## `Coding Interviews`
+[Cracking the Coding Interview by GAYLE LAAKMANN McDowELL](https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html)
 
-
-### 3. `Algorithms Book Links`
-
-
-### 4. `Competitive Programming Book Links`
-
-
-### 5. `Coding Interviews Book Links`
-
-
-### 6. `Technical Subjects Book Links`
-
-
-### 7. `Aptitude & Reasoning Book Links`
+---
