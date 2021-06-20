@@ -10,8 +10,8 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
-# [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
-[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+<code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code>
 
 ---
 
@@ -53,6 +53,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 4.   | [Technical Subject](#4-technical-subject) |
 | 5.   | [Low Level Design](#5-low-level-design) |
 | 6.   | [Projects](#6-projects) |
+| 7.   | [Impotant Books](#7-important-books) |
 
 ## `Tree of Index`
 ```js
@@ -94,32 +95,119 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
-|   ├── HackerRank              
+|   ├── Google
+|   |   ├── Code Jam
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   └── ... 
+|   |   |
+|   |   ├── Hash Code
+|   |   |   ├── 2016
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   |
+|   |   ├── Kick Start
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   └── ...
+|   |   └── ...
+|   |
+|   ├── Facebook
+|   |   ├── Hacker Cup
+|   |   |   ├── 2011
+|   |   |   ├── 2012
+|   |   |   ├── 2013
+|   |   |   ├── 2014
+|   |   |   ├── 2015
+|   |   |   ├── 2016
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   |
+|   |   ├── FB Hack
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   └── ...
+|   |
+|   ├── HackerRank
+|   |   ├── C
+|   |   ├── C++
+|   |   ├── Python
+|   |   ├── Java
+|   |   ├── 30 Days of Code
+|   |   ├── 10 Days of JavaScript
+|   |   ├── 10 Days of Statistics
+|   |   ├── Interview Preparation Kit
+|   |   ├── Problem Solving
+|   |   |   ├── Data Structures
+|   |   |   └── Algorithms
+|   |   ├── SQL
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
 |   |   └── ...
 |   |
 |   ├── HackerEarth
+|   |   ├── Practice
+|   |   |   ├── Basic Programming
+|   |   |   ├── Data Structures
+|   |   |   ├── Algorithms
+|   |   |   ├── Math
+|   |   |   └── ... 
 |   |   └── ...
 |   |
-|   ├── CodeChef              
+|   ├── CodeChef
+|   |   ├── Long Challenge
+|   |   ├── Cook-off
+|   |   ├── Lunch Time
 |   |   └── ...
 |   |
-|   ├── CodeForce
+|   ├── CodeForces
+|   |   ├── Problem_Set
 |   |   └── ...
 |   |
 |   ├── LeetCode
+|   |   ├── Problems
 |   |   └── ...
 |   |
 |   ├── InterviewBit
+|   |   ├── Programming
+|   |   |   ├── Time Complexity Problems
+|   |   |   ├── Arrays
+|   |   |   ├── Math
+|   |   |   ├── Binary Search
+|   |   |   ├── String
+|   |   |   ├── Bit Manipulation
+|   |   |   ├── Two Pointers
+|   |   |   ├── Linked List
+|   |   |   ├── Stack & Queue
+|   |   |   ├── Backtracking
+|   |   |   ├── Hashing
+|   |   |   ├── Heap & Map
+|   |   |   ├── Tree Data Structure
+|   |   |   ├── Dynamic Programming
+|   |   |   ├── Greedy Algorithm
+|   |   |   ├── Graph Data Structure & Algorithms
+|   |   |   └── ...
 |   |   └── ...
 |   |
 |   └── ...
 |
 |
 └── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
-|   ├── Object Oriented Programming (OOPs)              
+|   ├── Object Oriented Programming (OOP)              
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
@@ -135,17 +223,36 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Interview Questions
+|   |   ├── OOP
+|   |   ├── OS
+|   |   ├── DBMS
+|   |   ├── SQL
+|   |   ├── CN
 |   |   └── ...
 |   |
 |   └── ...
 |
 |
-└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
+└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
+|   ├── Object Oriented Design
+|   |   ├── Introduciton to Classes and Objects
+|   |   ├── Software Development Process
+|   |   ├── Introduction to UML
+|   |   ├── Class Diagrams and Object Diagrams
+|   |   ├── Use Case Diagrams
+|   |   └── ...
+|   |
+|   ├── Case Study
+|   |   └── ...
+|   |
 │   └── ...
 |
 |
-└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
-|   ├── Machine Learning & Data Science              
+└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+|   ├── Machine Learning & Data Science
+|   |   ├── Data Analysis
+|   |   ├── Machine Learning
+|   |   ├── Deep Learning
 |   |   └── ...
 |   |
 |   ├── Internet of Things (IoT)
@@ -157,6 +264,31 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Mobile Development              
 |   |   └── ...
 |   |
+|   ├── GUI Projects              
+|   |   └── ...
+|   |
+|   └── ...
+|
+|
+└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔
+|   ├── Programming Language
+|   |   ├── C
+|   |   ├── C++
+|   |   ├── Python
+|   |   ├── Java
+|   |   └── ...
+|   ├── Data Structures              
+|   ├── Algorithms
+|   ├── Competitive Programming
+|   ├── Coding Interviews
+|   ├── Technical Subjects
+|   |   ├── OOP
+|   |   ├── OS
+|   |   ├── DBMS
+|   |   ├── SQL
+|   |   ├── CN
+|   |   └── ...
+|   ├── Aptitude & Reasoning
 |   └── ...
 └── ...
 
@@ -198,12 +330,16 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
 ### 5. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201)
+   - [Object Oriented Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design)
+   - [Case Study](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study)
    
 ### 6. [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects)
    - [Machine Learning & Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS))
    - [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Internet%20of%20Things%20(IOT))
    - [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development)
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
+
+### 7. [Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md)
 
 ## `Project Admin`
 
@@ -246,6 +382,21 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/tanmayChakrawarty"><img src="https://avatars.githubusercontent.com/u/75254780?v=4" width="100px;" alt=""/><br /><sub><b>tanmayChakrawarty</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=tanmayChakrawarty" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
 <td align="center"><a href="https://github.com/onlykingKD"><img src="https://avatars.githubusercontent.com/u/55577276?v=4" width="100px;" alt=""/><br /><sub><b>onlykingKD</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=onlykingKD" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/parajshah"><img src="https://avatars.githubusercontent.com/u/65371747?v=4" width="100px;" alt=""/><br /><sub><b>parajshah</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=parajshah" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/Pranjal-bisht"><img src="https://avatars.githubusercontent.com/u/58468853?v=4" width="100px;" alt=""/><br /><sub><b>Pranjal-bisht</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Pranjal-bisht" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<tr>
+<td align="center"><a href="https://github.com/SanandhKumar02"><img src="https://avatars.githubusercontent.com/u/72318041?v=4" width="100px;" alt=""/><br /><sub><b>SanandhKumar02</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=SanandhKumar02" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/sainikhil1605"><img src="https://avatars.githubusercontent.com/u/35322884?v=4" width="100px;" alt=""/><br /><sub><b>sainikhil1605</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=sainikhil1605" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/work-mohit"><img src="https://avatars.githubusercontent.com/u/46566524?v=4" width="100px;" alt=""/><br /><sub><b>work-mohit</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=work-mohit" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/67006255?v=4" width="100px;" alt=""/><br /><sub><b>Ayush7614</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Ayush7614" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/sayeedajmal"><img src="https://avatars.githubusercontent.com/u/76242275?v=4" width="100px;" alt=""/><br /><sub><b>sayeedajmal</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=sayeedajmal" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
