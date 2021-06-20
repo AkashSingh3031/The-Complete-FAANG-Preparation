@@ -1,0 +1,19 @@
+1. Rat in a maze Problem
+2. Printing all solutions in N-Queen Problem
+3. Word Break Problem using Backtracking
+4. Remove Invalid Parentheses
+5. Sudoku Solver
+6. m Coloring Problem
+7. Print all palindromic partitions of a string
+8. Subset Sum Problem
+9. The Knight’s tour problem
+10. Tug of War
+11. Find shortest safe route in a path with landmines
+12. Combinational Sum
+13. Find Maximum number possible by doing at-most K swaps
+14. Print all permutations of a string 
+15. Find if there is a path of more than k length from a source
+16. Longest Possible Route in a Matrix with Hurdles
+17. Print all possible paths from top left to bottom right of a mXn matrix
+18. Partition of a set intoK subsets with equal sum
+19. Find the K-th Permutation Sequence of first N natural numbers
