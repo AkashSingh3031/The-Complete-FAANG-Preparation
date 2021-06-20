@@ -340,6 +340,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
 
 ### 7. [Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md)
+   - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#tree-of-index)
+   - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#data-structures)
+   - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#algorithms)
+   - [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#competitive-programming)
+   - [Coding Interviews](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#coding-interviews)
+   - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#tree-of-index)
+   - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books/Important_Books_Link.md#tree-of-index)
 
 ## `Project Admin`
 
