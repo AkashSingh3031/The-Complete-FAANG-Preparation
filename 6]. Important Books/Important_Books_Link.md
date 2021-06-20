@@ -42,6 +42,7 @@
 
 ## `Data Structures`
 - [Data Structures and Algorithms by `Narasimha Karumanchi`](https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi-pdf)
+- [Data Structures and Algorithms in Python by `Michael T. Goodrich`](https://drive.google.com/file/d/1Z1EockDOnVYX1FxDEfxE9Shg_PLtZ0FB/view?usp=sharing)
 
 ## `Algorithms`
 - [Introduction to Algorithms by `Thomas H. Cormen`](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
