@@ -3,6 +3,10 @@
 </p>    <br> 
  
 <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffff00&size=40&width=660&lines=The+Complete++FAANG+Preparation"/>
+</p>
+ 
+<p align="center">
   <img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=Iamtripathisatyam />
 </p>
 
