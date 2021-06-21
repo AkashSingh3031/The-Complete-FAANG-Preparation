@@ -10,9 +10,9 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
-## Usage
+## `Usage`
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0B2734&vCenter=true&lines=The+Complete+FAANG+Preparation+pot%3F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=The+Complete+FAANG+Preparation+pot%3F)
 
 
 ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
