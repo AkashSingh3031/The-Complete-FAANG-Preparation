@@ -1,6 +1,6 @@
 class Solution:
    
-    def longestPalindrome(self, s: str) -> str:
+    def longestPalindrome(self, s: str):
        
         long, beg = 1, 0
         n = len(s)
