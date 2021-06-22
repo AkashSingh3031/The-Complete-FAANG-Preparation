@@ -1,5 +1,7 @@
 class Solution:
-    def romanToInt(self, s: str) -> int:
+    #s is a str which represents roman number
+    #returns int which is alternative to roman number
+    def romanToInt(self, s):
         d = {
              "M": 1000,
             "CM": 900,
