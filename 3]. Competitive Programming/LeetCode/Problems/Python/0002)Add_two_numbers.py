@@ -7,7 +7,7 @@
 
 class Solution:
     
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+    def addTwoNumbers(self, l1, l2):
         num1, num2 = 0,0
         prod1, prod2 = 1, 1
         while l1 != None:
