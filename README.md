@@ -3,7 +3,7 @@
 </p>    <br> 
  
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=ffff00&size=40&width=700&height=70&lines=The+Complete++FAANG+Preparation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=43ffaa&size=40&width=750&height=80&lines=The+Complete++FAANG+Preparation"/>
 </p>
  
 <p align="center">
