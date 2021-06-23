@@ -56,6 +56,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ### `Table of Contents`
 | SNo. | **Contents** |
 | ---  | ---------    |
+| 0.   | [ASK Your Doubts](#0-ask-your-doubts) |
 | 1.   | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
 | 2.   | [DSA](#2-dsa) |
 | 3.   | [Competitive Programming](#3-competitive-programming) |
@@ -68,6 +69,16 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ```js
 .
 ├── ...
+├── 𝑨𝑺𝑲 𝒀𝒐𝒖𝒓 𝑫𝒐𝒖𝒃𝒕𝒔
+|   ├── Data Structure & Algorithms              
+|   |   └── ...
+|   |
+|   ├── Technical Subjects
+|   |   └── ...
+|   |
+|   └── ...
+|
+|
 ├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
 |   ├── Aptitude & Reasoning              
 |   |   └── ...
@@ -325,6 +336,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ```
 
 ## `Domain`
+### 0. [ASK Your Doubts](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/%60%60ASK%20Your%20Doubts%60%60)
+   - [Data Structure & Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/%60%60ASK%20Your%20Doubts%60%60/DSA%20Questions)
+   - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/%60%60ASK%20Your%20Doubts%60%60/Technical%20Questions)
+
 ### 1. [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
    - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning) 
    - [Basic Programming MCQs](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs) 
