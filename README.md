@@ -38,6 +38,7 @@
 ![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
+![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?color=light-green&label=Awesome%20Contributors%20%E2%9C%A8%F0%9F%8E%89&style=for-the-badge)
 <br>
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
@@ -45,9 +46,10 @@
 <img src="http://ForTheBadge.com/images/badges/made-with-java.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-javascript.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+
 ---
 
-# `The Complete FAANG Preparation`
+# 🏆 `The Complete FAANG Preparation` 🏆
 
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
 
@@ -394,13 +396,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
    - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#low-level-design)
 
-## `Project Admin`
+## 🏆 `Project Admin`
 
 <a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉`
+## `Awesome Contributors ✨🎉` `30`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
