@@ -364,7 +364,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/GeeksforGeeks)
    - [HackerEarth](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerEarth)
    - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeChef)
-   - [CodeForce](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForce)
+   - [CodeForces](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForces)
    - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/LeetCode)
    - [InterviewBit](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/InterviewBit)
 
