@@ -105,6 +105,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── 450 DSA by @Love Babbar
 |   |   └── ...
 |   |
+|   ├── Striver Series
+|   |   ├── 30 Days of SDE Sheet
+|   |   └── ...
+|   |
 |   ├── FAANG Interview Questions
 |   |   ├── Facebook
 |   |   ├── Amazon
@@ -192,17 +196,47 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── CodeChef
-|   |   ├── Long Challenge
+|   |   ├── Long Challeng
+|   |   |   ├── Div-1
+|   |   |   ├── Div-2
+|   |   |   ├── Div-3
+|   |   |   └── ... 
 |   |   ├── Cook-off
+|   |   |   ├── Div-1
+|   |   |   ├── Div-2
+|   |   |   ├── Div-3
+|   |   |   └── ... 
 |   |   ├── Lunch Time
+|   |   |   ├── Div-1
+|   |   |   ├── Div-2
+|   |   |   ├── Div-3
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── CodeForces
 |   |   ├── Problem_Set
+|   |   |   ├── Levels
+|   |   |   |   ├── A
+|   |   |   |   ├── B
+|   |   |   |   ├── C
+|   |   |   |   ├── D
+|   |   |   |   └── ... 
+|   |   |   └── ... 
+|   |   ├── Contests
+|   |   |   ├── Rounds
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── LeetCode
 |   |   ├── Problems
+|   |   ├── Contests
+|   |   |   ├── Weekly Contests
+|   |   |   ├── Biweekly Contests
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── InterviewBit
@@ -352,6 +386,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures)
    - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/2%5D.%20Algorithms)
    - [450 DSA by @Love Babbar](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20))
+   - [Striver Series](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/Striver%20Series)
+      - [30 Days of SDE Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/Striver%20Series/30%20Days%20of%20SDE%20Sheet)
    - [FAANG Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions)
       - [Facebook](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Facebook)
       - [Amazon](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon)
