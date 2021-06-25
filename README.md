@@ -422,6 +422,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Internet%20of%20Things%20(IOT))
    - [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development)
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
+   - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/GUI%20Projects)
 
 ### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
    - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
