@@ -38,6 +38,7 @@
 ![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
+![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?color=light-green&label=Awesome%20Contributors%20%E2%9C%A8%F0%9F%8E%89&style=for-the-badge)
 <br>
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
@@ -45,9 +46,10 @@
 <img src="http://ForTheBadge.com/images/badges/made-with-java.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-javascript.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+
 ---
 
-# `The Complete FAANG Preparation`
+# 🏆 `The Complete FAANG Preparation` 🏆
 
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
 
@@ -362,7 +364,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/GeeksforGeeks)
    - [HackerEarth](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerEarth)
    - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeChef)
-   - [CodeForce](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForce)
+   - [CodeForces](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForces)
    - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/LeetCode)
    - [InterviewBit](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/InterviewBit)
 
@@ -394,13 +396,13 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
    - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#low-level-design)
 
-## `Project Admin`
+## 🏆 `Project Admin`
 
 <a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=400&u=0efcf847bb1584e6653c26096e9855ed09d2a5ad&v=4" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉`
+## `Awesome Contributors ✨🎉` `31`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -473,6 +475,10 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
  
 <tr>
 <td align="center"><a href="https://github.com/sheetalneeraj"><img src="https://avatars.githubusercontent.com/u/42382485?v=4" width="100px;" alt=""/><br /><sub><b>sheetalneeraj</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=sheetalneeraj" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/amandewatnitrr"><img src="https://avatars.githubusercontent.com/u/52046981?v=4" width="100px;" alt=""/><br /><sub><b>amandewatnitrr</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=amandewatnitrr" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+
+<td align="center"><a href="https://github.com/samnoon1971"><img src="https://avatars.githubusercontent.com/u/36998653?v=4" width="100px;" alt=""/><br /><sub><b>samnoon1971</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=samnoon1971" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
