@@ -10,35 +10,34 @@
 
 char* readline();
 
-
-
 int main()
 {
     int i;
     scanf("%d",&i);
-    if(i==1){
-    printf("one");
+      
+     if(i==1){
+       printf("one");
     }else if (i==2) {
-    printf("two");
+       printf("two");
     }else if (i==3) {
-    printf("three");
+       printf("three");
     }else if (i==4) {
-    printf("four");
+       printf("four");
     }else if (i==5) {
-    printf("five");
+       printf("five");
     }else if (i==6) {
-    printf("six");
+       printf("six");
     }else if (i==7) {
-    printf("seven");
+       printf("seven");
     }else if (i==8) {
-    printf("eight");
+       printf("eight");
     }else if (i==9) {
-    printf("nine");
+       printf("nine");
     }
     else{
-    printf("Greater than 9");
+       printf("Greater than 9");
     }
     
-     return 0;
+  return 0;
 }
 
