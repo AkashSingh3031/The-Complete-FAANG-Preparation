@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BasicArray {
+class BasicArray {
     /* A Method For Creating Array List */
     /* SINGAL DIMENTIONAL ARRAY */
     public static void Create_array(int arr[]) {
