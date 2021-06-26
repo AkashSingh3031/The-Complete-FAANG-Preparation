@@ -184,6 +184,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
+|   |   ├── Data Structures
+|   |   ├── Algorithms
+|   |   ├── Must Do Coding Questions
 |   |   └── ...
 |   |
 |   ├── HackerEarth
@@ -196,7 +199,14 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── CodeChef
-|   |   ├── Long Challeng
+|   |   ├── PRACTICE & LEARN
+|   |   |   ├── Beginner
+|   |   |   ├── Easy
+|   |   |   ├── Medium
+|   |   |   ├── Hard
+|   |   |   ├── Challenge
+|   |   |   └── Peer 
+|   |   ├── Long Challenge
 |   |   |   ├── Div-1
 |   |   |   ├── Div-2
 |   |   |   ├── Div-3
@@ -327,46 +337,56 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   └── ...
 |
 |
-└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔
-|   ├── Programming Language
-|   |   ├── C
-|   |   ├── C++
-|   |   ├── Python
-|   |   ├── Java
+└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔 𝒂𝒏𝒅 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔
+|   ├── Important Books
+|   |   ├── Programming Language
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   └── ...
+|   |   ├── Data Structures
+|   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
+|   |   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   |   |   └── ...
+|   |   ├── Algorithms
+|   |   |   ├── Introduction to Algorithms By Thomas H. Cormen
+|   |   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
+|   |   |   └── ...
+|   |   ├── Competitive Programming
+|   |   |   ├── Guide to Competitive Programming By Antti Laaksonen
+|   |   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
+|   |   |   └── ...
+|   |   ├── Coding Interviews
+|   |   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
+|   |   |   └── ...
+|   |   ├── Technical Subjects
+|   |   |   ├── OOP
+|   |   |   ├── OS
+|   |   |   ├── DBMS
+|   |   |   ├── SQL
+|   |   |   ├── CN
+|   |   |   └── ...
+|   |   ├── Aptitude & Reasoning
+|   |   ├── Low Level Design
+|   |   |   ├── Object Oriented Design
+|   |   |   └── ...
 |   |   └── ...
-|   |
-|   ├── Data Structures
-|   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
-|   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   | 
+|   ├── Important Resources
+|   |   ├── Youtube Playlist
+|   |   |   ├── DSA Series
+|   |   |   ├── Technical Series
+|   |   |   └── ...
+|   |   ├── Interview Preparation
+|   |   |   ├── HR Interview Questions
+|   |   |   ├── Interview Experience
+|   |   |   ├── Must DO questions
+|   |   |   ├── Practise Platform
+|   |   |   └── ...
 |   |   └── ...
-|   |
-|   ├── Algorithms
-|   |   ├── Introduction to Algorithms By Thomas H. Cormen
-|   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
-|   |   └── ...
-|   |
-|   ├── Competitive Programming
-|   |   ├── Guide to Competitive Programming By Antti Laaksonen
-|   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
-|   |   └── ...
-|   |
-|   ├── Coding Interviews
-|   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
-|   |   └── ...
-|   |
-|   ├── Technical Subjects
-|   |   ├── OOP
-|   |   ├── OS
-|   |   ├── DBMS
-|   |   ├── SQL
-|   |   ├── CN
-|   |   └── ...
-|   |
-|   ├── Aptitude & Reasoning
-|   |
-|   ├── Low Level Design
-|   |   ├── Object Oriented Design
-|   |   └── ...
+|   | 
+|   ├── Computer Science Preparation
 |   └── ...
 └── ...
 
