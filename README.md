@@ -398,6 +398,14 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   | 
 |   ├── Computer Science Preparation
+|   |   ├── Computer Science Basics
+|   |   ├── Programming
+|   |   ├── Math
+|   |   ├── Systems
+|   |   ├── Theory
+|   |   ├── Applications
+|   |   ├── Unix
+|   |   └── ...
 |   └── ...
 └── ...
 
@@ -455,15 +463,30 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
    - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/GUI%20Projects)
 
-### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
-   - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
-   - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#data-structures)
-   - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#algorithms)
-   - [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#competitive-programming)
-   - [Coding Interviews](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#coding-interviews)
-   - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
-   - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
-   - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#low-level-design)
+### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources)
+   - [Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
+      - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
+      - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#data-structures)
+      - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#algorithms)
+      - [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#competitive-programming)
+      - [Coding Interviews](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#coding-interviews)
+      - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
+      - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
+      - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#low-level-design)
+
+   - [Important Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md)
+      - [Youtube Playlist](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md#youtube-playlist)
+      - [Interview Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md#interview-prep)
+
+   - [Computer Science Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md)
+      - [Computer Science Basics](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#computer-science-basics)
+      - [Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#programming)
+      - [Math](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#math)
+      - [Systems](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#systems)
+      - [Theory](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#theory)
+      - [Applications](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#applications)
+      - [Unix](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#unix)
+
 
 ## 🏆 `Project Admin`
 
