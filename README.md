@@ -169,18 +169,23 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── HackerRank
-|   |   ├── C
-|   |   ├── C++
-|   |   ├── Python
-|   |   ├── Java
-|   |   ├── 30 Days of Code
-|   |   ├── 10 Days of JavaScript
-|   |   ├── 10 Days of Statistics
-|   |   ├── Interview Preparation Kit
-|   |   ├── Problem Solving
-|   |   |   ├── Data Structures
-|   |   |   └── Algorithms
-|   |   ├── SQL
+|   |   ├── Practice
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   ├── 30 Days of Code
+|   |   |   ├── 10 Days of JavaScript
+|   |   |   ├── 10 Days of Statistics
+|   |   |   ├── Interview Preparation Kit
+|   |   |   ├── Problem Solving
+|   |   |   |   ├── Data Structures
+|   |   |   |   └── Algorithms
+|   |   |   ├── SQL
+|   |   |   └── ...
+|   |   ├── Compete
+|   |   |   ├── ProjectEuler+
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
@@ -196,6 +201,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Algorithms
 |   |   |   ├── Math
 |   |   |   └── ... 
+|   |   ├── Compete
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── CodeChef
@@ -206,21 +213,23 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Hard
 |   |   |   ├── Challenge
 |   |   |   └── Peer 
-|   |   ├── Long Challenge
-|   |   |   ├── Div-1
-|   |   |   ├── Div-2
-|   |   |   ├── Div-3
-|   |   |   └── ... 
-|   |   ├── Cook-off
-|   |   |   ├── Div-1
-|   |   |   ├── Div-2
-|   |   |   ├── Div-3
-|   |   |   └── ... 
-|   |   ├── Lunch Time
-|   |   |   ├── Div-1
-|   |   |   ├── Div-2
-|   |   |   ├── Div-3
-|   |   |   └── ... 
+|   |   ├── Compete
+|   |   |   ├── Long Challenge
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   ├── Cook-off
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   ├── Lunch Time
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   └── ...
 |   |   └── ...
 |   |
 |   ├── CodeForces
@@ -268,6 +277,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Greedy Algorithm
 |   |   |   ├── Graph Data Structure & Algorithms
 |   |   |   └── ...
+|   |   ├── Contests
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   └── ...
