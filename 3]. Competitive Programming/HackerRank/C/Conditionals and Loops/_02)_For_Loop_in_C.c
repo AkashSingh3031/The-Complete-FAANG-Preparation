@@ -28,15 +28,18 @@ int main()
     printf("eight\n");
     }else if (i==9) {
     printf("nine\n");
-    }}
-    for(j=10;j<=b;j++){
-     
-     if(j%2==0){
-        printf("even\n");}
-    else
-     printf("odd\n");
+    }
  }
-    return 0;
+     for(j=10;j<=b;j++){
+          if(j%2==0)
+           {
+              printf("even\n");
+           }
+          else{
+            printf("odd\n");
+               }
+     };
+  return 0;
 }
 
 
