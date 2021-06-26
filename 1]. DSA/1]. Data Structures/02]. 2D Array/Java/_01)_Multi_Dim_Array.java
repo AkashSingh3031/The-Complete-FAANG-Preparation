@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiDimArray {
+class MultiDimArray {
 
     public static void Create_Multi() {
 
