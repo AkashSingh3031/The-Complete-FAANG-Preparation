@@ -38,7 +38,8 @@
 ![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
-![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?color=light-green&label=Awesome%20Contributors%20%E2%9C%A8%F0%9F%8E%89&style=for-the-badge)
+![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?label=Awesome%20Contributors&style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/AkashSingh3031/The-Complete-FAANG-Preparation?style=for-the-badge&logo=github)
 <br>
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
@@ -102,6 +103,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── 450 DSA by @Love Babbar
+|   |   └── ...
+|   |
+|   ├── Striver Series
+|   |   ├── 30 Days of SDE Sheet
 |   |   └── ...
 |   |
 |   ├── FAANG Interview Questions
@@ -179,6 +184,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
+|   |   ├── Data Structures
+|   |   ├── Algorithms
+|   |   ├── Must Do Coding Questions
 |   |   └── ...
 |   |
 |   ├── HackerEarth
@@ -191,17 +199,54 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── CodeChef
+|   |   ├── PRACTICE & LEARN
+|   |   |   ├── Beginner
+|   |   |   ├── Easy
+|   |   |   ├── Medium
+|   |   |   ├── Hard
+|   |   |   ├── Challenge
+|   |   |   └── Peer 
 |   |   ├── Long Challenge
+|   |   |   ├── Div-1
+|   |   |   ├── Div-2
+|   |   |   ├── Div-3
+|   |   |   └── ... 
 |   |   ├── Cook-off
+|   |   |   ├── Div-1
+|   |   |   ├── Div-2
+|   |   |   ├── Div-3
+|   |   |   └── ... 
 |   |   ├── Lunch Time
+|   |   |   ├── Div-1
+|   |   |   ├── Div-2
+|   |   |   ├── Div-3
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── CodeForces
 |   |   ├── Problem_Set
+|   |   |   ├── Levels
+|   |   |   |   ├── A
+|   |   |   |   ├── B
+|   |   |   |   ├── C
+|   |   |   |   ├── D
+|   |   |   |   └── ... 
+|   |   |   └── ... 
+|   |   ├── Contests
+|   |   |   ├── Rounds
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── LeetCode
 |   |   ├── Problems
+|   |   ├── Contests
+|   |   |   ├── Weekly Contests
+|   |   |   ├── Biweekly Contests
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── InterviewBit
@@ -292,46 +337,56 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   └── ...
 |
 |
-└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔
-|   ├── Programming Language
-|   |   ├── C
-|   |   ├── C++
-|   |   ├── Python
-|   |   ├── Java
+└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔 𝒂𝒏𝒅 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔
+|   ├── Important Books
+|   |   ├── Programming Language
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   └── ...
+|   |   ├── Data Structures
+|   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
+|   |   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   |   |   └── ...
+|   |   ├── Algorithms
+|   |   |   ├── Introduction to Algorithms By Thomas H. Cormen
+|   |   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
+|   |   |   └── ...
+|   |   ├── Competitive Programming
+|   |   |   ├── Guide to Competitive Programming By Antti Laaksonen
+|   |   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
+|   |   |   └── ...
+|   |   ├── Coding Interviews
+|   |   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
+|   |   |   └── ...
+|   |   ├── Technical Subjects
+|   |   |   ├── OOP
+|   |   |   ├── OS
+|   |   |   ├── DBMS
+|   |   |   ├── SQL
+|   |   |   ├── CN
+|   |   |   └── ...
+|   |   ├── Aptitude & Reasoning
+|   |   ├── Low Level Design
+|   |   |   ├── Object Oriented Design
+|   |   |   └── ...
 |   |   └── ...
-|   |
-|   ├── Data Structures
-|   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
-|   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   | 
+|   ├── Important Resources
+|   |   ├── Youtube Playlist
+|   |   |   ├── DSA Series
+|   |   |   ├── Technical Series
+|   |   |   └── ...
+|   |   ├── Interview Preparation
+|   |   |   ├── HR Interview Questions
+|   |   |   ├── Interview Experience
+|   |   |   ├── Must DO questions
+|   |   |   ├── Practise Platform
+|   |   |   └── ...
 |   |   └── ...
-|   |
-|   ├── Algorithms
-|   |   ├── Introduction to Algorithms By Thomas H. Cormen
-|   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
-|   |   └── ...
-|   |
-|   ├── Competitive Programming
-|   |   ├── Guide to Competitive Programming By Antti Laaksonen
-|   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
-|   |   └── ...
-|   |
-|   ├── Coding Interviews
-|   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
-|   |   └── ...
-|   |
-|   ├── Technical Subjects
-|   |   ├── OOP
-|   |   ├── OS
-|   |   ├── DBMS
-|   |   ├── SQL
-|   |   ├── CN
-|   |   └── ...
-|   |
-|   ├── Aptitude & Reasoning
-|   |
-|   ├── Low Level Design
-|   |   ├── Object Oriented Design
-|   |   └── ...
+|   | 
+|   ├── Computer Science Preparation
 |   └── ...
 └── ...
 
@@ -351,6 +406,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures)
    - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/2%5D.%20Algorithms)
    - [450 DSA by @Love Babbar](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20))
+   - [Striver Series](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/Striver%20Series)
+      - [30 Days of SDE Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/Striver%20Series/30%20Days%20of%20SDE%20Sheet)
    - [FAANG Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions)
       - [Facebook](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Facebook)
       - [Amazon](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon)
@@ -385,6 +442,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Internet%20of%20Things%20(IOT))
    - [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development)
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
+   - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/GUI%20Projects)
 
 ### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
    - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
@@ -402,7 +460,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉` `31`
+## `Awesome Contributors ✨🎉` `32`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -478,6 +536,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/amandewatnitrr"><img src="https://avatars.githubusercontent.com/u/52046981?v=4" width="100px;" alt=""/><br /><sub><b>amandewatnitrr</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=amandewatnitrr" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 
 <td align="center"><a href="https://github.com/samnoon1971"><img src="https://avatars.githubusercontent.com/u/36998653?v=4" width="100px;" alt=""/><br /><sub><b>samnoon1971</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=samnoon1971" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+ 
+<td align="center"><a href="https://github.com/draciel58"><img src="https://avatars.githubusercontent.com/u/58848892?v=4" width="100px;" alt=""/><br /><sub><b>draciel58</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=draciel58" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
