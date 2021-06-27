@@ -1,9 +1,4 @@
-# Sorting Algorithm Explainations
-
-<details>
-  <summary>
-  <img id="sort" src="https://img.shields.io/badge/Merge-Sort-brightgreen?style=for-the-badge"></summary>
-  <h1> Merge Sort</h1>
+# Merge Sort
 
 [MergeSort Program](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/1%5D.%20DSA/2%5D.%20Algorithms/02%5D.%20Sorting%20Algorithms/Java/MergeSort.java)
 
@@ -48,15 +43,3 @@
                             copy B[i...p-1] to A[k...p+q-1]
 
 ## Read it Once Again...😅
-
-</details>
-
-<details>
-  <summary><img id="sort" src="https://img.shields.io/badge/Quick-Sort-brightgreen?style=for-the-badge"></summary>
-  
-</details>
-
-<details>
-  <summary><img id="sort" src="https://img.shields.io/badge/Insertion-Sort-brightgreen?style=for-the-badge"></summary>
-  
-</details>
