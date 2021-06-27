@@ -169,21 +169,29 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── HackerRank
-|   |   ├── C
-|   |   ├── C++
-|   |   ├── Python
-|   |   ├── Java
-|   |   ├── 30 Days of Code
-|   |   ├── 10 Days of JavaScript
-|   |   ├── 10 Days of Statistics
-|   |   ├── Interview Preparation Kit
-|   |   ├── Problem Solving
-|   |   |   ├── Data Structures
-|   |   |   └── Algorithms
-|   |   ├── SQL
+|   |   ├── Practice
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   ├── 30 Days of Code
+|   |   |   ├── 10 Days of JavaScript
+|   |   |   ├── 10 Days of Statistics
+|   |   |   ├── Interview Preparation Kit
+|   |   |   ├── Problem Solving
+|   |   |   |   ├── Data Structures
+|   |   |   |   └── Algorithms
+|   |   |   ├── SQL
+|   |   |   └── ...
+|   |   ├── Compete
+|   |   |   ├── ProjectEuler+
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
+|   |   ├── Data Structures
+|   |   ├── Algorithms
+|   |   ├── Must Do Coding Questions
 |   |   └── ...
 |   |
 |   ├── HackerEarth
@@ -193,24 +201,35 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Algorithms
 |   |   |   ├── Math
 |   |   |   └── ... 
+|   |   ├── Compete
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── CodeChef
-|   |   ├── Long Challeng
-|   |   |   ├── Div-1
-|   |   |   ├── Div-2
-|   |   |   ├── Div-3
-|   |   |   └── ... 
-|   |   ├── Cook-off
-|   |   |   ├── Div-1
-|   |   |   ├── Div-2
-|   |   |   ├── Div-3
-|   |   |   └── ... 
-|   |   ├── Lunch Time
-|   |   |   ├── Div-1
-|   |   |   ├── Div-2
-|   |   |   ├── Div-3
-|   |   |   └── ... 
+|   |   ├── PRACTICE & LEARN
+|   |   |   ├── Beginner
+|   |   |   ├── Easy
+|   |   |   ├── Medium
+|   |   |   ├── Hard
+|   |   |   ├── Challenge
+|   |   |   └── Peer 
+|   |   ├── Compete
+|   |   |   ├── Long Challenge
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   ├── Cook-off
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   ├── Lunch Time
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   └── ...
 |   |   └── ...
 |   |
 |   ├── CodeForces
@@ -258,6 +277,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Greedy Algorithm
 |   |   |   ├── Graph Data Structure & Algorithms
 |   |   |   └── ...
+|   |   ├── Contests
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   └── ...
@@ -327,45 +348,63 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   └── ...
 |
 |
-└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔
-|   ├── Programming Language
-|   |   ├── C
-|   |   ├── C++
-|   |   ├── Python
-|   |   ├── Java
+└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔 𝒂𝒏𝒅 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔
+|   ├── Important Books
+|   |   ├── Programming Language
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   └── ...
+|   |   ├── Data Structures
+|   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
+|   |   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   |   |   └── ...
+|   |   ├── Algorithms
+|   |   |   ├── Introduction to Algorithms By Thomas H. Cormen
+|   |   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
+|   |   |   └── ...
+|   |   ├── Competitive Programming
+|   |   |   ├── Guide to Competitive Programming By Antti Laaksonen
+|   |   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
+|   |   |   └── ...
+|   |   ├── Coding Interviews
+|   |   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
+|   |   |   └── ...
+|   |   ├── Technical Subjects
+|   |   |   ├── OOP
+|   |   |   ├── OS
+|   |   |   ├── DBMS
+|   |   |   ├── SQL
+|   |   |   ├── CN
+|   |   |   └── ...
+|   |   ├── Aptitude & Reasoning
+|   |   ├── Low Level Design
+|   |   |   ├── Object Oriented Design
+|   |   |   └── ...
 |   |   └── ...
-|   |
-|   ├── Data Structures
-|   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
-|   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   | 
+|   ├── Important Resources
+|   |   ├── Youtube Playlist
+|   |   |   ├── DSA Series
+|   |   |   ├── Technical Series
+|   |   |   └── ...
+|   |   ├── Interview Preparation
+|   |   |   ├── HR Interview Questions
+|   |   |   ├── Interview Experience
+|   |   |   ├── Must DO questions
+|   |   |   ├── Practise Platform
+|   |   |   └── ...
 |   |   └── ...
-|   |
-|   ├── Algorithms
-|   |   ├── Introduction to Algorithms By Thomas H. Cormen
-|   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
-|   |   └── ...
-|   |
-|   ├── Competitive Programming
-|   |   ├── Guide to Competitive Programming By Antti Laaksonen
-|   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
-|   |   └── ...
-|   |
-|   ├── Coding Interviews
-|   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
-|   |   └── ...
-|   |
-|   ├── Technical Subjects
-|   |   ├── OOP
-|   |   ├── OS
-|   |   ├── DBMS
-|   |   ├── SQL
-|   |   ├── CN
-|   |   └── ...
-|   |
-|   ├── Aptitude & Reasoning
-|   |
-|   ├── Low Level Design
-|   |   ├── Object Oriented Design
+|   | 
+|   ├── Computer Science Preparation
+|   |   ├── Computer Science Basics
+|   |   ├── Programming
+|   |   ├── Math
+|   |   ├── Systems
+|   |   ├── Theory
+|   |   ├── Applications
+|   |   ├── Unix
 |   |   └── ...
 |   └── ...
 └── ...
@@ -424,15 +463,30 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
    - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/GUI%20Projects)
 
-### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
-   - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
-   - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#data-structures)
-   - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#algorithms)
-   - [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#competitive-programming)
-   - [Coding Interviews](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#coding-interviews)
-   - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
-   - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
-   - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#low-level-design)
+### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources)
+   - [Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
+      - [Programming Language](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
+      - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#data-structures)
+      - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#algorithms)
+      - [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#competitive-programming)
+      - [Coding Interviews](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#coding-interviews)
+      - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
+      - [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#tree-of-index)
+      - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md#low-level-design)
+
+   - [Important Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md)
+      - [Youtube Playlist](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md#youtube-playlist)
+      - [Interview Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md#interview-prep)
+
+   - [Computer Science Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md)
+      - [Computer Science Basics](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#computer-science-basics)
+      - [Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#programming)
+      - [Math](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#math)
+      - [Systems](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#systems)
+      - [Theory](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#theory)
+      - [Applications](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#applications)
+      - [Unix](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#unix)
+
 
 ## 🏆 `Project Admin`
 
