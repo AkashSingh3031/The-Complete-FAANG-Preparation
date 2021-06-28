@@ -42,4 +42,10 @@
                         else
                             copy B[i...p-1] to A[k...p+q-1]
 
+# Explanation
+
+            Step 1 − If it is only one element in the list it is already sorted, return.
+            Step 2 − Divide the list recursively into two halves until it can no more be divided.
+            Step 3 − Merge the smaller lists into new list in sorted order.
+
 ## Read it Once Again...😅
