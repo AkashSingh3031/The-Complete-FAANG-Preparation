@@ -57,3 +57,5 @@
             Step 6 − while value at right is greater than pivot move left.
             Step 7 − if both step 5 and step 6 does not match swap left and right.
             Step 8 − if left ≥ right, the point where they met is new pivot.
+
+## Read it Once Again...😅
