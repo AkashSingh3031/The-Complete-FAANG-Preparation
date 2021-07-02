@@ -1,4 +1,15 @@
-# Binary Search
+# Searching Algorithm Explainations
+
+<details>
+  <summary>
+  <img id="search" src="https://img.shields.io/badge/BFS-Search-brightgreen?style=for-the-badge"></summary>
+  <h1> Breadth-First Search</h1>
+ </details>
+
+<details>
+  <summary>
+  <img id="search" src="https://img.shields.io/badge/Binary-Search-brightgreen?style=for-the-badge"></summary>
+  <h1> Binary Search</h1>
 
 [BinarySearch Program](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/1%5D.%20DSA/2%5D.%20Algorithms/01%5D.%20Searching%20Algorithms/Java/BinarSearch.java)
 
@@ -39,3 +50,11 @@
         Step 9 - If Not Match any Cases... Return with -1.
 
 ## Read it Once Again...😅
+
+</details>
+
+<details>
+  <summary>
+  <img id="search" src="https://img.shields.io/badge/DFS-Search-brightgreen?style=for-the-badge"></summary>
+  <h1> Depth-First Search</h1>
+</details>
