@@ -74,6 +74,8 @@
 
 # Explanation
 
+- This algorithm compares adjacent elements of an array and swaps them if the element on the right is smaller than the one on the left`A[j]>A[j+1]`, then It Start Swaping. It is an in-place sorting algorithm i.e. no extra space is needed for this sort, the array itself is modified.
+
 ## It's Easy
 
   </details>
