@@ -123,7 +123,7 @@
 </details>
 
 <details>
-  <summary><img id="sort" src="https://img.shields.io/badge/Insertion-Sort-brightgreen?style=for-the-badge"></summary>
+  <summary><img id="sort" src="https://img.shields.io/badge/Binary-Sort-brightgreen?style=for-the-badge"></summary>
 
   <h1> Binary Search</h1>
 
