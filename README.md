@@ -107,6 +107,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |
 |   ├── Striver Series
 |   |   ├── 30 Days of SDE Sheet
+|   |   ├── Algorithms for Coding Round Sheet
+|   |   ├── Competitive Programming Sheet
 |   |   └── ...
 |   |
 |   ├── FAANG Interview Questions
@@ -285,7 +287,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
-|   ├── Object Oriented Programming (OOP)              
+|   ├── Object Oriented Programming (OOP)   
+|   |   ├── OOP.md
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
@@ -427,6 +430,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [450 DSA by @Love Babbar](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20))
    - [Striver Series](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series)
       - [30 Days of SDE Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/30%20Days%20of%20SDE%20Sheet)
+      - [Algorithms for Coding Round Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/Algorithms%20for%20Coding%20Round%20Sheet)
+      - [Competitive Programming Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/Competitive%20Programming%20Sheet)
    - [FAANG Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions)
       - [Facebook](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Facebook)
       - [Amazon](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon)
@@ -446,6 +451,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 
 ### 4. [Technical Subject](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects)
    - [Object Oriented Programming (OOPs)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP))
+      - [OOP.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)/Readme.md)
    - [Operating System (OS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS))
    - [Database Management System (DBMS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS))
    - [Structured Query Language (SQL)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL))
