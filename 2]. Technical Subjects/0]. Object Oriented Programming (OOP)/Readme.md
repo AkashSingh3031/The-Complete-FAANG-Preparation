@@ -46,10 +46,10 @@ visibility-modes = {private, protected, public}
    - When one class inherits another class, it is known as single level inheritance.
 2. Multiple inheritance :
    - Multiple inheritance is the process of deriving a new class that inherits the attributes from two or more classes.
-3. Hierarchical inheritance :
-   - : Hierarchical inheritance is defined as the process of deriving more than one class from a base class.
-4. Multilevel inheritance :
+3. Multilevel inheritance :
    - Multilevel inheritance is a process of deriving a class from another derived class.
+4. Hierarchical inheritance :
+   - Hierarchical inheritance is defined as the process of deriving more than one class from a base class.
 5. Hybrid inheritance : 
    - Hybrid inheritance is a combination of simple, multiple inheritance and hierarchical inheritance.
 
@@ -79,9 +79,11 @@ visibility-modes = {private, protected, public}
         2. The type of the parameters passed to the function.
         3. The number of parameters passed to the function.
         
+        **`C++ Sample Code :`** 
         ```c++
         #include<bits/stdc++.h> 
         using namespace std; 
+        
         class Add { 
             public:
                 int add(int a,int b){ 
@@ -110,6 +112,7 @@ visibility-modes = {private, protected, public}
 ```c++
 #include <bits/stdc++.h> 
 using namespace std; 
+
 class Base_class{ 
     public: 
         virtual void show(){ 
@@ -131,4 +134,68 @@ int main(){
     }
     
 // Output : FAANG Preparation derived
+```
+
+##  Constructor :
+- **Constructor** is a special method which is invoked automatically at the time of object creation. It is used to initialize the data members of new objects generally. The constructor in C++ has the same name as class or structure.
+- There can be **three types** of constructors in C++.
+   1. **Default constructor :** 
+      - Aconstructor which has no argument is known as default constructor. It is invoked at the time of creating an object. 
+   2. **Parameterized constructor :**
+      - Constructor which has parameters is called a parameterized constructor. It is used to provide different values to distinct objects. 
+   3. **Copy Constructor :** 
+      - A Copy constructor is an overloaded constructor used to declare and initialize an object from another object. 
+      - It is of two types :
+          1.  default copy constructor 
+          2.  user defined copy constructor 
+
+**`C++ Sample Code :`** 
+```c++
+#include <bits/stdc++.h> 
+using namespace std; 
+
+class go { 
+    public:
+        int x; 
+        go(int a){ // parameterized constructor.
+        x=a; 
+    }
+    go(go &i){ // copy constructor 
+        x = i.x; 
+    } 
+};
+int main(){ 
+    go a1(20); // Calling the parameterized constructor.
+    go a2(a1); // Calling the copy constructor. 
+    cout << a2.x << endl; 
+    return 0; 
+}
+
+// Output : 20
+```
+
+## Destructor : 
+- Adestructor works opposite to constructor; it destructs the objects of classes. It can be defined **only once** in a class. Like constructors, it is invoked automatically. Adestructor is defined like a constructor. It must have the same name as class, prefixed with a **tilde sign (~)**.
+
+**`C++ Sample Code :`** 
+```c++
+#include<bits/stdc++.h>
+using namespace std;
+
+class A{ 
+    public: // constructor and destructor are called automatically, once the object is instantiated 
+        A(){ 
+            cout << "Constructor in use" << endl; 
+        }
+        ~A(){
+            cout << "Destructor in use" << endl; 
+        }
+}; 
+    
+int main(){
+    Aa; Ab; 
+    return 0;
+}
+
+/*Output: Constructor in use Constructor in use Destructor in use Destructor in use */
 ```
