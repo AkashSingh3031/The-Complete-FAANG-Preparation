@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-2.png">
+<img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
 </p>    <br> 
  
 <p align="center">
