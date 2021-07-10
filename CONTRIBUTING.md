@@ -111,6 +111,16 @@ https://www.contributor-covenant.org/translations.
 ```js
 .
 ├── ...
+├── 𝑨𝑺𝑲 𝒀𝒐𝒖𝒓 𝑫𝒐𝒖𝒃𝒕𝒔
+|   ├── Data Structure & Algorithms              
+|   |   └── ...
+|   |
+|   ├── Technical Subjects
+|   |   └── ...
+|   |
+|   └── ...
+|
+|
 ├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
 |   ├── Aptitude & Reasoning              
 |   |   └── ...
@@ -134,6 +144,12 @@ https://www.contributor-covenant.org/translations.
 |   ├── 450 DSA by @Love Babbar
 |   |   └── ...
 |   |
+|   ├── Striver Series
+|   |   ├── 30 Days of SDE Sheet
+|   |   ├── Algorithms for Coding Round Sheet
+|   |   ├── Competitive Programming Sheet
+|   |   └── ...
+|   |
 |   ├── FAANG Interview Questions
 |   |   ├── Facebook
 |   |   ├── Amazon
@@ -147,32 +163,171 @@ https://www.contributor-covenant.org/translations.
 |
 |
 └── 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈
-|   ├── HackerRank              
+|   ├── Google
+|   |   ├── Code Jam
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   └── ... 
+|   |   |
+|   |   ├── Hash Code
+|   |   |   ├── 2016
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   |
+|   |   ├── Kick Start
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   └── ...
+|   |   └── ...
+|   |
+|   ├── Facebook
+|   |   ├── Hacker Cup
+|   |   |   ├── 2011
+|   |   |   ├── 2012
+|   |   |   ├── 2013
+|   |   |   ├── 2014
+|   |   |   ├── 2015
+|   |   |   ├── 2016
+|   |   |   ├── 2017
+|   |   |   ├── 2018
+|   |   |   ├── 2019
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   |
+|   |   ├── FB Hack
+|   |   |   ├── 2020
+|   |   |   ├── 2021
+|   |   |   └── ...
+|   |   └── ...
+|   |
+|   ├── HackerRank
+|   |   ├── Practice
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   ├── 30 Days of Code
+|   |   |   ├── 10 Days of JavaScript
+|   |   |   ├── 10 Days of Statistics
+|   |   |   ├── Interview Preparation Kit
+|   |   |   ├── Problem Solving
+|   |   |   |   ├── Data Structures
+|   |   |   |   └── Algorithms
+|   |   |   ├── SQL
+|   |   |   └── ...
+|   |   ├── Compete
+|   |   |   ├── ProjectEuler+
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── GeeksforGeeks
+|   |   ├── Data Structures
+|   |   ├── Algorithms
+|   |   ├── Must Do Coding Questions
 |   |   └── ...
 |   |
 |   ├── HackerEarth
+|   |   ├── Practice
+|   |   |   ├── Basic Programming
+|   |   |   ├── Data Structures
+|   |   |   ├── Algorithms
+|   |   |   ├── Math
+|   |   |   └── ... 
+|   |   ├── Compete
+|   |   |   └── ... 
 |   |   └── ...
 |   |
-|   ├── CodeChef              
+|   ├── CodeChef
+|   |   ├── PRACTICE & LEARN
+|   |   |   ├── Beginner
+|   |   |   ├── Easy
+|   |   |   ├── Medium
+|   |   |   ├── Hard
+|   |   |   ├── Challenge
+|   |   |   └── Peer 
+|   |   ├── Compete
+|   |   |   ├── Long Challenge
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   ├── Cook-off
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   ├── Lunch Time
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   └── ...
 |   |   └── ...
 |   |
-|   ├── CodeForce
+|   ├── CodeForces
+|   |   ├── Problem_Set
+|   |   |   ├── Levels
+|   |   |   |   ├── A
+|   |   |   |   ├── B
+|   |   |   |   ├── C
+|   |   |   |   ├── D
+|   |   |   |   └── ... 
+|   |   |   └── ... 
+|   |   ├── Contests
+|   |   |   ├── Rounds
+|   |   |   |   ├── Div-1
+|   |   |   |   ├── Div-2
+|   |   |   |   ├── Div-3
+|   |   |   |   └── ... 
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── LeetCode
+|   |   ├── Problems
+|   |   ├── Contests
+|   |   |   ├── Weekly Contests
+|   |   |   ├── Biweekly Contests
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   ├── InterviewBit
+|   |   ├── Programming
+|   |   |   ├── Time Complexity Problems
+|   |   |   ├── Arrays
+|   |   |   ├── Math
+|   |   |   ├── Binary Search
+|   |   |   ├── String
+|   |   |   ├── Bit Manipulation
+|   |   |   ├── Two Pointers
+|   |   |   ├── Linked List
+|   |   |   ├── Stack & Queue
+|   |   |   ├── Backtracking
+|   |   |   ├── Hashing
+|   |   |   ├── Heap & Map
+|   |   |   ├── Tree Data Structure
+|   |   |   ├── Dynamic Programming
+|   |   |   ├── Greedy Algorithm
+|   |   |   ├── Graph Data Structure & Algorithms
+|   |   |   └── ...
+|   |   ├── Contests
+|   |   |   └── ... 
 |   |   └── ...
 |   |
 |   └── ...
 |
 |
 └── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
-|   ├── Object Oriented Programming (OOPs)              
+|   ├── Object Oriented Programming (OOP)   
+|   |   ├── OOP.md
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
@@ -188,17 +343,36 @@ https://www.contributor-covenant.org/translations.
 |   |   └── ...
 |   |
 |   ├── Interview Questions
+|   |   ├── OOP
+|   |   ├── OS
+|   |   ├── DBMS
+|   |   ├── SQL
+|   |   ├── CN
 |   |   └── ...
 |   |
 |   └── ...
 |
 |
-└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏   
+└── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
+|   ├── Object Oriented Design
+|   |   ├── Introduciton to Classes and Objects
+|   |   ├── Software Development Process
+|   |   ├── Introduction to UML
+|   |   ├── Class Diagrams and Object Diagrams
+|   |   ├── Use Case Diagrams
+|   |   └── ...
+|   |
+|   ├── Case Study
+|   |   └── ...
+|   |
 │   └── ...
 |
 |
-└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
-|   ├── Machine Learning & Data Science              
+└── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+|   ├── Machine Learning & Data Science
+|   |   ├── Data Analysis
+|   |   ├── Machine Learning
+|   |   ├── Deep Learning
 |   |   └── ...
 |   |
 |   ├── Internet of Things (IoT)
@@ -210,6 +384,70 @@ https://www.contributor-covenant.org/translations.
 |   ├── Mobile Development              
 |   |   └── ...
 |   |
+|   ├── GUI Projects              
+|   |   └── ...
+|   |
+|   └── ...
+|
+|
+└── 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔 𝒂𝒏𝒅 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔
+|   ├── Important Books
+|   |   ├── Programming Language
+|   |   |   ├── C
+|   |   |   ├── C++
+|   |   |   ├── Python
+|   |   |   ├── Java
+|   |   |   └── ...
+|   |   ├── Data Structures
+|   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
+|   |   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   |   |   └── ...
+|   |   ├── Algorithms
+|   |   |   ├── Introduction to Algorithms By Thomas H. Cormen
+|   |   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
+|   |   |   └── ...
+|   |   ├── Competitive Programming
+|   |   |   ├── Guide to Competitive Programming By Antti Laaksonen
+|   |   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
+|   |   |   └── ...
+|   |   ├── Coding Interviews
+|   |   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
+|   |   |   └── ...
+|   |   ├── Technical Subjects
+|   |   |   ├── OOP
+|   |   |   ├── OS
+|   |   |   ├── DBMS
+|   |   |   ├── SQL
+|   |   |   ├── CN
+|   |   |   └── ...
+|   |   ├── Aptitude & Reasoning
+|   |   ├── Low Level Design
+|   |   |   ├── Object Oriented Design
+|   |   |   └── ...
+|   |   └── ...
+|   | 
+|   ├── Important Resources
+|   |   ├── Youtube Playlist
+|   |   |   ├── DSA Series
+|   |   |   ├── Technical Series
+|   |   |   └── ...
+|   |   ├── Interview Preparation
+|   |   |   ├── HR Interview Questions
+|   |   |   ├── Interview Experience
+|   |   |   ├── Must DO questions
+|   |   |   ├── Practise Platform
+|   |   |   └── ...
+|   |   └── ...
+|   | 
+|   ├── Computer Science Preparation
+|   |   ├── Computer Science Basics
+|   |   ├── Programming
+|   |   ├── Math
+|   |   ├── Systems
+|   |   ├── Theory
+|   |   ├── Applications
+|   |   ├── Unix
+|   |   └── ...
 |   └── ...
 └── ...
 
