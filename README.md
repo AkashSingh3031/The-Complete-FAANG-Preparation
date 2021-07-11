@@ -3,7 +3,7 @@
 </p>    <br> 
  
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF0059&size=40&width=750&height=80&lines=The+Complete++FAANG+Preparation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Uchen&center=true&color=50F719FF&size=40&width=750&height=80&lines=The+Complete++FAANG+Preparation"/>
 </p>
  
 <p align="center">
@@ -25,9 +25,17 @@
 ---
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
-[![followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
+[![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akash-singh3031/) 
+[![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/919794423031)
+[![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/akash_singh3031)
+[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/akashsingh3031)
+[![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/akashsingh3031)
+[![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/akashsingh3031/)
+[![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/akash.singh3031/)
+[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](akashsingh27101998@gmail.com)
+[![Connect on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akashsingh3031)
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 ![Size](https://img.shields.io/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Repo%20Size%20)
 ![Lines of code](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?color=orange&label=Lines%20of%20Code)
@@ -35,7 +43,7 @@
 ![Stars](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Forks](https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Issues Open](https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
-![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
+![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
 ![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
 ![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?label=Awesome%20Contributors&style=for-the-badge&logo=github)
