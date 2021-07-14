@@ -339,17 +339,22 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 └── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 |   ├── Machine Learning & Data Science
 |   |   ├── Data Analysis
-|   |   ├── Machine Learning
 |   |   ├── Deep Learning
+|   |   |   ├── Computer Vision
+|   |   |   ├── Natural Language Processing
+|   |   |   └── ...
+|   |   ├── Machine Learning
 |   |   └── ...
 |   |
 |   ├── Internet of Things (IoT)
 |   |   └── ...
 |   |
 |   ├── Web Development
+|   |   ├── JavaScript Projects
+|   |   ├── ReactJS Projects
 |   |   └── ...
 |   |
-|   ├── Mobile Development              
+|   ├── Mobile Development  
 |   |   └── ...
 |   |
 |   ├── GUI Projects              
