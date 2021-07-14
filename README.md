@@ -14,8 +14,8 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
-## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
-<code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code>
+<!-- ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
+<code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code> -->
 
 ---
 
@@ -453,13 +453,35 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
       - [Others](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Others)
 
 ### 3. [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming)
-   - [HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerRank)
-   - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/GeeksforGeeks)
-   - [HackerEarth](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/HackerEarth)
-   - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeChef)
-   - [CodeForces](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/CodeForces)
-   - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/LeetCode)
-   - [InterviewBit](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/InterviewBit)
+   - [Google](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/01%5D.%20Google)
+      - [Code Jam](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/01%5D.%20Google/1%5D.%20Code%20Jam) 
+      - [Hash Code](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/01%5D.%20Google/2%5D.%20Hash%20Code)
+      - [Kick Start](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/01%5D.%20Google/3%5D.%20Kick%20Start)
+   - [Facebook](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/02%5D.%20Facebook)
+      - [Hacker Cup](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/02%5D.%20Facebook/1%5D.%20Hacker%20Cup)
+      - [FB Hack](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/02%5D.%20Facebook/2%5D.%20FB%20Hack)
+   - [HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank)
+      - [Practice](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice)
+      - [Compete](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/2%5D.%20Compete)
+   - [GeeksforGeeks](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/04%5D.%20GeeksforGeeks)
+      - [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/04%5D.%20GeeksforGeeks/1%5D.%20Data%20Structures)
+      - [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/04%5D.%20GeeksforGeeks/2%5D.%20Algorithms)
+      - [Must Do Coding Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/04%5D.%20GeeksforGeeks/3%5D.%20Must%20Do%20Coding%20Questions)
+   - [HackerEarth](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/05%5D.%20HackerEarth)
+      - [Practice](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/05%5D.%20HackerEarth/1%5D.%20Practice)
+      - [Compete](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/05%5D.%20HackerEarth/2%5D.%20Compete)
+   - [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/06%5D.%20CodeChef)
+      - [PRACTICE & LEARN](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/06%5D.%20CodeChef/1%5D.%20PRACTICE%20%26%20LEARN)
+      - [Compete](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/06%5D.%20CodeChef/2%5D.%20Compete)
+   - [CodeForces](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/07%5D.%20CodeForces)
+      - [Problem Set](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/07%5D.%20CodeForces/1%5D.%20Problem%20Set)
+      - [Contests](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/07%5D.%20CodeForces/2%5D.%20Contests)
+   - [LeetCode](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/08%5D.%20LeetCode)
+      - [Problems](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/08%5D.%20LeetCode/1%5D.%20Problems)
+      - [Contests](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/08%5D.%20LeetCode/2%5D.%20Contests)
+   - [InterviewBit](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/09%5D.%20InterviewBit)
+      - [Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/09%5D.%20InterviewBit/1%5D.%20Programming)
+      - [Contests](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/09%5D.%20InterviewBit/2%5D.%20Contests)
 
 ### 4. [Technical Subject](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects)
    - [Object Oriented Programming (OOPs)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP))
@@ -477,8 +499,15 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    
 ### 6. [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects)
    - [Machine Learning & Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS))
+      - [Data Analysis Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS)/Python/Data%20Analysis%20Projects)
+      - [Deep Learning Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS)/Python/Deep%20Learning%20Projects)
+         - [Computer Vision](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS)/Python/Deep%20Learning%20Projects/Computer%20Vision)
+         - [Natural Language Processing](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS)/Python/Deep%20Learning%20Projects/Natural%20Language%20Processing)
+      - [Machine Learning Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS)/Python/Machine%20Learning%20Projects) 
    - [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Internet%20of%20Things%20(IOT))
    - [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development)
+      - [JavaScript Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development/JavaScript%20Projects)
+      - [ReactJS Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development/ReactJS%20Projects)
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
    - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/GUI%20Projects)
 
