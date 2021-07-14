@@ -32,7 +32,7 @@
 [![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/akashsingh3031)
 [![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/akashsingh3031/)
 [![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/akash.singh3031/)
-[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](akashsingh27101998@gmail.com)
+[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:akashsingh27101998@gmail.com)
 [![Connect on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akashsingh3031)
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 ![Size](https://img.shields.io/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?color=red&label=Repo%20Size%20)
