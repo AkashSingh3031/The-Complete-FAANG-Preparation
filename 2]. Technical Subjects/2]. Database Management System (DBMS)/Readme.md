@@ -309,9 +309,10 @@ Types of Functional Dependency:
 - At every level , we have Key and Data Pointer and data pointer points to either block or record. 
 
 **Properties of B-Trees:** 
-- Root of B-tree can have children between 2 and P, where P is Order of tree. Order of tree – Maximum number of children a node can have. 
-- Internal node can have children between ⌈ P/2 ⌉ and P 
-- Internal node can have keys between ⌈ P/2 ⌉ – 1 and P-1
+- Root of B-tree can have children between **2** and **P**, where P is Order of tree. 
+- **Order of tree –** Maximum number of children a node can have. 
+- Internal node can have children between **⌈ P/2 ⌉** and **P** 
+- Internal node can have keys between **⌈ P/2 ⌉ – 1** and **P-1**
 
 ## B+ Trees 
 - In B+ trees, the structure of leaf and non-leaf are different, so their order is. Order of non-leaf will be higher as compared to leaf nodes. 
