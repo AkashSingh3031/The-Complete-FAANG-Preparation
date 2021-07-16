@@ -48,6 +48,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/AkashSingh3031/The-Complete-FAANG-Preparation?style=for-the-badge&logo=github)
 <br>
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/open-source.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-c-plus-plus.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-java.svg" />
