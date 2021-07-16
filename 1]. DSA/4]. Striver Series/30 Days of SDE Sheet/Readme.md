@@ -3,8 +3,7 @@
 ## Day-1: (Arrays)
 
 <details>
-
-<summary><img id="array" src="https://img.shields.io/badge/Arrays-6-brightgreen?style=for-the-badge"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-brightgreen?style=for-the-badge"></summary>
 
 
 | S.No.    | Topic:                | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
@@ -23,11 +22,11 @@
 <br/>
 </details>
 
+
 ## Day-2: (Arrays)
 
 <details>
-
-<summary><img id="array" src="https://img.shields.io/badge/Arrays-6-orange?style=for-the-badge"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-orange?style=for-the-badge"></summary>
 
 
 | S.No.    | Topic:                | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
@@ -35,10 +34,57 @@
 | 1        | `Array`               | Set Matrix Zeros                                                                                     |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=7"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
 | 2        | `Array`               | Pascal Triangle                                                                                      |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=6FLvhQjZqvM&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=8"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
 | 3        | `Array`               | Next Permutation                                                                                     |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=LuLCLgMElus&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=9"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
-| 4        | `Array`               | Inversion of Array                                                                                   |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=kQ1mJlwW-c0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=10"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
-| 5        | `Array`               | Stock Buy and Sell                                                                                   |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=eMSfBgbiEjk&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=11"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
-| 6        | `Array`               | Rotate Matrix                                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="#"><img src="https://img.shields.io/badge/Video-Solution-red"></a>  |
+| 4        | `Array`               | Inversion of Array                                                                                   |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=kQ1mJlwW-c0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=10"><img src="https://img.shields.io/badge/Video-Solution-green"></a> |
+| 5        | `Array`               | Stock Buy and Sell                                                                                   |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=eMSfBgbiEjk&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=11"><img src="https://img.shields.io/badge/Video-Solution-green"></a> |
+| 6        | `Array`               | Rotate Matrix                                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=Y72QeX0Efxw&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=12"><img src="https://img.shields.io/badge/Video-Solution-green"></a> |
   
+<br/>
+<div align="right">
+    <b><a href="#30-days-of-sde-sheet">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
+
+
+## Day-3: (Arrays/Maths)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Arrays_Maths-7-red?style=for-the-badge"></summary>
+
+
+| S.No.    | Topic:                | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
+| -------  |:---------------------:|------------------------------------------------------------------------------------------------------|:---------:|--------|--------|--------|----------------|
+| 1        | `Array/Maths`               | Search in a 2D matrix                                                                                |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=ZYpYur0znng&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=13"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 2        | `Array/Maths`               | Pow(X,n)                                                                                             |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=l0YC3876qxg&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=14"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 3        | `Array/Maths`               | Majority Element (>N/2 times)                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=AoX3BPWNnoE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=15"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 4        | `Array/Maths`               | Majority Element (>N/3 times)                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=yDbkQd9t2ig&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=16"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 5        | `Array/Maths`               | Grid Unique Paths                                                                                    |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=t_f0nwwdg5o&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=17"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 6        | `Array/Maths`               | Reverse Pairs (Leetcode)                                                                             |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=S6rsAlj_iB4&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=18"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 7        | `Array/Maths`               | Go through Puzzles from GFG                                                                          |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="#"><img src="https://img.shields.io/badge/Video-Solution-red"></a>  |
+  
+<br/>
+<div align="right">
+    <b><a href="#30-days-of-sde-sheet">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
+
+
+## Day-4: (Hashing)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Hashing-6-blue?style=for-the-badge"></summary>
+
+
+| S.No.    | Topic:                  | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
+| -------  |:-----------------------:|------------------------------------------------------------------------------------------------------|:---------:|--------|--------|--------|----------------|
+| 1        | `Hashing`               | 2 Sum problem                                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_&index=1"><img src="https://img.shields.io/badge/Video-Solution-green"></a>   |
+| 2        | `Hashing`               | 4 Sum problem                                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=4ggF3tXIAp0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=20"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 3        | `Hashing`               | Longest Consecutive Sequence                                                                         |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=qgizvmgeyUM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=21"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 4        | `Hashing`               | Largest Subarray with 0 sum                                                                          |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=xmguZ6GbatA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=22"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 5        | `Hashing`               | Count number of subarrays with given XOR                                                             |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=lO9R5CaGRPY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=23"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 6        | `Hashing`               | Longest substring without repeat                                                                     |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=25"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+ 
 <br/>
 <div align="right">
     <b><a href="#30-days-of-sde-sheet">⬆️ Back to Top</a></b>
