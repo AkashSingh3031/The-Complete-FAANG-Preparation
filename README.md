@@ -51,10 +51,15 @@
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/open-source.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
+<img src="https://forthebadge.com/images/badges/made-with-c.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-c-plus-plus.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-java.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-javascript.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+<img src="https://forthebadge.com/images/badges/uses-html.svg" />
+<img src="https://forthebadge.com/images/badges/uses-css.svg" />
+<img src="https://forthebadge.com/images/badges/uses-js.svg" />
+<img src="https://forthebadge.com/images/badges/uses-git.svg" />
 
 ---
 
