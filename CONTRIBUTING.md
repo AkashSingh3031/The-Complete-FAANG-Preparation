@@ -107,7 +107,7 @@ https://www.contributor-covenant.org/translations.
   
  ## STEP-1 : **Flow** :
  
- ## `Tree of Index`
+### `Tree of Index`
 ```js
 .
 ├── ...
@@ -334,6 +334,7 @@ https://www.contributor-covenant.org/translations.
 |   |   └── ...
 |   |
 |   ├── Database Management System (DBMS)
+|   |   ├── DBMS.md
 |   |   └── ...
 |   |
 |   ├── Structured Query Language (SQL)              
@@ -371,17 +372,22 @@ https://www.contributor-covenant.org/translations.
 └── 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 |   ├── Machine Learning & Data Science
 |   |   ├── Data Analysis
-|   |   ├── Machine Learning
 |   |   ├── Deep Learning
+|   |   |   ├── Computer Vision
+|   |   |   ├── Natural Language Processing
+|   |   |   └── ...
+|   |   ├── Machine Learning
 |   |   └── ...
 |   |
 |   ├── Internet of Things (IoT)
 |   |   └── ...
 |   |
 |   ├── Web Development
+|   |   ├── JavaScript Projects
+|   |   ├── ReactJS Projects
 |   |   └── ...
 |   |
-|   ├── Mobile Development              
+|   ├── Mobile Development  
 |   |   └── ...
 |   |
 |   ├── GUI Projects              
