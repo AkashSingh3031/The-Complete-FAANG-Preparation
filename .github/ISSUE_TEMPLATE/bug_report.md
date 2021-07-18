@@ -1,7 +1,7 @@
 ---
-Name: 🐛 Bug Report
-About: Submit a report to help us improve
-Labels: 'bug'
+name: 🐛 Bug Report
+about: Submit a report to help us improve
+labels: 'bug'
 
 ---
 
