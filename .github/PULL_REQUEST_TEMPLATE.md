@@ -4,9 +4,8 @@
 ## Changes
 - Description of changes
 
-
-## Screenshots 
-(prefer animated gif)
+- **Screenshots** 
+   - (prefer animated gif)
 
 ## Checklist
 - [ ] I've read the [Contributing Guidelines](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/CONTRIBUTING.md).
