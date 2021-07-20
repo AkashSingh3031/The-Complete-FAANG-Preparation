@@ -430,6 +430,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   ├── Unix
 |   |   └── ...
 |   └── ...
+|
+|
+└── 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒖𝒓𝒂𝒍 𝑰𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔
 └── ...
 
 ```
@@ -543,7 +546,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
       - [Applications](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#applications)
       - [Unix](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Computer%20Science%20Prep.md#unix)
 
-### 8. [Behavioural Interview Questions](https://github.com/GouravRusiya30/The-Complete-FAANG-Preparation/blob/behavioural-interview/7.%5D%20Behavioural%20Interview/behavioural-interview-ques.md)
+### 8. [Behavioural Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/7.%5D%20Behavioural%20Interview/behavioural-interview-ques.md)
 
 </br>
 
