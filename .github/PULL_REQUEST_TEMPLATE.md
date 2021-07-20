@@ -5,6 +5,9 @@
 ## Project URL
 - 
 
+## What is the current behavior?
+- Issue Number: #...
+
 ## Category
 - [ ] 𝑨𝑺𝑲 𝒀𝒐𝒖𝒓 𝑫𝒐𝒖𝒃𝒕𝒔
 - [ ] 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇.
@@ -14,12 +17,13 @@
 - [ ] 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
 - [ ] 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 - [ ] 𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝑩𝒐𝒐𝒌𝒔 𝒂𝒏𝒅 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔
+- [ ] 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒖𝒓𝒂𝒍 𝑰𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔
 
 ## Changes
 - Description of changes
 
 ## **Screenshots** 
-   - (prefer animated gif)
+- (prefer animated gif)
 
 ## Checklist
 - [ ] I've read the [Contributing Guidelines](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/CONTRIBUTING.md).
@@ -27,7 +31,4 @@
 - [ ] I've follow [Tree of Index](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#tree-of-index).
 - [ ] I've add work in proper folder
 - [ ] I've not delete/modify previous codes.
-
-## What is the current behavior?
-- Issue Number: N/A
 
