@@ -2,11 +2,11 @@
 - [ ] YES
 - [ ] NO
 
-<!-- ## Project URL
--  -->
+## Project URL
+- 
 
-<!-- ## What is the current behavior?
-- Issue Number: #... -->
+## What is the current behavior?
+- Issue Number: #...
 
 ## Category
 - [ ] 𝑨𝑺𝑲 𝒀𝒐𝒖𝒓 𝑫𝒐𝒖𝒃𝒕𝒔
@@ -23,7 +23,7 @@
 - Description of changes
 
 ## **Screenshots** 
-- (prefer animated gif)
+- (Add Runnig Work Demo Image)
 
 ## Checklist
 - [ ] I've read the [Contributing Guidelines](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/CONTRIBUTING.md).
