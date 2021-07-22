@@ -67,9 +67,8 @@
 
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
 
-## `Interview Questions`
 
-### `Table of Contents`
+## `Table of Contents 📋`
 | SNo. | **Contents** |
 | ---  | ---------    |
 | 0.   | [ASK Your Doubts](#0-ask-your-doubts) |
@@ -82,7 +81,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 7.   | [Impotant Books and Resources](#7-important-books-and-resources) |
 | 8.   | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
 
-## `Tree of Index`
+## `Tree of Index  🚀`
 ```js
 .
 ├── ...
