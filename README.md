@@ -437,7 +437,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 
 ```
 
-## `Domain`
+## `Domain 🔰`
 ### 0. [ASK Your Doubts](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/%60%60ASK%20Your%20Doubts%60%60)
    - [Data Structure & Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/%60%60ASK%20Your%20Doubts%60%60/DSA%20Questions)
    - [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/%60%60ASK%20Your%20Doubts%60%60/Technical%20Questions)
@@ -687,11 +687,11 @@ git push -u origin <your_branch_name>
 9. Congratulations! 🎉 Sit and relax, you've made your contribution to <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="The-Complete-FAANG-Preparation">The Complete FAANG Preparation</a>. ✌️ ❤️ 💥
 ---
 
-## `Stargazers Over Time` 
+## `Stargazers Over Time 📊📈` 
 
 [![Stargazers over time](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation.svg)](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation)
 
-## [`MIT LICENSE`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
+## [`MIT LICENSE 📜`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
 ```css
 MIT License
 
