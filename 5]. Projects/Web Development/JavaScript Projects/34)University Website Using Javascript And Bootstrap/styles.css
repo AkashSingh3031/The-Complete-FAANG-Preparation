@@ -1,0 +1,236 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    line-height: 1.7;
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.1rem;
+}
+
+/* === Navbar === */
+.navbar-nav > li{
+    padding-left:7px;
+    padding-right:7px;
+    letter-spacing: 1px;
+}
+.navbar-light .navbar-brand{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+    
+}
+a.navbar-brand span{
+    font-size: 1.7rem;
+    font-weight: 900;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #a18c8c;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+
+/* === Carousel === */
+
+.first-section {
+    background-position-x: center;
+    overflow: hidden;
+    height: 100vh;
+    vertical-align: middle;
+    background-size: cover;
+}
+
+/* === About us === */
+.section-title h2{
+    font-size: 3rem;
+}
+.about .content ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #a14949;
+}
+.about .content ul{
+    list-style: none;
+    padding-left: 0;
+}
+hr.style-two {
+    margin: auto;
+    border: 0;
+    width: 80%;
+    height: 5px;
+    background-image: linear-gradient(to right, #a18c8c, #7a0303,#a18c8c);
+}
+.campus{
+    box-shadow: 0px 6px 17px #a14949;
+}
+/* End About */
+
+/* === Programs section === */
+.programs .course-item {
+    border-radius: 5px;
+    border: 3px solid #eef0ef;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.4);
+
+}
+
+.programs .course-content {
+    padding: 15px;
+    
+}
+
+/* ==== Events section ==== */
+.events .card {
+    border: 0;
+    padding: 0 30px;
+    margin-bottom: 60px;
+    position: relative;
+}
+  
+.events .card-img {
+    width: calc(100% + 60px);
+    margin-left: -30px;
+    overflow: hidden;
+    z-index: 9;
+    border-radius: 0;
+}
+
+.events .card-img img {
+    max-width: 100%;
+}
+
+.events .card-body {
+    z-index: 10;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0px 6px 17px #a14949;
+    margin-top: -60px;
+}
+
+.events .card-title {
+    font-weight: 700;
+    text-align: center;
+}
+
+.events .card-title a {
+    color: #000000;
+    transition: 0.3s;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+.events .card-text {
+    color: #5e5e5e;
+}
+.btn-outline-primary {
+    color: #a14949;
+    border-color:#a14949;
+}
+
+.btn-outline-primary:hover {
+    background-color: #a14949;
+    border-color:#a14949;
+}  
+.events a {
+    color: #777777;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    transition: 0.3s;
+}
+  
+.events .card:hover .card-body .card-title a {
+    color: #a14949;
+    font-size: 1.5rem;
+    
+}
+
+/* End Events */
+
+/* === Trainers === */
+.trainers .member {
+    text-align: center;
+    margin-bottom: 20px;
+    background: #fff;
+    border: 1px solid #eef0ef;
+}
+
+.trainers .member img {
+    margin: -1px -1px 30px -1px;
+}
+
+.trainers .member .member-content {
+    padding: 0 20px 30px 20px;
+}
+
+.trainers .member h4 {
+    font-weight: 700;
+    margin-bottom: 2px;
+    
+}
+.shade{
+    color: #a14949;
+    font-size: 1.9rem;
+}
+.trainers .member span {
+    display: block;
+    font-size: 20px;
+}
+
+.trainers .member p {
+    padding-top: 10px;
+    font-size: 14px;
+    color: #aaaaaa;
+}
+
+.trainers .member .social {
+    margin-top: 15px;
+}
+
+.trainers .member .social a {
+    color: #7e9486;
+
+}
+
+.trainers .member .social a:hover {
+    color: #a14949;
+}
+
+.trainers .member .social i {
+    font-size: 18px;
+    margin: 0 2px;
+}
+
+/* === Footer section === */
+
+footer
+{
+    background-color:#1d262f;
+    color: white;
+}
+.footer-links-soi 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1d262f;
+
+}
+.footer-links-soi li 
+{
+    float: left;
+}
+.footer-links-soi li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding-right: 32px;
+    text-decoration: none;
+}
+#submit {
+    width: 50%;
+    background-color: #a14949;  
+    border: #a14949;
+    color: #fff;
+}

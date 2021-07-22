@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dream University</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;700&family=Nunito:wght@600;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <!-- header section -->
+        <header>
+            <!-- navbar -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container">
+                    <a class="navbar-brand mr-5 pr-3" href="#">
+                        <span><i class="fas fa-graduation-cap"></i>Dream</span>
+                        University
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+                            <li class="nav-item ">
+                                <a class="nav-link" aria-current="page" href="#home">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#about">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#programs">Programs</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#events">Events</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#trainers">Faculty</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#contact">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- end of navbar -->
+        </header>
+        <!-- end of header section -->
+
+        <!-- main section -->
+        <main>
+            <!-- ====== Carousel(image slider) ====== -->
+            <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+                <!-- carousel indicators -->
+                <ol class="carousel-indicators pb-5">
+                    <li data-target="#carouselExampleInterval" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleInterval" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleInterval" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" id="home" role="listbox">
+                    <div class="carousel-item active">
+                        <div id="home" class="first-section" style="background-image:url('imgs/main_final.jpg');">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div id="home" class="first-section" style="background-image:url('imgs/main_class.jpg');">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div id="home" class="first-section" style="background-image:url('imgs/main_graduation.jpg');">
+                        </div>
+                    </div>
+                </div>
+                <!-- left control icon -->
+                <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </a>
+                <!-- right control icon -->
+                <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </a>
+            </div>
+            <!-- end of carousel -->
+
+            <!-- ======= About Section ======= -->
+            <section id="about" class="about">
+                <div class="container my-5">
+                    <div class="section-title mb-5 text-center mb-5">
+                        <hr class="style-two">  
+                        <h2>About Us</h2>
+                        <hr class="style-two">
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 order-1 order-lg-2 hover-1 campusImg">
+                            <img src="imgs/campus.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+                            <h3>You’re One of a Kind. So Are We</h3>
+                            <p class="font-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                magna aliqua.
+                            </p>
+                            <ul>
+                                <li><i class="far fa-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                <li><i class="far fa-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                                <li><i class="far fa-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                            </ul>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                            </p>
+                            <button class =" btn btn-outline-primary" >Learn More</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- end of About section -->
+
+             <!-- ======= Programs Section ======= -->
+            <section id="programs" class="programs">
+                <div class="container my-5">
+                    <div class="section-title mb-5 text-center">
+                        <hr class="style-two">
+                        <h2>Our Programs</h2>
+                        <hr class="style-two">
+                    </div>
+            
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                            <div class="course-item">
+                                <img src="imgs/program01.jpeg" class="img-fluid" alt="...">
+                                <div class="course-content">
+                                    <h3>Program 1</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                </div>
+                                <div class="container mb-3">
+                                    <button class =" btn btn-outline-primary " >Learn More</button>
+                                </div>
+                            </div>
+                        </div> <!-- End Program Item-->
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                            <div class="course-item">
+                                <img src="imgs/program02.jpeg" class="img-fluid" alt="...">
+                                <div class="course-content">
+                                    <h3>Program 2</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>                                
+                                </div>
+                                <div class="container mb-3">
+                                    <button class =" btn btn-outline-primary " >Learn More</button>
+                                </div>
+                            </div>
+                        </div> <!-- End Program Item-->
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                            <div class="course-item">
+                                <img src="imgs/program03.jpeg" class="img-fluid" alt="...">
+                                <div class="course-content">                
+                                    <h3>Program 3</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                </div>
+                                <div class="container mb-3">
+                                    <button class =" btn btn-outline-primary" >Learn More</button>
+                                </div>
+                            </div>
+                        </div> <!-- End Program Item-->
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                            <div class="course-item">
+                                <img src="imgs/program04.jpeg" class="img-fluid" alt="...">
+                                <div class="course-content">
+                                    <h3>Program 4</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                </div>
+                                <div class="container mb-3">
+                                    <button class =" btn btn-outline-primary " >Learn More</button>
+                                </div>
+                            </div>
+                        </div> <!-- End Program Item-->
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                            <div class="course-item">
+                                <img src="imgs/program05.jpeg" class="img-fluid" alt="...">
+                                <div class="course-content">
+                                    <h3>Program 5</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>                                
+                                </div>
+                                <div class="container mb-3">
+                                    <button class =" btn btn-outline-primary " >Learn More</button>
+                                </div>
+                            </div>
+                        </div> <!-- End Program Item-->
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                            <div class="course-item">
+                                <img src="imgs/program06.jpeg" class="img-fluid" alt="...">
+                                <div class="course-content">                
+                                    <h3>Program 6</h3>
+                                    <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                                </div>
+                                <div class="container mb-3">
+                                    <button class =" btn btn-outline-primary " >Learn More</button>
+                                </div>
+                            </div>
+                        </div> <!-- End Program Item-->            
+                    </div>        
+                </div>
+            </section>
+            <!-- End Program Section -->
+
+            <!-- ====== Events Section ====== -->
+            <section id="events" class="events">
+                <div class="container my-5">
+                    <div class="section-title mb-5 text-center">
+                        <hr class="style-two">  
+                        <h2>Upcoming Events</h2>
+                        <hr class="style-two">
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-6 d-flex align-items-stretch">
+                            <div class="card eventCard">
+                                <div class="card-img">
+                                    <img src="imgs/events-1.jpg" alt="...">
+                                </div>
+                                <div class="card-body text-center">
+                                    <h5 class="card-title"><a href="">Introduction to webdesign</a></h5>
+                                    <p class="font-italic ">Saturday, September 16th at 5:00 pm</p>
+                                    <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                    <div class="col text-center">
+                                        <button class =" btn btn-outline-primary ml-auto" >View More</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 d-flex align-items-stretch">
+                            <div class="card eventCard">
+                                <div class="card-img">
+                                    <img src="imgs/events-2.jpg" alt="...">
+                                </div>
+                                <div class="card-body text-center">
+                                    <h5 class="card-title"><a href="">Marketing Strategies</a></h5>
+                                    <p class="font-italic">Sunday, November 30th at 9:00 pm</p>
+                                    <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                    <div class="col text-center">
+                                        <button class =" btn btn-outline-primary ml-auto" >View More</button>
+                                    </div>                                
+                                </div>
+                            </div>            
+                        </div>
+                    </div>          
+                </div>
+            </section>
+            <!-- End Events Section -->
+            
+            <!-- ======= Trainers Section ======= -->
+            <section id="trainers" class="trainers">
+                <div class="container my-5">
+                    <div class="section-title mb-5 text-center">
+                        <hr class="style-two">
+                        <h2>Our Team</h2>
+                        <hr class="style-two">
+                    </div>
+            
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                            <div class="member">
+                                <img src="imgs/teacher-3.jpg" class="img-fluid" alt="">
+                                <div class="member-content">
+                                    <h4>ABC</h4>
+                                    <span>Program 1</span>
+                                    <p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    </p>
+                                    <div class="social">
+                                        <a href=""><i class="fab fa-twitter mx-2"></i></a>
+                                        <a href=""><i class="fab fa-facebook-f mx-2"></i></a>
+                                        <a href=""><i class="fab fa-instagram mx-2"></i></a>
+                                        <a href=""><i class="fab fa-linkedin mx-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                            <div class="member">
+                                <img src="imgs/teacher-8.jpg" class="img-fluid" alt="">
+                                <div class="member-content">
+                                    <h4>DEF</h4>
+                                    <span>Program 2</span>
+                                    <p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    </p>
+                                    <div class="social">
+                                        <a href=""><i class="fab fa-twitter mx-2"></i></a>
+                                        <a href=""><i class="fab fa-facebook-f mx-2"></i></a>
+                                        <a href=""><i class="fab fa-instagram mx-2"></i></a>
+                                        <a href=""><i class="fab fa-linkedin mx-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                            <div class="member">
+                                <img src="imgs/teacher-6.jpg" class="img-fluid" alt="">
+                                <div class="member-content">
+                                    <h4>GHI</h4>
+                                    <span>Program 3</span>
+                                    <p>
+                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    </p>
+                                    <div class="social">
+                                        <a href=""><i class="fab fa-twitter mx-2"></i></a>
+                                        <a href=""><i class="fab fa-facebook-f mx-2"></i></a>
+                                        <a href=""><i class="fab fa-instagram mx-2"></i></a>
+                                        <a href=""><i class="fab fa-linkedin mx-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                            <div class="member">
+                                <img src="imgs/teacher-7.jpg" class="img-fluid" alt="">
+                                <div class="member-content">
+                                    <h4>JKL</h4>
+                                    <span>Program 4</span>
+                                    <p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    </p>
+                                    <div class="social">
+                                        <a href=""><i class="fab fa-twitter mx-2"></i></a>
+                                        <a href=""><i class="fab fa-facebook-f mx-2"></i></a>
+                                        <a href=""><i class="fab fa-instagram mx-2"></i></a>
+                                        <a href=""><i class="fab fa-linkedin mx-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                            <div class="member">
+                                <img src="imgs/teacher-2.jpg" class="img-fluid" alt="">
+                                <div class="member-content">
+                                    <h4>MNO</h4>
+                                    <span>Program 5</span>
+                                    <p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    </p>
+                                    <div class="social">
+                                        <a href=""><i class="fab fa-twitter mx-2"></i></a>
+                                        <a href=""><i class="fab fa-facebook-f mx-2"></i></a>
+                                        <a href=""><i class="fab fa-instagram mx-2"></i></a>
+                                        <a href=""><i class="fab fa-linkedin mx-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                            <div class="member">
+                                <img src="imgs/teacher-1.jpg" class="img-fluid" alt="">
+                                <div class="member-content">
+                                    <h4>PQR</h4>
+                                    <span>Program 6</span>
+                                    <p>
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    </p>
+                                    <div class="social">
+                                        <a href=""><i class="fab fa-twitter mx-2"></i></a>
+                                        <a href=""><i class="fab fa-facebook-f mx-2"></i></a>
+                                        <a href=""><i class="fab fa-instagram mx-2"></i></a>
+                                        <a href=""><i class="fab fa-linkedin mx-2"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+            
+                    </div>
+        
+                </div>
+            </section><!-- End Trainers Section -->
+         </main>
+        <!-- end of main section-->
+
+        <!-- footer section -->
+        <footer>
+            <div class="container" id = "contact">
+                <div class="row justify-content-around py-3">
+                    <div class="col-lg-4 col-md-4 col-xs-12 mr-5 mb-3">
+                        <!-- join us form -->
+                        <div class="join_us">
+                            <form id="joinUs" class="" name="joinUs">
+                                <h4 class="text-white text-center mb-3">---- Get In Touch ----</h4>
+                                <div class="row row-fluid">
+                                    <div class="col-12 my-2">
+                                        <input type="text" name="full_name" id="full_name" class="form-control" placeholder="Your Full Name">
+                                    </div>
+                                    <div class="col-12 my-2">
+                                        <input type="email" name="email" id="email" class="form-control" placeholder="Your Email">
+                                    </div>
+                                    <div class="col-12 my-2">
+                                        <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone Number">
+                                    </div>
+                                    <div class="col-12 my-2">
+                                        <select id="course" name="course" class="w-100 py-2 form-select">
+                                            <option selected>Select a Program</option>
+                                            <option value="course 1">Program 1</option>
+                                            <option value="course 2">Program 2</option>
+                                            <option value="course 3">Program 3</option>
+                                            <option value="course 4">Program 4</option>
+                                            <option value="course 5">Program 5</option>
+                                            <option value="course 6">Program 6</option>
+                                        </select>                    
+                                    </div>
+                                    <div class="text-center my-2 d-flex justify-content-center ">
+                                        <button href="#" id="submit" class="btn btn-light btn-radius btn-block ">Send</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- contact details for the institute -->
+                    <div class="col-lg-4 col-md-4 col-xs-12 ml-5 mb-3">
+                        <div class="widget clearfix">
+                            <div class="widget-title pb-2">
+                                <h3>---- Contact Us ----</h3>
+                            </div>
+                                <div class="info">
+                                    <div class="address">
+                                        <h5><i class="fas fa-map-marker-alt mr-2"></i> Location :</h5>
+                                        <p>A508 Dream Street, New York, NY 585022</p>
+                                    </div>
+                        
+                                    <div class="email">
+                                        <h5><i class="fas fa-envelope mr-2"></i> Email :</h5>
+                                        <p>dream@university.com</p>
+                                    </div>
+                        
+                                    <div class="phone">
+                                        <h5><i class="fas fa-phone-alt mr-2"></i> Call :</h5>
+                                        <p>+1 5589 xx488 55s</p>
+                                    </div>
+                    
+                                </div>
+        
+                            <!-- important links -->
+                            <div class="footer-right">
+                                <ul class="footer-links-soi">
+                                    <li><a href="https://m.facebook.com/akash.khandelwal.1042?ref=bookmarks"><i class="fab fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="https://github.com/Akashkhandelwal191"><i class="fab fa-github fa-lg"></i></a></li>
+                                    <li><a href="https://twitter.com/skykhandelwal26"><i class="fab fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="https://www.instagram.com/skykhandelwal1999/"><i class="fab fa-instagram fa-lg"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/akash-khandelwal-5b09531aa"><i class="fab fa-linkedin-in fa-lg"></i></a></li>
+                                    <li>Created by Akash Khandelwal <i class="fa fa-heart" aria-hidden="true"></i></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end of footer section -->
+
+
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.min.js" integrity="sha384-5h4UG+6GOuV9qXh6HqOLwZMY4mnLPraeTrjT5v07o347pj6IkfuoASuGBhfDsp3d" crossorigin="anonymous"></script>
+        <script src = "script.js"></script>
+    </body>
+</html>
