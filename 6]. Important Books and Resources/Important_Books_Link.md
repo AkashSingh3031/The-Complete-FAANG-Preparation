@@ -46,34 +46,51 @@
 └── ...
 ```
 
-1. `Programming Language`
+<!-- 1. `Programming Language`
 2. [`Data Structures`](#data-structures)
 3. [`Algorithms`](#algorithms)
 4. [`Competitive Programming`](#competitive-programming)
 5. [`Coding Interviews`](#coding-interviews)
 6. `Technical Subjects`
 7. `Aptitude & Reasoning`
-8. [`Low Level Design`](#low-level-design)
+8. [`Low Level Design`](#low-level-design) -->
 
 ---
 
-## `Data Structures`
+## 1. `Programming Language`
+- `C Language`
+   - [Let Us C by `Yashwant P. Kanetkar`]()
+   - [C in Depth by `S. K. Srivastava`]()
+- `C++ Language`
+   - [Let Us C++ by `Yashwant P. Kanetkar`]()
+   - [C++: The Complete Reference by `Herbert Schildt`]()
+- `Python Language`
+   - [Core Python by `R. Nageswara Rao`]()
+- `Java Language`
+   - [Core Java - Black Book by `R. Nageswara Rao`]()
+
+## 2. `Data Structures`
 - [Data Structures and Algorithms by `Narasimha Karumanchi`]()
 - [Data Structures and Algorithms in Python by `Michael T. Goodrich`]()
 
-## `Algorithms`
+## 3. `Algorithms`
 - [Introduction to Algorithms by `Thomas H. Cormen`]()
 - [Algorithms by `Robert Sedgewick` and `Kevin Wayne`]()
 
-## `Competitive Programming`
+## 4. `Competitive Programming`
 - [Guide to Competitive Programming by `Antti Laaksonen`]()
 - [Competitive Programmer’s Handbook by `Antti Laaksonen`]()
 
-
-## `Coding Interviews`
+## 5. `Coding Interviews`
 - [Cracking the Coding Interview by `GAYLE LAAKMANN MCDOWELL `]()
 
-## `Low Level Design`
+## 6. `Technical Subjects`
+-
+
+## 7. `Aptitude & Reasoning`
+-
+
+## 8. `Low Level Design`
 - [Object Oriented Design](https://www.oodesign.com/)
-- 
+
 ---
