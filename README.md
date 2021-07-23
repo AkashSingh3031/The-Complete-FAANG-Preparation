@@ -364,7 +364,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Mobile Development  
 |   |   └── ...
 |   |
-|   ├── GUI Projects              
+|   ├── Desktop Development
+|   |   ├── Console Projects
+|   |   ├── GUI Projects              
 |   |   └── ...
 |   |
 |   └── ...
@@ -520,7 +522,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
       - [JavaScript Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development/JavaScript%20Projects)
       - [ReactJS Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Web%20Development/ReactJS%20Projects)
    - [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Mobile%20Development)
-   - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/GUI%20Projects)
+   - [Desktop Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Desktop%20Development)
+      - [Console Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Desktop%20Development/Console%20Projects)
+      - [GUI Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Desktop%20Development/GUI%20Projects) 
 
 ### 7. [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources)
    - [Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
