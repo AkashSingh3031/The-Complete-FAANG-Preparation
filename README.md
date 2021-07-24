@@ -560,7 +560,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉` `37`
+## `Awesome Contributors ✨🎉` `38`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
