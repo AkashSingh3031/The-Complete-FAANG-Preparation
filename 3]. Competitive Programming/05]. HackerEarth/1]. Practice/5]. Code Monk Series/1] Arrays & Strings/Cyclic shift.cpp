@@ -132,7 +132,7 @@ int main()
         cin>>s;
         s = flip(s);
         vector<int> z = z_function(s);
-        for(ll i = 0; i < z.size(); i++){ cout << z[i]<<" ";}
+        // for(ll i = 0; i < z.size(); i++){ cout << z[i]<<" ";}
         ll period=n;
         for(ll i=1;i<n;i++)
         {
