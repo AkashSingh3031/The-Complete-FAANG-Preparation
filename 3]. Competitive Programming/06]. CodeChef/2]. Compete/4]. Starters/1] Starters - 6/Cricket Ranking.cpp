@@ -7,20 +7,13 @@
     ***********************************************************
 
 
-In a season, each player has three statistics: runs, wickets, and catches. 
-Given the season stats of two players A and B, denoted by R, W, and C respectively, the person who is better than the other in the most statistics is regarded as the better overall player. 
-Tell who is better amongst A and B. It is known that in each statistic, the players have different values.
+Ann has recently started commuting by subway. We know that a one ride subway ticket costs a rubles. Besides, Ann found out that she can buy a special ticket for m rides (she can buy it several times). It costs b rubles. Ann did the math; she will need to use subway n times. Help Ann, tell her what is the minimum sum of money she will have to spend to make n rides?
 
-Input Format:
+Input
+The single line contains four space-separated integers n, m, a, b (1 ≤ n, m, a, b ≤ 1000) — the number of rides Ann has planned, the number of rides covered by the m ride ticket, the price of a one ride ticket and the price of an m ride ticket.
 
-The first line contains an integer T, the number of test cases. Then the test cases follow.
-Each test case contains two lines of input.
-The first line contains three integers R1, W1, C1, the stats for player A.
-The second line contains three integers R2, W2, C2, the stats for player B.
-
-Output Format:
-
-For each test case, output in a single line "A" (without quotes) if player A is better than player B and "B" (without quotes) otherwise.
+Output
+Print a single integer — the minimum sum in rubles that Ann will need to spend.
 
 
 
@@ -58,13 +51,11 @@ int main()
     while(t--) {
         int r1,w1,c1,r2,w2,c2;
         cin >> r1 >> w1 >> c1 >> r2 >> w2 >> c2;
-        int a,b;
+        int a=0,b=0;
         if(r1>r2) a++; else b++;
         if(w1>w2) a++; else b++;
         if(c1>c2) a++; else b++;
-        if(a>b) 
-        cout << "A\n";
-    else cout << "B\n";
+        if(a>b) cout << "A\n"; else cout << "B\n";
 
     }
 }
