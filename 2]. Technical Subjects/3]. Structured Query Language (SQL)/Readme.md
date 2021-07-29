@@ -184,46 +184,76 @@ WHERE Address IS NULL;
 
 
 
-<!-- 
+
 ## UPDATE:
 - The UPDATE statement is used to modify the existing records in a table.
-Syntax –
-● UPDATE table_name
+
+**Syntax –**
+`UPDATE table_name
 SET column1 = value1, column2 = value2, ...
-WHERE condition;
-Ex –
-● UPDATE Customers
+WHERE condition;`
+
+**Example –**
+```sql
+UPDATE Customers
 SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
 WHERE CustomerID = 1;
-DELETE:
-The DELETE statement is used to delete existing records in a table.
-Syntax –
-● DELETE FROM table_name WHERE condition; ● DELETE FROM table_name;
-In 2ndsyntax, all rows are deleted. The table structure, attributes, and indexes will be intact
-Ex –
-● DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
-SELECT TOP:
-The SELECT TOP clause is used to specify the number of records to return.
-Syntax –
-● SELECT TOP number|percent column_name(s)
+```
+
+## DELETE:
+- The DELETE statement is used to delete existing records in a table.
+
+**Syntax –**
+`DELETE FROM table_name WHERE condition;`
+`DELETE FROM table_name;`
+
+- In 2nd syntax, all rows are deleted. The table structure, attributes, and indexes will be intact
+
+**Example –**
+```sql
+DELETE 
+FROM Customers
+WHERE CustomerName='Alfreds Futterkiste';
+```
+
+## SELECT TOP:
+- The SELECT TOP clause is used to specify the number of records to return.
+
+**Syntax –**
+`SELECT TOP number | percent column_name(s)
 FROM table_name
-WHERE condition; ● SELECT column_name(s)
+WHERE condition;` 
+
+`SELECT column_name(s)
 FROM table_name
 WHERE condition
-LIMIT number; ● SELECT column_name(s)
+LIMIT number;` 
+
+`SELECT column_name(s)
 FROM table_name
 ORDER BY column_name(s)
-FETCH FIRST number ROWS ONLY; ● SELECT column_name(s)
+FETCH FIRST number ROWS ONLY;`
+
+`SELECT column_name(s)
 FROM table_name
-WHERE ROWNUM <= number;
-*In case the interviewer asks other than the TOP, rest are also correct. (Diff. DB Systems)
-Ex –
-● SELECT TOP 3 * FROM Customers;
-● SELECT * FROM Customers
+WHERE ROWNUM <= number;`
+
+- In case the interviewer asks other than the TOP, rest are also correct. (Diff. DB Systems)
+
+**Example –**
+```sql
+SELECT TOP 3 * FROM Customers;
+```
+```sql
+SELECT * FROM Customers
 LIMIT 3;
-● SELECT * FROM Customers
+```
+```sql
+SELECT * FROM Customers
 FETCH FIRST 3 ROWS ONLY;
-Aggregate Functions:
+```
+<!-- 
+## Aggregate Functions:
 MIN():
 The MIN() function returns the smallest value of the selected column.
 Syntax –
