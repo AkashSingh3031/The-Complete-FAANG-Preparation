@@ -46,9 +46,9 @@
 ## SELECT:
 - The SELECT statement is used to select data from a database.
 
-**Syntax:-**<br>
-   `SELECT column1, column2, ...
-   FROM table_name;`
+**Syntax:-**
+- `SELECT column1, column2, ... 
+FROM table_name;`
    
    - Here, column1, column2, ... are the field names of the table you want to select data from. 
    - If you want to select all the fields available in the table, use the following syntax: 
@@ -64,7 +64,7 @@ FROM Customers;
 - The SELECT DISTINCT statement is used to return only distinct (different) values.
 
 **Syntax –**
-`SELECT DISTINCT column1, column2, ...
+- `SELECT DISTINCT column1, column2, ...
 FROM table_name;`
 
 **Example –**
@@ -77,7 +77,7 @@ FROM Customers;
 - The WHERE clause is used to filter records.
 
 **Syntax –**
-`SELECT column1, column2, ...
+- `SELECT column1, column2, ...
 FROM table_name
 WHERE condition;`
 
@@ -97,7 +97,7 @@ WHERE Country='Mexico';
 | <=           | Less than or equal     |
 | <>           | Not equal. Note: In some versions of SQL this operator may be written as != |
 
-## AND, OR and NOT:
+## AND, OR, and NOT:
 - The WHERE clause can be combined with AND, OR, and NOT operators.
 - The AND and OR operators are used to filter records based on more than one condition:
    -The AND operator displays a record if all the conditions separated by AND are TRUE.
@@ -130,7 +130,7 @@ WHERE Country='Germany' AND (City='Berlin' OR City='München');
 - The ORDER BY keyword sorts the records in ascending order by default. To sort the records in descending order, use the DESC keyword.
 
 **Syntax –**
-`SELECT column1, column2, ...
+- `SELECT column1, column2, ...
 FROM table_name
 ORDER BY column1, column2, ... ASC|DESC;`
 
@@ -178,18 +178,11 @@ FROM Customers
 WHERE Address IS NULL;
 ```
 
-
-
-
-
-
-
-
 ## UPDATE:
 - The UPDATE statement is used to modify the existing records in a table.
 
 **Syntax –**
-`UPDATE table_name
+- `UPDATE table_name
 SET column1 = value1, column2 = value2, ...
 WHERE condition;`
 
@@ -204,8 +197,8 @@ WHERE CustomerID = 1;
 - The DELETE statement is used to delete existing records in a table.
 
 **Syntax –**
-`DELETE FROM table_name WHERE condition;`
-`DELETE FROM table_name;`
+- `DELETE FROM table_name WHERE condition;`
+- `DELETE FROM table_name;`
 
 - In 2nd syntax, all rows are deleted. The table structure, attributes, and indexes will be intact
 
@@ -220,21 +213,21 @@ WHERE CustomerName='Alfreds Futterkiste';
 - The SELECT TOP clause is used to specify the number of records to return.
 
 **Syntax –**
-`SELECT TOP number | percent column_name(s)
+- `SELECT TOP number | percent column_name(s)
 FROM table_name
 WHERE condition;` 
 
-`SELECT column_name(s)
+- `SELECT column_name(s)
 FROM table_name
 WHERE condition
 LIMIT number;` 
 
-`SELECT column_name(s)
+- `SELECT column_name(s)
 FROM table_name
 ORDER BY column_name(s)
 FETCH FIRST number ROWS ONLY;`
 
-`SELECT column_name(s)
+- `SELECT column_name(s)
 FROM table_name
 WHERE ROWNUM <= number;`
 
@@ -252,235 +245,324 @@ LIMIT 3;
 SELECT * FROM Customers
 FETCH FIRST 3 ROWS ONLY;
 ```
-<!-- 
+
 ## Aggregate Functions:
-MIN():
-The MIN() function returns the smallest value of the selected column.
-Syntax –
-● SELECT MIN(column_name)
+### `MIN():`
+- The MIN() function returns the smallest value of the selected column.
+
+**Syntax –**
+- `SELECT MIN(column_name)
 FROM table_name
-WHERE condition;
-Ex –
-● SELECT MIN(Price) AS SmallestPrice
+WHERE condition;`
+
+**Example –**
+```sql
+SELECT MIN(Price) AS SmallestPrice
 FROM Products;
-MAX():
-The MAX() function returns the largest value of the selected column.
-Syntax –
-● SELECT MAX(column_name)
+```
+
+### `MAX():`
+- The MAX() function returns the largest value of the selected column.
+
+**Syntax –**
+- `SELECT MAX(column_name)
 FROM table_name
-WHERE condition;
-Ex –
-● SELECT MAX(Price) AS LargestPrice
+WHERE condition;`
+
+**Example –**
+```sql
+SELECT MAX(Price) AS LargestPrice
 FROM Products;
-COUNT():
-The COUNT() function returns the number of rows that matches a specified criterion.
-Syntax –
-● SELECT COUNT(column_name)
+```
+
+
+### `COUNT():`
+- The COUNT() function returns the number of rows that matches a specified criterion.
+
+**Syntax –**
+- `SELECT COUNT(column_name)
 FROM table_name
-WHERE condition;
-Ex –
-● SELECT COUNT(ProductID)
+WHERE condition;`
+
+**Example –**
+```sql
+SELECT COUNT(ProductID)
 FROM Products;
-AVG():
-The AVG() function returns the average value of a numeric column.
-Syntax –
-● SELECT AVG(column_name)
+```
+
+### `AVG():`
+- The AVG() function returns the average value of a numeric column.
+
+**Syntax –**
+- `SELECT AVG(column_name)
 FROM table_name
-WHERE condition;
-Ex –
-● SELECT AVG(Price)
+WHERE condition;`
+
+**Example –**
+```sql
+SELECT AVG(Price)
 FROM Products;
-SUM():
-The SUM() function returns the total sum of a numeric column.
-Syntax –
-● SELECT SUM(column_name)
+```
+
+### `SUM():`
+- The SUM() function returns the total sum of a numeric column.
+
+**Syntax –**
+- `SELECT SUM(column_name)
 FROM table_name
-WHERE condition;
-Ex –
-● SELECT SUM(Quantity)
+WHERE condition;`
+
+**Example –**
+```sql
+SELECT SUM(Quantity)
 FROM OrderDetails;
-LIKE Operator:
-The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
-There are two wildcards often used in conjunction with the LIKE operator:
-● The percent sign (%) represents zero, one, or multiple characters ● The underscore sign (_) represents one, single character
-Syntax –
-● SELECT column1, column2, ...
+```
+
+## LIKE Operator:
+- The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+- There are two wildcards often used in conjunction with the LIKE operator:
+   - The percent sign (%) represents zero, one, or multiple characters 
+   - The underscore sign (_) represents one, single character
+
+**Syntax –**
+- `SELECT column1, column2, ...
 FROM table_name
-WHERE columnN LIKE pattern;
-LIKE Operator Description
-WHERE CustomerName LIKE 'a%' Finds any values that start with "a"
-WHERE CustomerName LIKE '%a' Finds any values that end with "a"
-WHERE CustomerName LIKE '%or%' Finds any values that have "or" in any position
-WHERE CustomerName LIKE '_r%' Finds any values that have "r" in the second position
-WHERE CustomerName LIKE 'a_%' Finds any values that start with "a" and are at
-least 2 characters in length
-WHERE CustomerName LIKE 'a__%' Finds any values that start with "a" and are at
-least 3 characters in length
-WHERE ContactName LIKE 'a%o' Finds any values that start with "a" and ends with "o"
-IN:
-The IN operator allows you to specify multiple values in a WHERE clause.
-The IN operator is a shorthand for multiple OR conditions.
-Syntax –
-● SELECT column_name(s)
+WHERE columnN LIKE pattern;`
+
+**LIKE Operator Description**
+- WHERE CustomerName LIKE 'a%' Finds any values that start with "a"
+- WHERE CustomerName LIKE '%a' Finds any values that end with "a"
+- WHERE CustomerName LIKE '%or%' Finds any values that have "or" in any position
+- WHERE CustomerName LIKE '_r%' Finds any values that have "r" in the second position
+- WHERE CustomerName LIKE 'a_%' Finds any values that start with "a" and are at least 2 characters in length
+- WHERE CustomerName LIKE 'a__%' Finds any values that start with "a" and are at least 3 characters in length
+- WHERE ContactName LIKE 'a%o' Finds any values that start with "a" and ends with "o"
+
+## IN:
+- The IN operator allows you to specify multiple values in a WHERE clause.
+- The IN operator is a shorthand for multiple OR conditions.
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table_name
-WHERE column_name IN (value1, value2, ...);
-● SELECT column_name(s)
+WHERE column_name IN (value1, value2, ...);`
+- `SELECT column_name(s)
 FROM table_name
-WHERE column_name IN (SELECT STATEMENT);
-Ex –
-● SELECT * FROM Customers
+WHERE column_name IN (SELECT STATEMENT);`
+
+**Example –**
+```sql
+SELECT * FROM Customers
 WHERE Country IN ('Germany', 'France', 'UK');
-● SELECT * FROM Customers
+```
+```sql
+SELECT * FROM Customers
 WHERE Country IN (SELECT Country FROM Suppliers);
-BETWEEN:
-The BETWEEN operator selects values within a given range. The values can be numbers, text, or
-dates.
+```
+
+## BETWEEN:
+- The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.
 The BETWEEN operator is inclusive: begin and end values are included.
-Syntax –
-● SELECT column_name(s)
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table_name
-WHERE column_name BETWEEN value1 AND value2;
-Ex –
-● SELECT * FROM Products
+WHERE column_name BETWEEN value1 AND value2;`
+
+**Example –**
+```sql
+SELECT * FROM Products
 WHERE Price BETWEEN 10 AND 20;
-Joins:
-A JOIN clause is used to combine rows from two or more tables, based on a related column
+```
+
+## Joins:
+- A JOIN clause is used to combine rows from two or more tables, based on a related column
 between them.
-INNER JOIN:
-The INNER JOIN keyword selects records that have matching values in both tables.
-Syntax –
-● SELECT column_name(s)
+
+### `INNER JOIN:`
+- The INNER JOIN keyword selects records that have matching values in both tables.
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table1
 INNER JOIN table2
-ON table1.column_name = table2.column_name;
-Ex –
-● SELECT Orders.OrderID, Customers.CustomerName
+ON table1.column_name = table2.column_name;`
+
+**Example –**
+```sql
+SELECT Orders.OrderID, Customers.CustomerName
 FROM Orders
 INNER JOIN Customers ON Orders.CustomerID = Customers.CustomerID;
-LEFT (OUTER) JOIN:
-The LEFT JOIN keyword returns all records from the left table (table1), and the matching records
-from the right table (table2). The result is 0 records from the right side, if there is no match.
-Syntax –
-● SELECT column_name(s)
+```
+
+### `LEFT (OUTER) JOIN:`
+- The LEFT JOIN keyword returns all records from the left table (table1), and the matching records from the right table (table2). The result is 0 records from the right side, if there is no match.
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table1
 LEFT JOIN table2
-ON table1.column_name = table2.column_name;
-Ex –
-● SELECT Customers.CustomerName, Orders.OrderID
+ON table1.column_name = table2.column_name;`
+
+**Example –**
+```sql
+SELECT Customers.CustomerName, Orders.OrderID
 FROM Customers
 LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
 ORDER BY Customers.CustomerName;
-RIGHT (OUTER) JOIN:
-The RIGHT JOIN keyword returns all records from the right table (table2), and the matching
-records from the left table (table1). The result is 0 records from the left side, if there is no
-match.
-Syntax –
-● SELECT column_name(s)
+```
+
+### `RIGHT (OUTER) JOIN:`
+- The RIGHT JOIN keyword returns all records from the right table (table2), and the matching records from the left table (table1). The result is 0 records from the left side, if there is no match.
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table1
 RIGHT JOIN table2
-ON table1.column_name = table2.column_name;
-Ex –
-● SELECT Orders.OrderID, Employees.LastName, Employees.FirstName
+ON table1.column_name = table2.column_name;`
+
+**Example –**
+```sql
+SELECT Orders.OrderID, Employees.LastName, Employees.FirstName
 FROM Orders
 RIGHT JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
 ORDER BY Orders.OrderID;
-FULL (OUTER) JOIN:
-The FULL OUTER JOIN keyword returns all records when there is a match in left (table1) or right
-(table2) table records.
-Syntax:
-● SELECT column_name(s)
+```
+
+### `FULL (OUTER) JOIN:`
+- The FULL OUTER JOIN keyword returns all records when there is a match in left (table1) or right (table2) table records.
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table1
 FULL OUTER JOIN table2
 ON table1.column_name = table2.column_name
-WHERE condition;
-Ex –
-● SELECT Customers.CustomerName, Orders.OrderID
+WHERE condition;`
+
+**Example –**
+```sql
+SELECT Customers.CustomerName, Orders.OrderID
 FROM Customers
 FULL OUTER JOIN Orders ON Customers.CustomerID=Orders.CustomerID
 ORDER BY Customers.CustomerName;
-UNION:
-The UNION operator is used to combine the result-set of two or more SELECT statements.
-● Every SELECT statement within UNION must have the same number of columns
-● The columns must also have similar data types
-● The columns in every SELECT statement must also be in the same order
-The UNION operator selects only distinct values by default. To allow duplicate values,
-use UNION ALL
-Syntax –
-● SELECT column_name(s) FROM table1
+```
+
+## UNION:
+- The UNION operator is used to combine the result-set of two or more SELECT statements.
+   - Every SELECT statement within UNION must have the same number of columns
+   - The columns must also have similar data types
+   - The columns in every SELECT statement must also be in the same order
+- The UNION operator selects only distinct values by default. To allow duplicate values, use UNION ALL
+
+**Syntax –**
+- `SELECT column_name(s) FROM table1
 UNION
-SELECT column_name(s) FROM table2; ● SELECT column_name(s) FROM table1
+SELECT column_name(s) FROM table2;`
+ - `SELECT column_name(s) FROM table1
 UNION ALL
-SELECT column_name(s) FROM table2;
-Ex –
-● SELECT City FROM Customers
+SELECT column_name(s) FROM table2;`
+
+**Example –**
+```sql
+SELECT City FROM Customers
 UNION
 SELECT City FROM Suppliers
 ORDER BY City;
-GROUP BY:
-The GROUP BY statement groups rows that have the same values into summary rows, like "find
-the number of customers in each country".
-The GROUP BY statement is often used with aggregate functions
-(COUNT(), MAX(), MIN(), SUM(), AVG()) to group the result-set by one or more columns. Syntax –
-● SELECT column_name(s)
+```
+
+## GROUP BY:
+- The GROUP BY statement groups rows that have the same values into summary rows, like "find the number of customers in each country".
+- The GROUP BY statement is often used with aggregate functions (COUNT(), MAX(), MIN(), SUM(), AVG()) to group the result-set by one or more columns. 
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table_name
 WHERE condition
 GROUP BY column_name(s)
-ORDER BY column_name(s);
-Ex –
-● SELECT COUNT(CustomerID), Country
+ORDER BY column_name(s);`
+
+**Example –**
+```sql
+SELECT COUNT(CustomerID), Country
 FROM Customers
 GROUP BY Country
 ORDER BY COUNT(CustomerID) DESC;
-HAVING:
-The HAVING clause was added to SQL because the WHERE keyword cannot be used with
-aggregate functions.
+```
+
+## HAVING:
+- The HAVING clause was added to SQL because the WHERE keyword cannot be used with aggregate functions.
 *WHERE is given priority over HAVING.
-Syntax –
-● SELECT column_name(s)
+
+**Syntax –**
+- `SELECT column_name(s)
 FROM table_name
 WHERE condition
 GROUP BY column_name(s)
 HAVING condition
-ORDER BY column_name(s);
-Ex –
-● SELECT COUNT(CustomerID), Country
+ORDER BY column_name(s);`
+
+**Example –**
+```sql
+SELECT COUNT(CustomerID), Country
 FROM Customers
 GROUP BY Country
 HAVING COUNT(CustomerID) > 5;
-CREATE DATABASE:
-The CREATE DATABASE statement is used to create a new SQL database.
-Syntax –
-● CREATE DATABASE databasename;
-DROP DATABASE:
-The DROP DATABASE statement is used to drop an existing SQL database.
-Syntax –
-● DROP DATABASE databasename;
-CREATE TABLE:
-The CREATE TABLE statement is used to create a new table in a database.
-Syntax –
-● CREATE TABLE table_name ( column1 datatype, column2 datatype, column3 datatype,
+```
+
+## CREATE DATABASE:
+- The CREATE DATABASE statement is used to create a new SQL database.
+
+**Syntax –**
+- `CREATE DATABASE databasename;`
+
+## DROP DATABASE:
+- The DROP DATABASE statement is used to drop an existing SQL database.
+
+**Syntax –**
+- `DROP DATABASE databasename;`
+
+## CREATE TABLE:
+- The CREATE TABLE statement is used to create a new table in a database.
+
+**Syntax –**
+- `CREATE TABLE table_name ( column1 datatype, column2 datatype, column3 datatype,
 ....
-);
-DROP TABLE:
-The DROP TABLE statement is used to drop an existing table in a database.
-Syntax –
-● DROP TABLE table_name;
-TRUNCATE TABLE:
-The TRUNCATE TABLE statement is used to delete the data inside a table, but not the table itself. Syntax –
-● TRUNCATE TABLE table_name;
-ALTER TABLE:
-The ALTER TABLE statement is used to add, delete, or modify columns in an existing table.
-The ALTER TABLE statement is also used to add and drop various constraints on an existing
-table.
-Syntax –
-● ALTER TABLE table_name
-ADD column_name datatype; ● ALTER TABLE table_name
-DROP COLUMN column_name; ● ALTER TABLE table_name
-MODIFY COLUMN column_name datatype;
-Ex –
-● ALTER TABLE Customers
+);`
+
+## DROP TABLE:
+- The DROP TABLE statement is used to drop an existing table in a database.
+
+**Syntax –**
+- `DROP TABLE table_name;`
+
+## TRUNCATE TABLE:
+- The TRUNCATE TABLE statement is used to delete the data inside a table, but not the table itself.
+ 
+**Syntax –**
+- `TRUNCATE TABLE table_name;`
+
+## ALTER TABLE:
+- The ALTER TABLE statement is used to add, delete, or modify columns in an existing table.
+- The ALTER TABLE statement is also used to add and drop various constraints on an existing table.
+
+**Syntax –**
+- `ALTER TABLE table_name
+ADD column_name datatype;`
+- `ALTER TABLE table_name
+DROP COLUMN column_name;`
+- `ALTER TABLE table_name
+MODIFY COLUMN column_name datatype;`
+
+**Example –**
+```sql
+ALTER TABLE Customers
 ADD Email varchar(255);
-● ALTER TABLE Customers
+```
+```sql
+ALTER TABLE Customers
 DROP COLUMN Email;
-● ALTER TABLE Persons
-ALTER COLUMN DateOfBirth year; -->
+```
+```sql
+ALTER TABLE Persons
+ALTER COLUMN DateOfBirth year; 
+```
