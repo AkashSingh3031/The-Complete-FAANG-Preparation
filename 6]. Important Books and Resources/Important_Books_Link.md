@@ -41,9 +41,17 @@
 |   |
 |   ├── Technical Subjects
 |   |   ├── OOP
+|   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
+|   |   |   └── ...
 |   |   ├── OS
+|   |   |   ├── Operating System Concepts by Abraham Silberschatz
+|   |   |   └── ...
 |   |   ├── DBMS
+|   |   |   ├── Database System Concepts by Abraham Silberschatz
+|   |   |   └── ...
 |   |   ├── CN
+|   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
+|   |   |   └── ...
 |   |   └── ...
 |   |
 |   ├── Aptitude & Reasoning
