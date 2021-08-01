@@ -376,9 +376,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Important Books
 |   |   ├── Programming Language
 |   |   |   ├── C
+|   |   |   |   ├── Let Us C by Yashwant P. Kanetkar
+|   |   |   |   ├── C in Depth by S. K. Srivastava
+|   |   |   |   └── ... 
 |   |   |   ├── C++
+|   |   |   |   ├── Let Us C++ by Yashwant P. Kanetkar
+|   |   |   |   ├── C++: The Complete Reference by Herbert Schildt
+|   |   |   |   └── ... 
 |   |   |   ├── Python
+|   |   |   |   ├── Core Python by R. Nageswara Rao
+|   |   |   |   └── ... 
 |   |   |   ├── Java
+|   |   |   |   ├── Core Java - Black Book by R. Nageswara Rao
+|   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Data Structures
 |   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
@@ -397,10 +407,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   └── ...
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
+|   |   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
+|   |   |   |   └── ... 
 |   |   |   ├── OS
+|   |   |   |   ├── Operating System Concepts by Abraham Silberschatz
+|   |   |   |   └── ... 
 |   |   |   ├── DBMS
-|   |   |   ├── SQL
+|   |   |   |   ├── Database System Concepts by Abraham Silberschatz
+|   |   |   |   └── ... 
 |   |   |   ├── CN
+|   |   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
+|   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Aptitude & Reasoning
 |   |   ├── Low Level Design
