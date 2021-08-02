@@ -391,19 +391,19 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Data Structures
-|   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
-|   |   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   |   |   ├── Data Structures and Algorithms by Narasimha Karumanchi
+|   |   |   ├── Data Structures and Algorithms in Python by Michael T. Goodrich 
 |   |   |   └── ...
 |   |   ├── Algorithms
-|   |   |   ├── Introduction to Algorithms By Thomas H. Cormen
-|   |   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
+|   |   |   ├── Introduction to Algorithms by Thomas H. Cormen
+|   |   |   ├── Algorithms by Robert Sedgewick and Kevin Wayne 
 |   |   |   └── ...
 |   |   ├── Competitive Programming
-|   |   |   ├── Guide to Competitive Programming By Antti Laaksonen
-|   |   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
+|   |   |   ├── Guide to Competitive Programming by Antti Laaksonen
+|   |   |   ├── Competitive Programmer’s Handbook by Antti Laaksonen 
 |   |   |   └── ...
 |   |   ├── Coding Interviews
-|   |   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
+|   |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN MCDOWELL
 |   |   |   └── ...
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
