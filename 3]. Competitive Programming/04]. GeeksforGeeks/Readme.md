@@ -1,4 +1,7 @@
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/topic-tags)
+<p align="center">
+    <img width="1000" height="150" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/GFG-1.png">
+</p><br>
 
 ### [Data Structures](https://practice.geeksforgeeks.org/home)
 
