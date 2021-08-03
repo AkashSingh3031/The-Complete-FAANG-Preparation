@@ -2,12 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
-<p align="center">
-<img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
-</p><br> 
+<!-- <p align="center">
+    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
+</p><br>  -->
+ 
+ [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=Iamtripathisatyam />
+  <img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=AkashSingh3031 />
 </p>
 
 <p align="center">
