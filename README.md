@@ -313,7 +313,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   ├── DBMS.md
 |   |   └── ...
 |   |
-|   ├── Structured Query Language (SQL)              
+|   ├── Structured Query Language (SQL) 
+|   |   ├── SQL.md
 |   |   └── ...
 |   |
 |   ├── Computer Network (CN)
