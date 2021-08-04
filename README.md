@@ -191,14 +191,16 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── C++
 |   |   |   ├── Python
 |   |   |   ├── Java
-|   |   |   ├── 30 Days of Code
-|   |   |   ├── 10 Days of JavaScript
-|   |   |   ├── 10 Days of Statistics
+|   |   |   ├── SQL
+|   |   |   ├── Database
 |   |   |   ├── Interview Preparation Kit
 |   |   |   ├── Problem Solving
 |   |   |   |   ├── Data Structures
 |   |   |   |   └── Algorithms
-|   |   |   ├── SQL
+|   |   |   ├── Mathematics
+|   |   |   ├── 30 Days of Code
+|   |   |   ├── 10 Days of JavaScript
+|   |   |   ├── 10 Days of Statistics
 |   |   |   └── ...
 |   |   ├── Compete
 |   |   |   ├── ProjectEuler+
