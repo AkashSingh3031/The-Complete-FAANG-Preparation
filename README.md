@@ -6,10 +6,10 @@
     <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
 </p><br>  -->
  
- [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=AkashSingh3031 />
+  <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt=AkashSingh3031 /></code>
 </p>
 
 <p align="center">
@@ -191,14 +191,16 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── C++
 |   |   |   ├── Python
 |   |   |   ├── Java
-|   |   |   ├── 30 Days of Code
-|   |   |   ├── 10 Days of JavaScript
-|   |   |   ├── 10 Days of Statistics
+|   |   |   ├── SQL
+|   |   |   ├── Database
 |   |   |   ├── Interview Preparation Kit
 |   |   |   ├── Problem Solving
 |   |   |   |   ├── Data Structures
 |   |   |   |   └── Algorithms
-|   |   |   ├── SQL
+|   |   |   ├── Mathematics
+|   |   |   ├── 30 Days of Code
+|   |   |   ├── 10 Days of JavaScript
+|   |   |   ├── 10 Days of Statistics
 |   |   |   └── ...
 |   |   ├── Compete
 |   |   |   ├── ProjectEuler+
@@ -313,7 +315,8 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   ├── DBMS.md
 |   |   └── ...
 |   |
-|   ├── Structured Query Language (SQL)              
+|   ├── Structured Query Language (SQL) 
+|   |   ├── SQL.md
 |   |   └── ...
 |   |
 |   ├── Computer Network (CN)
