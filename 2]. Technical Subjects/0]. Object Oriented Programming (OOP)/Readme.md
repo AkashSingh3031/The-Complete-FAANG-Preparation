@@ -256,7 +256,7 @@ int main(){
 ## Aggregation : 
 - It is a process in which one class defines another class as any entity reference. **It is another way to reuse the class**. It is a form of association that represents the HAS-Arelationship.
 
-## Virtual Function: `IMP` : 
+## Virtual Function `IMP` : 
 - Avirtualfunction is used to replace the implementation provided by the base class. The replacement is always called whenever the object in question is actually of the derived class, even if the object is accessed by a base pointer rather than a derived pointer. 
 
    1. **A virtual function is a member function which is present in the base class and redefined by the derived class**. 
