@@ -215,14 +215,16 @@ https://www.contributor-covenant.org/translations.
 |   |   |   ├── C++
 |   |   |   ├── Python
 |   |   |   ├── Java
-|   |   |   ├── 30 Days of Code
-|   |   |   ├── 10 Days of JavaScript
-|   |   |   ├── 10 Days of Statistics
+|   |   |   ├── SQL
+|   |   |   ├── Database
 |   |   |   ├── Interview Preparation Kit
 |   |   |   ├── Problem Solving
 |   |   |   |   ├── Data Structures
 |   |   |   |   └── Algorithms
-|   |   |   ├── SQL
+|   |   |   ├── Mathematics
+|   |   |   ├── 30 Days of Code
+|   |   |   ├── 10 Days of JavaScript
+|   |   |   ├── 10 Days of Statistics
 |   |   |   └── ...
 |   |   ├── Compete
 |   |   |   ├── ProjectEuler+
@@ -337,7 +339,8 @@ https://www.contributor-covenant.org/translations.
 |   |   ├── DBMS.md
 |   |   └── ...
 |   |
-|   ├── Structured Query Language (SQL)              
+|   ├── Structured Query Language (SQL) 
+|   |   ├── SQL.md
 |   |   └── ...
 |   |
 |   ├── Computer Network (CN)
@@ -390,7 +393,9 @@ https://www.contributor-covenant.org/translations.
 |   ├── Mobile Development  
 |   |   └── ...
 |   |
-|   ├── GUI Projects              
+|   ├── Desktop Development
+|   |   ├── Console Projects
+|   |   ├── GUI Projects              
 |   |   └── ...
 |   |
 |   └── ...
@@ -400,33 +405,51 @@ https://www.contributor-covenant.org/translations.
 |   ├── Important Books
 |   |   ├── Programming Language
 |   |   |   ├── C
+|   |   |   |   ├── Let Us C by Yashwant P. Kanetkar
+|   |   |   |   ├── C in Depth by S. K. Srivastava
+|   |   |   |   └── ... 
 |   |   |   ├── C++
+|   |   |   |   ├── Let Us C++ by Yashwant P. Kanetkar
+|   |   |   |   ├── C++: The Complete Reference by Herbert Schildt
+|   |   |   |   └── ... 
 |   |   |   ├── Python
+|   |   |   |   ├── Core Python by R. Nageswara Rao
+|   |   |   |   └── ... 
 |   |   |   ├── Java
+|   |   |   |   ├── Core Java - Black Book by R. Nageswara Rao
+|   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Data Structures
-|   |   |   ├── Data Structures and Algorithms By Narasimha Karumanchi
-|   |   |   ├── Data Structures and Algorithms in Python By Michael T. Goodrich 
+|   |   |   ├── Data Structures and Algorithms by Narasimha Karumanchi
+|   |   |   ├── Data Structures and Algorithms in Python by Michael T. Goodrich 
 |   |   |   └── ...
 |   |   ├── Algorithms
-|   |   |   ├── Introduction to Algorithms By Thomas H. Cormen
-|   |   |   ├── Algorithms By Robert Sedgewick and Kevin Wayne 
+|   |   |   ├── Introduction to Algorithms by Thomas H. Cormen
+|   |   |   ├── Algorithms by Robert Sedgewick and Kevin Wayne 
 |   |   |   └── ...
 |   |   ├── Competitive Programming
-|   |   |   ├── Guide to Competitive Programming By Antti Laaksonen
-|   |   |   ├── Competitive Programmer’s Handbook By Antti Laaksonen 
+|   |   |   ├── Guide to Competitive Programming by Antti Laaksonen
+|   |   |   ├── Competitive Programmer’s Handbook by Antti Laaksonen 
 |   |   |   └── ...
 |   |   ├── Coding Interviews
-|   |   |   ├── Cracking the Coding Interview By GAYLE LAAKMANN MCDOWELL
+|   |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN MCDOWELL
 |   |   |   └── ...
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
+|   |   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
+|   |   |   |   └── ... 
 |   |   |   ├── OS
+|   |   |   |   ├── Operating System Concepts by Abraham Silberschatz
+|   |   |   |   └── ... 
 |   |   |   ├── DBMS
-|   |   |   ├── SQL
+|   |   |   |   ├── Database System Concepts by Abraham Silberschatz
+|   |   |   |   └── ... 
 |   |   |   ├── CN
+|   |   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
+|   |   |   |   └── ... 
 |   |   |   └── ...
 |   |   ├── Aptitude & Reasoning
+|   |   |   └── ...
 |   |   ├── Low Level Design
 |   |   |   ├── Object Oriented Design
 |   |   |   └── ...
@@ -455,7 +478,14 @@ https://www.contributor-covenant.org/translations.
 |   |   ├── Unix
 |   |   └── ...
 |   └── ...
+|
+|
+└── 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒖𝒓𝒂𝒍 𝑰𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔
+|   └── ...
+|
+|
 └── ...
+
 
 ```
  
