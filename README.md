@@ -117,7 +117,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Algorithms
 |   |   └── ...
 |   |
-|   ├── 450 DSA by @Love Babbar
+|   ├── 450 DSA by Love Babbar
 |   |   └── ...
 |   |
 |   ├── Striver Series
@@ -458,6 +458,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 └── 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒖𝒓𝒂𝒍 𝑰𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔
 |   └── ...
+|
 └── ...
 
 ```
