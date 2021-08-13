@@ -309,6 +309,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
+|   |   ├── OS.md
 |   |   └── ...
 |   |
 |   ├── Database Management System (DBMS)
@@ -524,6 +525,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Object Oriented Programming (OOPs)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP))
       - [OOP.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)/Readme.md)
    - [Operating System (OS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS))
+      - [OS.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)/Readme.md)
    - [Database Management System (DBMS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS))
       - [DBMS.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)/Readme.md)
    - [Structured Query Language (SQL)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL))
