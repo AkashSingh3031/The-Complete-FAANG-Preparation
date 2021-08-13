@@ -43,7 +43,7 @@ Sample Case 2:
 The binary representation of 13 base-10 is 1101 base-2, so the maximum number of consecutive 1's is 2.
 */
 
-(Scala Solution)
+//(Scala Solution)
 
 object Solution {
     def main(args: Array[String]) {

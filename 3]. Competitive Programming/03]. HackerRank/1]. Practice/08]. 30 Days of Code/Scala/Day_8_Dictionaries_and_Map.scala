@@ -1,4 +1,4 @@
-"""
+/*
 Objective
 Today, we're learning about Key-Value pair mappings using a Map or Dictionary data structure. Check out the Tutorial tab for learning materials and an instructional video!
 
@@ -51,7 +51,7 @@ Edward is not one of the keys in our dictionary, so we print Not found.
 Query 2: harry
 Harry is one of the keys in our dictionary, so we print harry=12299933.
 
-"""
+*/
 
 import scala.collection.mutable
 import scala.io.StdIn
