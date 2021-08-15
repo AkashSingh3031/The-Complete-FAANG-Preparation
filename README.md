@@ -65,14 +65,14 @@
 
 ---
 
-# 🏆 `The Complete FAANG Preparation` 🏆
+# `🏆 The Complete FAANG Preparation 🏆`
 
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
 
 
 ## `Table of Contents 📋`
 | SNo. | **Contents** |
-| ---  | ---------    |
+| ---  | ------------ |
 | 0.   | [ASK Your Doubts](#0-ask-your-doubts) |
 | 1.   | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
 | 2.   | [DSA](#2-dsa) |
@@ -202,6 +202,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── 10 Days of JavaScript
 |   |   |   ├── 10 Days of Statistics
 |   |   |   └── ...
+|   |   |
 |   |   ├── Compete
 |   |   |   ├── ProjectEuler+
 |   |   |   └── ... 
@@ -220,6 +221,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Algorithms
 |   |   |   ├── Math
 |   |   |   └── ... 
+|   |   |
 |   |   ├── Compete
 |   |   |   └── ... 
 |   |   └── ...
@@ -232,6 +234,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Hard
 |   |   |   ├── Challenge
 |   |   |   └── Peer 
+|   |   |
 |   |   ├── Compete
 |   |   |   ├── Long Challenge
 |   |   |   |   ├── Div-1
@@ -260,6 +263,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   ├── D
 |   |   |   |   └── ... 
 |   |   |   └── ... 
+|   |   |
 |   |   ├── Contests
 |   |   |   ├── Rounds
 |   |   |   |   ├── Div-1
@@ -296,6 +300,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── Greedy Algorithm
 |   |   |   ├── Graph Data Structure & Algorithms
 |   |   |   └── ...
+|   |   |
 |   |   ├── Contests
 |   |   |   └── ... 
 |   |   └── ...
@@ -396,21 +401,26 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   ├── Core Java - Black Book by R. Nageswara Rao
 |   |   |   |   └── ... 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Data Structures
 |   |   |   ├── Data Structures and Algorithms by Narasimha Karumanchi
 |   |   |   ├── Data Structures and Algorithms in Python by Michael T. Goodrich 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Algorithms
 |   |   |   ├── Introduction to Algorithms by Thomas H. Cormen
 |   |   |   ├── Algorithms by Robert Sedgewick and Kevin Wayne 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Competitive Programming
 |   |   |   ├── Guide to Competitive Programming by Antti Laaksonen
 |   |   |   ├── Competitive Programmer’s Handbook by Antti Laaksonen 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Coding Interviews
 |   |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN MCDOWELL
 |   |   |   └── ...
+|   |   |
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
 |   |   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
@@ -425,8 +435,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
 |   |   |   |   └── ... 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Aptitude & Reasoning
 |   |   |   └── ...
+|   |   |
 |   |   ├── Low Level Design
 |   |   |   ├── Object Oriented Design
 |   |   |   └── ...
@@ -437,6 +449,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   |   ├── DSA Series
 |   |   |   ├── Technical Series
 |   |   |   └── ...
+|   |   |
 |   |   ├── Interview Preparation
 |   |   |   ├── HR Interview Questions
 |   |   |   ├── Interview Experience
