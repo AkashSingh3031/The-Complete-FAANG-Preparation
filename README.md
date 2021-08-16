@@ -9,7 +9,7 @@
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
  
 <p align="center">
-  <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="View Counts" /></code>
+  <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
 </p>
 
 <p align="center">
