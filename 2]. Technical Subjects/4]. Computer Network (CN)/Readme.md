@@ -260,9 +260,12 @@
 3. A **subnet** is a network inside a network achieved by the process called subnetting which helps divide a network into subnets. It is used for getting a higher routing efficiency and enhances the security of the network. It reduces the time to extract the host address from the routing table.
 
 4. **The reliability of a network can be measured by the following factors:** 
-   - Downtime: The downtime is defined as the required time to recover.
-   - Failure Frequency: It is the frequency when it fails to work the way it is intended.
-   - Catastrophe: It indicates that the network has been attacked by some unexpected event such as fire, earthquake. 
+   - **Downtime:** 
+      - The downtime is defined as the required time to recover.
+   - **Failure Frequency:** 
+      - It is the frequency when it fails to work the way it is intended.
+   - **Catastrophe:** 
+      - It indicates that the network has been attacked by some unexpected event such as fire, earthquake. 
  
 5. There are mainly two criteria which make a network effective and efficient:
    - **Performance :**
@@ -303,14 +306,14 @@
 
 14. The processes on each machine that communicate at a given layer are called **peer-peer processes (P2P)**.
 
-15.**Unicasting:** 
+15.**Unicasting :** 
    - If the message is sent to a single node from the source then it is known as unicasting. This is commonly used in networks to establish a new connection. 
 
-- **Anycasting:** 
+- **Anycasting :** 
    - If the message is sent to any of the nodes from the source then it is known as anycasting. It is mainly used to get the content from any of the servers in the Content Delivery System. 
 
-- **Multicasting:** 
+- **Multicasting :** 
    - If the message is sent to a subset of nodes from the source then it is known as multicasting. Used to send the same data to multiple receivers. 
 
-- **Broadcasting:** 
+- **Broadcasting :** 
    - If the message is sent to all the nodes in a network from a source then it is known as broadcasting. DHCP and ARP in the local network use broadcasting
