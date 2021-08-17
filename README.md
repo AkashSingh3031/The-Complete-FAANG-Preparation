@@ -326,6 +326,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   └── ...
 |   |
 |   ├── Computer Network (CN)
+|   |   ├── CN.md
 |   |   └── ...
 |   |
 |   ├── Interview Questions
@@ -544,6 +545,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
    - [Structured Query Language (SQL)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL))
       - [SQL.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)/Readme.md)
    - [Computer Network (CN)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN))
+      - [CN.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)/Readme.md)
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
 ### 5. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Low%20Level%20Design%20for%20SDE%201)
