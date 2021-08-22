@@ -8,3 +8,5 @@
 ### [Algorithms](https://practice.geeksforgeeks.org/home)
 
 ### [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=leftbar-rightbar#Math)
+
+### [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm#1)
