@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFFB00&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=F70A24FF&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
 <!-- <p align="center">
@@ -7,7 +7,13 @@
 </p><br>  -->
  
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
- 
+
+<h1 align='center'>
+    <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md"> 
+        Full Repository Status
+    </a>
+</h1>
+
 <p align="center">
   <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
 </p>
@@ -15,6 +21,7 @@
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
+
 
 <!-- ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
 <code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code> -->
