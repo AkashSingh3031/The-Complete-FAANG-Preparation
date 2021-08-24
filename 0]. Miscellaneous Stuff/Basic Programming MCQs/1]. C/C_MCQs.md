@@ -1,0 +1,18 @@
+<h1 align='center'> C Programming MCQs </h1><br>
+
+- [Input and Output](https://www.geeksforgeeks.org/c-language-2-gq/input-and-output-gq/)
+- [Operators](https://www.geeksforgeeks.org/c-language-2-gq/operators-gq/)
+- [Loops & Control Structure](https://www.geeksforgeeks.org/c-language-2-gq/loops-control-structure-gq/)
+- [Structure & Union](https://www.geeksforgeeks.org/c-language-2-gq/structure-union-gq/)
+- [Macro & Preprocessor](https://www.geeksforgeeks.org/c-language-2-gq/macro-preprocessor-gq/)
+- [Arrays](https://www.geeksforgeeks.org/c-language-2-gq/arrays-pointers-gq/)
+- [Pointer Basics](https://www.geeksforgeeks.org/c-language-2-gq/pointers-gq/)
+- [String](https://www.geeksforgeeks.org/c-language-2-gq/string-gq/)
+- [Functions](https://www.geeksforgeeks.org/c-language-2-gq/functions-gq/)
+- [Storage Classes and Type Qualifiers](https://www.geeksforgeeks.org/c-language-2-gq/storage-classes-gq/)
+- [Data Types](https://www.geeksforgeeks.org/c-language-2-gq/data-types-gq/)
+- [Dynamic Memory Allocation](https://www.geeksforgeeks.org/c-language-2-gq/dynamic-memory-allocation-gq/)
+- [Misc](https://www.geeksforgeeks.org/c-language-2-gq/misc-gq/)
+- [Advanced Pointer](https://www.geeksforgeeks.org/c-language-2-gq/advanced-pointer-c-gq/)
+- [Variable Declaration and Scope](https://www.geeksforgeeks.org/c-language-2-gq/variable-declaration-and-scope-gq/)
+- [File Handling](https://www.geeksforgeeks.org/c-language-2-gq/file-handling-gq/)
