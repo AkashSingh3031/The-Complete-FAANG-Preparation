@@ -111,16 +111,6 @@ https://www.contributor-covenant.org/translations.
 ```js
 .
 ├── ...
-├── 𝑨𝑺𝑲 𝒀𝒐𝒖𝒓 𝑫𝒐𝒖𝒃𝒕𝒔
-|   ├── Data Structure & Algorithms              
-|   |   └── ...
-|   |
-|   ├── Technical Subjects
-|   |   └── ...
-|   |
-|   └── ...
-|
-|
 ├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
 |   ├── Aptitude & Reasoning              
 |   |   └── ...
@@ -141,7 +131,7 @@ https://www.contributor-covenant.org/translations.
 |   ├── Algorithms
 |   |   └── ...
 |   |
-|   ├── 450 DSA by @Love Babbar
+|   ├── 450 DSA by Love Babbar
 |   |   └── ...
 |   |
 |   ├── Striver Series
@@ -209,6 +199,20 @@ https://www.contributor-covenant.org/translations.
 |   |   |   └── ...
 |   |   └── ...
 |   |
+|   ├── GeeksforGeeks
+|   |   ├── Data Structures
+|   |   ├── Algorithms
+|   |   ├── Must Do Coding Questions
+|   |   └── ...
+|   |
+|   ├── LeetCode
+|   |   ├── Problems
+|   |   ├── Contests
+|   |   |   ├── Weekly Contests
+|   |   |   ├── Biweekly Contests
+|   |   |   └── ... 
+|   |   └── ...
+|   |
 |   ├── HackerRank
 |   |   ├── Practice
 |   |   |   ├── C
@@ -226,15 +230,10 @@ https://www.contributor-covenant.org/translations.
 |   |   |   ├── 10 Days of JavaScript
 |   |   |   ├── 10 Days of Statistics
 |   |   |   └── ...
+|   |   |
 |   |   ├── Compete
 |   |   |   ├── ProjectEuler+
 |   |   |   └── ... 
-|   |   └── ...
-|   |
-|   ├── GeeksforGeeks
-|   |   ├── Data Structures
-|   |   ├── Algorithms
-|   |   ├── Must Do Coding Questions
 |   |   └── ...
 |   |
 |   ├── HackerEarth
@@ -244,6 +243,7 @@ https://www.contributor-covenant.org/translations.
 |   |   |   ├── Algorithms
 |   |   |   ├── Math
 |   |   |   └── ... 
+|   |   |
 |   |   ├── Compete
 |   |   |   └── ... 
 |   |   └── ...
@@ -256,6 +256,7 @@ https://www.contributor-covenant.org/translations.
 |   |   |   ├── Hard
 |   |   |   ├── Challenge
 |   |   |   └── Peer 
+|   |   |
 |   |   ├── Compete
 |   |   |   ├── Long Challenge
 |   |   |   |   ├── Div-1
@@ -284,20 +285,13 @@ https://www.contributor-covenant.org/translations.
 |   |   |   |   ├── D
 |   |   |   |   └── ... 
 |   |   |   └── ... 
+|   |   |
 |   |   ├── Contests
 |   |   |   ├── Rounds
 |   |   |   |   ├── Div-1
 |   |   |   |   ├── Div-2
 |   |   |   |   ├── Div-3
 |   |   |   |   └── ... 
-|   |   |   └── ... 
-|   |   └── ...
-|   |
-|   ├── LeetCode
-|   |   ├── Problems
-|   |   ├── Contests
-|   |   |   ├── Weekly Contests
-|   |   |   ├── Biweekly Contests
 |   |   |   └── ... 
 |   |   └── ...
 |   |
@@ -320,6 +314,7 @@ https://www.contributor-covenant.org/translations.
 |   |   |   ├── Greedy Algorithm
 |   |   |   ├── Graph Data Structure & Algorithms
 |   |   |   └── ...
+|   |   |
 |   |   ├── Contests
 |   |   |   └── ... 
 |   |   └── ...
@@ -333,6 +328,7 @@ https://www.contributor-covenant.org/translations.
 |   |   └── ...
 |   |
 |   ├── Operating System (OS)
+|   |   ├── OS.md
 |   |   └── ...
 |   |
 |   ├── Database Management System (DBMS)
@@ -344,6 +340,7 @@ https://www.contributor-covenant.org/translations.
 |   |   └── ...
 |   |
 |   ├── Computer Network (CN)
+|   |   ├── CN.md
 |   |   └── ...
 |   |
 |   ├── Interview Questions
@@ -398,6 +395,8 @@ https://www.contributor-covenant.org/translations.
 |   |   ├── GUI Projects              
 |   |   └── ...
 |   |
+|   ├── Blockchain Development  
+|   |   └── ...
 |   └── ...
 |
 |
@@ -419,21 +418,26 @@ https://www.contributor-covenant.org/translations.
 |   |   |   |   ├── Core Java - Black Book by R. Nageswara Rao
 |   |   |   |   └── ... 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Data Structures
 |   |   |   ├── Data Structures and Algorithms by Narasimha Karumanchi
 |   |   |   ├── Data Structures and Algorithms in Python by Michael T. Goodrich 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Algorithms
 |   |   |   ├── Introduction to Algorithms by Thomas H. Cormen
 |   |   |   ├── Algorithms by Robert Sedgewick and Kevin Wayne 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Competitive Programming
 |   |   |   ├── Guide to Competitive Programming by Antti Laaksonen
 |   |   |   ├── Competitive Programmer’s Handbook by Antti Laaksonen 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Coding Interviews
 |   |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN MCDOWELL
 |   |   |   └── ...
+|   |   |
 |   |   ├── Technical Subjects
 |   |   |   ├── OOP
 |   |   |   |   ├── Object Oriented Programming with C++ by E. Balagurusamy
@@ -448,8 +452,10 @@ https://www.contributor-covenant.org/translations.
 |   |   |   |   ├── Computer Networking - A Top-Down Approach by James F. Kurose
 |   |   |   |   └── ... 
 |   |   |   └── ...
+|   |   |
 |   |   ├── Aptitude & Reasoning
 |   |   |   └── ...
+|   |   |
 |   |   ├── Low Level Design
 |   |   |   ├── Object Oriented Design
 |   |   |   └── ...
@@ -460,6 +466,7 @@ https://www.contributor-covenant.org/translations.
 |   |   |   ├── DSA Series
 |   |   |   ├── Technical Series
 |   |   |   └── ...
+|   |   |
 |   |   ├── Interview Preparation
 |   |   |   ├── HR Interview Questions
 |   |   |   ├── Interview Experience
@@ -483,10 +490,7 @@ https://www.contributor-covenant.org/translations.
 └── 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒖𝒓𝒂𝒍 𝑰𝒏𝒕𝒆𝒓𝒗𝒊𝒆𝒘 𝑸𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔
 |   └── ...
 |
-|
 └── ...
-
-
 ```
  
 ## STEP-2 : `Contributing` <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px">
