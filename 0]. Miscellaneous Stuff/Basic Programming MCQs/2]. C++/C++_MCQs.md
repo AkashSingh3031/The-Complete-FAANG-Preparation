@@ -1,0 +1,18 @@
+<h1 align='center'> C++ Programming MCQs </h1><br>
+
+- [Constructors](https://www.geeksforgeeks.org/c-plus-plus-gq/constructors-gq/)
+- [References](https://www.geeksforgeeks.org/c-plus-plus-gq/references-gq/)
+- [Class and Object](https://www.geeksforgeeks.org/c-plus-plus-gq/class-and-object-gq/)
+- [Misc C++](https://www.geeksforgeeks.org/c-plus-plus-gq/misc-c-gq/)
+- [Destructors](https://www.geeksforgeeks.org/c-plus-plus-gq/destructors-gq/)
+- [Operator Overloading](https://www.geeksforgeeks.org/c-plus-plus-gq/operator-overloading-gq/)
+- [this pointer](https://www.geeksforgeeks.org/c-plus-plus-gq/this-pointer-gq/)
+- [Function Overloading and Default Arguments](https://www.geeksforgeeks.org/c-plus-plus-gq/function-overloading-2-gq/)
+- [Static Keyword](https://www.geeksforgeeks.org/c-plus-plus-gq/static-keyword-gq/)
+- [friend keyword](https://www.geeksforgeeks.org/c-plus-plus-gq/friend-function-and-class-gq/)
+- [Inheritance](https://www.geeksforgeeks.org/c-plus-plus-gq/inheritance-gq/)
+- [const keyword](https://www.geeksforgeeks.org/c-plus-plus-gq/const-keyword-gq/)
+- [new and delete](https://www.geeksforgeeks.org/c-plus-plus-gq/new-and-delete-gq/)
+- [Virtual Functions](https://www.geeksforgeeks.org/c-plus-plus-gq/virtual-functions-gq/)
+- [Templates](https://www.geeksforgeeks.org/c-plus-plus-gq/templates-gq/)
+- [Exception Handling](https://www.geeksforgeeks.org/c-plus-plus-gq/exception-handling-gq/)
