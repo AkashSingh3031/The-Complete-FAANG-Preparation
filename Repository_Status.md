@@ -1,1 +1,151 @@
+- [ ] Miscellaneous Stuff
+   - [ ] Aptitude & Reasoning
+   - [ ] Basic Programming MCQs
+      - [X] C Programming
+      - [X] C++ Programming
+      - [X] Python
+      - [X] Java
+      - [ ] OOP
+      - [ ] SQL
+   - [ ] Puzzles
 
+- [ ] DSA
+   - [ ] Data Structures
+      - [ ] Array
+         - [X] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] 2D Array
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Recursion
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Strings
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Hashing
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Linked List
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Doubly Linked List
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Circular Linked List
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Stack
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Queue
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Deueue
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Tree
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Binary Search Tree
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Heap
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Graph
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Trie
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Segment-Tree
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Disjoint Set 
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+   - [ ] Algorithms
+      - [ ] Searching Algorithms
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Sorting Algorithms
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Bitwise Algorithms
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Mathematical Algorithms
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Geometric Algorithms
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Greedy
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Dynamic Programming
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Divide and Counqer
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+      - [ ] Backtracking
+         - [ ] C++
+         - [ ] Java
+         - [ ] Python
+   - [ ] 450 DSA by (Love Babbar)
+   - [ ] Striver Series
+      - [ ] 30 Days of SDE Sheet
+      - [ ] Algorithms for Coding Round Sheet
+      - [ ] Competitive Programming Sheet
+   - [ ] FAANG Interview DSA Questions
+      - [ ] Facebook
+      - [ ] Amazon
+      - [ ] Apple
+      - [ ] Netflix
+      - [ ] Google
+      - [ ] Others 
+
+- [ ] Competitive Programming
+   - [ ] Google
+   - [ ] Facebook
+   - [ ] GeeksforGeeks
+   - [ ] Leetcode
+   - [ ] HackerRank
+   - [ ] HackerEarth
+   - [ ] CodeChef
+   - [ ] CodeForces
+   - [ ] InterviewBit
+
+- [ ] Technical Subjects
+- [ ] Low Level Design for SDE 1
+- [ ] Projects
+- [ ] Behavioural Interview Questions
+- [ ] Important Books and Resources 
