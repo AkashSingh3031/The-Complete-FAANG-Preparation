@@ -1,26 +1,28 @@
-- [ ] Miscellaneous Stuff
-   - [ ] Aptitude & Reasoning
-   - [ ] Basic Programming MCQs
-      - [X] C Programming
-      - [X] C++ Programming
-      - [X] Python
-      - [X] Java
+- [ ] [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
+   - [ ] [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning)
+      - [ ] Quantitative Analysis
+      - [ ] Logical and Verbal Reasoning
+   - [ ] [Basic Programming MCQs](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs)
+      - [X] [C Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/1%5D.%20C/C_MCQs.md)
+      - [X] [C++ Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/2%5D.%20C%2B%2B/C%2B%2B_MCQs.md)
+      - [X] [Python](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/3%5D.%20Python/Python_MCQs.md)
+      - [X] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/4%5D.%20Java/Java_MCQs.md)
       - [ ] OOP
       - [ ] SQL
-   - [ ] Puzzles
+   - [ ] [Puzzles](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles)
 
-- [ ] DSA
-   - [ ] Data Structures
-      - [ ] Array
-         - [X] C++
-         - [ ] Java
+- [ ] [DSA](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA)
+   - [ ] [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures)
+      - [ ] [Array](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array/C%2B%2B)
+         - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array/Java)
          - [ ] Python
-      - [ ] 2D Array
-         - [ ] C++
-         - [ ] Java
+      - [ ] [2D Array](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/02%5D.%202D%20Array)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/02%5D.%202D%20Array/C%2B%2B)
+         - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/02%5D.%202D%20Array/Java)
          - [ ] Python
-      - [ ] Recursion
-         - [ ] C++
+      - [ ] [Recursion](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/03%5D.%20Recursion)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/03%5D.%20Recursion/C%2B%2B)
          - [ ] Java
          - [ ] Python
       - [ ] Strings
@@ -31,11 +33,13 @@
          - [ ] C++
          - [ ] Java
          - [ ] Python
-      - [ ] Linked List
-         - [ ] C++
-         - [ ] Java
+      - [ ] [Linked List](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List)
+         - [ ] [C](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List/C)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List/C%2B%2B)
+         - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List/Java)
          - [ ] Python
-      - [ ] Doubly Linked List
+      - [ ] [Doubly Linked List](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/07%5D.%20Doubly%20Linked%20List)
+         - [ ] [C](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/07%5D.%20Doubly%20Linked%20List/C)
          - [ ] C++
          - [ ] Java
          - [ ] Python
@@ -43,12 +47,12 @@
          - [ ] C++
          - [ ] Java
          - [ ] Python
-      - [ ] Stack
-         - [ ] C++
+      - [ ] [Stack](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/09%5D.%20Stack)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/09%5D.%20Stack/C%2B%2B)
          - [ ] Java
          - [ ] Python
-      - [ ] Queue
-         - [ ] C++
+      - [ ] [Queue](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/10%5D.%20Queue)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/10%5D.%20Queue/C%2B%2B)
          - [ ] Java
          - [ ] Python
       - [ ] Deueue
@@ -59,8 +63,8 @@
          - [ ] C++
          - [ ] Java
          - [ ] Python
-      - [ ] Binary Search Tree
-         - [ ] C++
+      - [ ] [Binary Search Tree](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/13%5D.%20Binary%20Search%20Tree)
+         - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/13%5D.%20Binary%20Search%20Tree/C%2B%2B)
          - [ ] Java
          - [ ] Python
       - [ ] Heap
