@@ -1,4 +1,4 @@
-<h1 align='center'> C Programming MCQs </h1><br>
+<h1 align='center'> DBMS Programming MCQs </h1><br>
 
 - [ER and Relational Models](https://www.geeksforgeeks.org/dbms-gq/er-and-relational-models-gq/)
 - [Database Design (Normal Forms)](https://www.geeksforgeeks.org/dbms-gq/database-design-normal-forms-gq/)
