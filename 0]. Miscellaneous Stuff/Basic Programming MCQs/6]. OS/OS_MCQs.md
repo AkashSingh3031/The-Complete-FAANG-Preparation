@@ -1,4 +1,4 @@
-<h1 align='center'> OS Programming MCQs </h1><br>
+<h1 align='center'> OS MCQs </h1><br>
 
 - [Process Management](https://www.geeksforgeeks.org/operating-systems-gq/process-synchronization-gq/)
 - [Memory Management](https://www.geeksforgeeks.org/operating-systems-gq/memory-management-gq/)
