@@ -8,8 +8,8 @@
 | 1.       | [Miscellaneous Stuff](#-------------miscellaneous-stuff----) |
 | 2.       | [DSA](#-------------dsa----) |
 | 3.       | [Competitive Programming](#-------------competitive-programming----) |
-| 4.       | [Technical Subject](#-------------technical-subject----) |
-| 5.       | [Low Level Design](#-------------low-level-design----) |
+| 4.       | [Technical Subject](#-------------technical-subjects----) |
+| 5.       | [Low Level Design](#-------------low-level-design-for-sde-1----) |
 | 6.       | [Projects](#-------------projects----) |
 | 7.       | [Behavioural Interview Questions](#-------------behavioural-interview-questions----) |
 | 8.       | [Impotant Books and Resources](#-------------important-books-and-resources----) |
