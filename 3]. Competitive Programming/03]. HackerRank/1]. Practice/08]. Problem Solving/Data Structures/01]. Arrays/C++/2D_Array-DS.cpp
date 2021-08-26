@@ -1,6 +1,6 @@
-Practice > Data Structures > Arrays2D > Array-DS
+// Practice > Data Structures > Arrays2D > Array-DS
 
-Problem Link - https://www.hackerrank.com/challenges/2d-array/submissions/code/229967785
+// Problem Link - https://www.hackerrank.com/challenges/2d-array/submissions/code/229967785
 
 int hourglassSum(vector<vector<int>> arr) {
         
