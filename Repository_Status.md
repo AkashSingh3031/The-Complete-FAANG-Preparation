@@ -165,7 +165,7 @@
          - [ ] C++
          - [ ] Java
          - [ ] Python
-   - [ ] Algorithms
+   - [ ] [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/2%5D.%20Algorithms)
       - [ ] Searching Algorithms
          - [ ] C++
          - [ ] Java
@@ -202,11 +202,68 @@
          - [ ] C++
          - [ ] Java
          - [ ] Python
-   - [ ] 450 DSA by (Love Babbar)
-   - [ ] Striver Series
-      - [ ] 30 Days of SDE Sheet
-      - [ ] Algorithms for Coding Round Sheet
-      - [ ] Competitive Programming Sheet
+   - [ ] [450 DSA by (Love Babbar)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20))
+      - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/C%2B%2B)
+         - [X] [Arrays](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/C%2B%2B/01%5D.%20Array)
+         - [X] [Matrix](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/C%2B%2B/02%5D.%20Matrix)
+         - [ ] [Strings](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/C%2B%2B/03%5D.%20Strings)
+         - [ ] [Searching and Sorting](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/C%2B%2B/04%5D.%20Searching%20%26%20Sorting)
+         - [ ] Linked Lists
+         - [ ] Binary Trees
+         - [ ] Binary Search Trees
+         - [ ] Greedy
+         - [ ] Backtracking
+         - [ ] Stacks and Queues
+         - [ ] Heap
+         - [ ] Graphs
+         - [ ] Trie
+         - [ ] Dynamic Programming
+         - [ ] [Bit Manipulation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/C%2B%2B/15%5D.%20Bit%20Manipulation)
+      - [ ] [Python](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/Python)
+         - [ ] Arrays
+         - [ ] Matrix
+         - [ ] Strings
+         - [ ] Searching and Sorting
+         - [ ] Linked Lists
+         - [ ] Binary Trees
+         - [ ] Binary Search Trees
+         - [ ] Greedy
+         - [ ] Backtracking
+         - [ ] Stacks and Queues
+         - [ ] Heap
+         - [ ] Graphs
+         - [ ] Trie
+         - [ ] Dynamic Programming
+         - [ ] Bit Manipulation
+      - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/Java)
+         - [ ] [Arrays](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/Java/01%5D.%20Array)
+         - [ ] Matrix
+         - [ ] Strings
+         - [ ] Searching and Sorting
+         - [ ] Linked Lists
+         - [ ] Binary Trees
+         - [ ] Binary Search Trees
+         - [ ] Greedy
+         - [ ] Backtracking
+         - [ ] Stacks and Queues
+         - [ ] Heap
+         - [ ] Graphs
+         - [ ] Trie
+         - [ ] Dynamic Programming
+         - [X] [Bit Manipulation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/3%5D.%20450%20DSA%20by%20(%20Love%20Babbar%20Bhaiya%20)/Java/15%5D.%20Bit%20Manipulation)
+   - [ ] [Striver Series](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series)
+      - [ ] [30 Days of SDE Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/30%20Days%20of%20SDE%20Sheet)
+         - [ ] C++
+         - [ ] Python
+         - [ ] Java
+      - [ ]  [Algorithms for Coding Round Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/Algorithms%20for%20Coding%20Round%20Sheet)
+         - [ ] C++
+         - [ ] Python
+         - [ ] Java
+      - [ ] [Competitive Programming Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/Competitive%20Programming%20Sheet)
+         - [ ] C++
+         - [ ] Python
+         - [ ] Java
    - [ ] FAANG Interview DSA Questions
       - [ ] Facebook
       - [ ] Amazon
