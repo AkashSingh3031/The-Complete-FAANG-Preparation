@@ -3,10 +3,10 @@
 </p>
 
 <!-- <p align="center">
-    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
+    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGO.gif">
 </p><br>  -->
  
-[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGO.png)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
 <h1 align='center'>
     <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md"> 
