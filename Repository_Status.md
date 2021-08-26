@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=7CFC00&size=40&width=750&height=80&lines=Full+Repository+Status"/>
+</p>
+
 - [ ] [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
    - [ ] [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning)
       - [ ] Quantitative Analysis
@@ -184,6 +188,7 @@
       - [ ] Netflix
       - [ ] Google
       - [ ] Others 
+
 ---
 - [ ] [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming)
    - [ ] [Google](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/01%5D.%20Google)
@@ -331,6 +336,7 @@
          - [ ] Greedy Algorithm
          - [ ] Graph Data Structure & Algorithms
       - [ ] Contests
+
 ---
 - [X] Technical Subjects
    - [X] [Object Oriented Programming (OOP)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)/Readme.md)
@@ -339,6 +345,7 @@
    - [X] [Structured Query Language (SQL)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)/Readme.md)
    - [X] [Computer Network (CN)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)/Readme.md)
    - [ ] Interview Questions
+
 ---
 - [ ] Low Level Design for SDE 1
    - [ ] Object Oriented Design
