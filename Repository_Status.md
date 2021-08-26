@@ -2,6 +2,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=7CFC00&size=40&width=750&height=80&lines=Full+Repository+Status"/>
 </p>
 
+## `Table of Contents 📋`
+| **SNo.** | **Contents** |
+| -------  | ------------ |
+| 1.       | [Miscellaneous Stuff](#miscellaneous-stuff) |
+| 2.       | [DSA](#dsa) |
+| 3.       | [Competitive Programming](#competitive-programming) |
+| 4.       | [Technical Subject](#technical-subject) |
+| 5.       | [Low Level Design](#low-level-design) |
+| 6.       | [Projects](#projects) |
+| 7.       | [Behavioural Interview Questions](#behavioural-interview-questions) |
+| 8.       | [Impotant Books and Resources](#important-books-and-resources) |
+
+<h2 align='center'>
+    <a href="#"> 
+        Miscellaneous Stuff
+    </a>
+</h2>
+
 - [ ] [Miscellaneous Stuff](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff)
    - [ ] [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning)
       - [ ] Quantitative Analysis
@@ -62,7 +80,15 @@
       - [ ] OOP
       - [ ] SQL
    - [ ] [Puzzles](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles)
+
 ---
+
+<h2 align='center'>
+    <a href="#"> 
+        DSA
+    </a>
+</h2>
+
 - [ ] [DSA](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA)
    - [ ] [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures)
       - [ ] [Array](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array)
@@ -190,6 +216,13 @@
       - [ ] Others 
 
 ---
+
+<h2 align='center'>
+    <a href="#"> 
+        Competitive Programming
+    </a>
+</h2>
+
 - [ ] [Competitive Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming)
    - [ ] [Google](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/01%5D.%20Google)
       - [ ] Code Jam
@@ -338,7 +371,14 @@
       - [ ] Contests
 
 ---
-- [X] Technical Subjects
+
+<h2 align='center'>
+    <a href="#"> 
+        Technical Subjects
+    </a>
+</h2>
+
+- [X] [Technical Subjects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects)
    - [X] [Object Oriented Programming (OOP)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)/Readme.md)
    - [X] [Operating System (OS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)/Readme.md)
    - [X] [Database Management System (DBMS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)/Readme.md)
@@ -347,6 +387,13 @@
    - [ ] Interview Questions
 
 ---
+
+<h2 align='center'>
+    <a href="#"> 
+        Low Level Design for SDE 1
+    </a>
+</h2>
+
 - [ ] Low Level Design for SDE 1
    - [ ] Object Oriented Design
       - [ ] Introduciton to Classes and Objects
@@ -357,6 +404,13 @@
    - [ ] Case Study 
 
 ---
+
+<h2 align='center'>
+    <a href="#"> 
+        Projects
+    </a>
+</h2>
+
 - [ ] [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects)
    - [ ] [Machine Learning & Data Science (ML-DS)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS))
       - [ ] [Python](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Projects/Machine%20Learning%20%26%20Data%20Science%20%20(ML-DS)/Python)
@@ -377,9 +431,23 @@
    - [ ] Blockchain Development
 
 ---
+
+<h2 align='center'>
+    <a href="#"> 
+        Behavioural Interview Questions
+    </a>
+</h2>
+
 - [X] [Behavioural Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/7%5D.%20Behavioural%20Interview)
 
 ---
+
+<h2 align='center'>
+    <a href="#"> 
+        Important Books and Resources
+    </a>
+</h2>
+
 - [X] [Important Books and Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/6%5D.%20Important%20Books%20and%20Resources)
    - [X] [Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md)
    - [X] [Important Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Important%20Books%20and%20Resources/Important_resources.md)
