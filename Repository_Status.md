@@ -78,7 +78,27 @@
           - [X] [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
           - [X] [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
       - [ ] OOP
-      - [ ] SQL
+      - [X] [OS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/6%5D.%20OS/OS_MCQs.md)
+         - [X] [Process Management](https://www.geeksforgeeks.org/operating-systems-gq/process-synchronization-gq/)
+         - [X] [Memory Management](https://www.geeksforgeeks.org/operating-systems-gq/memory-management-gq/)
+         - [X] [Input Output Systems](https://www.geeksforgeeks.org/operating-systems-gq/iinput-output-systems-gq/)
+         - [X] [UNIX](https://www.geeksforgeeks.org/operating-systems-gq/unix-gq/)
+         - [X] [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-gq/)
+         - [X] [Deadlock](https://www.geeksforgeeks.org/deadlock-gq/)
+      - [X] [DBMS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/7%5D.%20DBMS/DBMS_MCQs.md)
+         - [X] [ER and Relational Models](https://www.geeksforgeeks.org/dbms-gq/er-and-relational-models-gq/)
+         - [X] [Database Design (Normal Forms)](https://www.geeksforgeeks.org/dbms-gq/database-design-normal-forms-gq/)
+         - [X] [Transactions and concurrency control](https://www.geeksforgeeks.org/dbms-gq/transactions-and-concurrency-control-gq/)
+         - [X] [File structures](https://www.geeksforgeeks.org/dbms-gq/file-structures-sequential-files-indexing-b-and-b-trees-gq/)
+      - [X] [SQL](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
+      - [X] [CN](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/9%5D.%20CN/CN_MCQs.md)
+         - [X] [Data Link Layer](https://www.geeksforgeeks.org/data-link-layer-gq/)
+         - [X] [Network Layer](https://www.geeksforgeeks.org/network-layer-gq/)
+         - [X] [IP Addressing](https://www.geeksforgeeks.org/ip-addressing-gq/)
+         - [X] [Transport Layer](https://www.geeksforgeeks.org/transport-layer-gq/)
+         - [X] [Misc Topics in Computer Networks](https://www.geeksforgeeks.org/misc-topics-in-computer-networks-gq/)
+         - [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-gq/)
+         - [X] [Network Security](https://www.geeksforgeeks.org/network-security-gq/)
    - [ ] [Puzzles](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles)
 
 ---
@@ -330,16 +350,116 @@
          - [X] [SQL](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/05%5D.%20SQL)
          - [ ] Database
          - [ ] Mathematics
-         - [ ] Problem Solving
-            - [ ] Data Structures
-            - [ ] Algorithms
+         - [ ] [Problem Solving](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/08%5D.%20Problem%20Solving)
+            - [ ] [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/08%5D.%20Problem%20Solving/Data%20Structures)
+               - [ ] Arrays
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Linked Lists
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Trees
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Balanced Trees
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Stacks
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Queues
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Heap
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Disjoint Set
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Multiple Choice
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Trie
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Advanced
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+            - [ ] [Algorithms](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/08%5D.%20Problem%20Solving/Algorithms)
+               - [ ] Warmup
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Implementation
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Strings
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Sorting
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Search
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Graph Theory
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Greedy
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Dynamic Programming
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Constructive Algorithms
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Bit Manipulation
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Recursion
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Game Theory
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] NP Complete
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
+               - [ ] Debugging
+                  - [ ] C++
+                  - [ ] Python
+                  - [ ] Java
          - [ ] Interview Preparation Kit
          - [X] [30 Days of Code](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/10%5D.%2030%20Days%20of%20Code)
-            - [ ] C++
-            - [X] Python
-            - [ ] Bash
-            - [ ] Scala
-         - [10 Days of JavaScript](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/11%5D.%2010%20Days%20of%20JavaScript)
+            - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/10%5D.%2030%20Days%20of%20Code/C%2B%2B)
+            - [X] [Python](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/10%5D.%2030%20Days%20of%20Code/Python)
+            - [ ] [Bash](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/10%5D.%2030%20Days%20of%20Code/Bash)
+            - [ ] [Scala](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/10%5D.%2030%20Days%20of%20Code/Scala)
+         - [X] [10 Days of JavaScript](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/11%5D.%2010%20Days%20of%20JavaScript)
          - [X] [10 Days of Statistics](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/1%5D.%20Practice/12%5D.%2010%20Days%20of%20Statistics)
       - [ ] [Compete](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/03%5D.%20HackerRank/2%5D.%20Compete)
          - [ ] ProjectEuler+
@@ -357,7 +477,7 @@
             - [X] [Number Theory Part 1](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/05%5D.%20HackerEarth/1%5D.%20Practice/5%5D.%20Code%20Monk%20Series/05%5D.%20Number%20Theory%20Part%201)
             - [X] [Check Point - 1](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/05%5D.%20HackerEarth/1%5D.%20Practice/5%5D.%20Code%20Monk%20Series/06%5D.%20Check%20Point%20-%201)
       - [ ] Compete
-   - [ ] [CodeChef]()
+   - [ ] [CodeChef](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Competitive%20Programming/06%5D.%20CodeChef)
       - [ ] PRACTICE & LEARN
          - [ ] Beginner
          - [ ] Easy
