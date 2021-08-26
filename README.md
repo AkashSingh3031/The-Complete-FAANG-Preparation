@@ -186,6 +186,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   |   ├── Data Structures
 |   |   ├── Algorithms
 |   |   ├── Must Do Coding Questions
+|   |   ├── Competitive Programming – A Complete Guide
 |   |   └── ...
 |   |
 |   ├── LeetCode
