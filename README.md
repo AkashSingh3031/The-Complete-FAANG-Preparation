@@ -696,6 +696,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/RahulSurana123"><img src="https://avatars.githubusercontent.com/u/35515322?v=4" width="100px;" alt=""/><br /><sub><b>RahulSurana123</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=RahulSurana123" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
     
 <td align="center"><a href="https://github.com/imsoumen"><img src="https://avatars.githubusercontent.com/u/43337272?v=4" width="100px;" alt=""/><br /><sub><b>imsoumen</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=imsoumen" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
+    
+<td align="center"><a href="https://github.com/thisisbillall"><img src="https://avatars.githubusercontent.com/u/74954492?v=4" width="100px;" alt=""/><br /><sub><b>thisisbillall</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=thisisbillall" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>     
 </table>
 
 
