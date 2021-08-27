@@ -1,3 +1,3 @@
-<h1 align='center'> C Programming MCQs </h1><br>
+<h1 align='center'> OOP MCQs </h1><br>
 
 - [OOP](https://www.javatpoint.com/oops-mcq)
