@@ -274,16 +274,181 @@
    - [ ] [Striver Series](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series)
       - [ ] [30 Days of SDE Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/30%20Days%20of%20SDE%20Sheet)
          - [ ] C++
+            - [ ] Day-01 (Arrays)
+            - [ ] Day-02 (Arrays)
+            - [ ] Day-03 (Arrays/Maths)
+            - [ ] Day-04 (Hashing)
+            - [ ] Day-05 (Linked List)
+            - [ ] Day-06 (Linked List)
+            - [ ] Day-07 (2-Pointer)
+            - [ ] Day-08 (Greedy)
+            - [ ] Day-09 (Recursion)
+            - [ ] Day-10 (Recursion and Backtracking)
+            - [ ] Day-11 (Binary Search)
+            - [ ] Day-12 (Bits)
+            - [ ] Day-13 (Stack and Queue)
+            - [ ] Day-14 (Stack and Queue)
+            - [ ] Day-15 (String)
+            - [ ] Day-16 (String)
+            - [ ] Day-17 (Binary Tree)
+            - [ ] Day-18 (Binary Tree)
+            - [ ] Day-19 (Binary Tree)
+            - [ ] Day-20 (Binary Search Tree)
+            - [ ] Day-21 (Binary Search Tree)
+            - [ ] Day-22 (Mixed Questions)
+            - [ ] Day-23 (Graph)
+            - [ ] Day-24 (Graph)
+            - [ ] Day-25 (Dynamic Programming)
+            - [ ] Day-26 (Dynamic Programming)
          - [ ] Python
+            - [ ] Day-01 (Arrays)
+            - [ ] Day-02 (Arrays)
+            - [ ] Day-03 (Arrays/Maths)
+            - [ ] Day-04 (Hashing)
+            - [ ] Day-05 (Linked List)
+            - [ ] Day-06 (Linked List)
+            - [ ] Day-07 (2-Pointer)
+            - [ ] Day-08 (Greedy)
+            - [ ] Day-09 (Recursion)
+            - [ ] Day-10 (Recursion and Backtracking)
+            - [ ] Day-11 (Binary Search)
+            - [ ] Day-12 (Bits)
+            - [ ] Day-13 (Stack and Queue)
+            - [ ] Day-14 (Stack and Queue)
+            - [ ] Day-15 (String)
+            - [ ] Day-16 (String)
+            - [ ] Day-17 (Binary Tree)
+            - [ ] Day-18 (Binary Tree)
+            - [ ] Day-19 (Binary Tree)
+            - [ ] Day-20 (Binary Search Tree)
+            - [ ] Day-21 (Binary Search Tree)
+            - [ ] Day-22 (Mixed Questions)
+            - [ ] Day-23 (Graph)
+            - [ ] Day-24 (Graph)
+            - [ ] Day-25 (Dynamic Programming)
+            - [ ] Day-26 (Dynamic Programming)
          - [ ] Java
+            - [ ] Day-01 (Arrays)
+            - [ ] Day-02 (Arrays)
+            - [ ] Day-03 (Arrays/Maths)
+            - [ ] Day-04 (Hashing)
+            - [ ] Day-05 (Linked List)
+            - [ ] Day-06 (Linked List)
+            - [ ] Day-07 (2-Pointer)
+            - [ ] Day-08 (Greedy)
+            - [ ] Day-09 (Recursion)
+            - [ ] Day-10 (Recursion and Backtracking)
+            - [ ] Day-11 (Binary Search)
+            - [ ] Day-12 (Bits)
+            - [ ] Day-13 (Stack and Queue)
+            - [ ] Day-14 (Stack and Queue)
+            - [ ] Day-15 (String)
+            - [ ] Day-16 (String)
+            - [ ] Day-17 (Binary Tree)
+            - [ ] Day-18 (Binary Tree)
+            - [ ] Day-19 (Binary Tree)
+            - [ ] Day-20 (Binary Search Tree)
+            - [ ] Day-21 (Binary Search Tree)
+            - [ ] Day-22 (Mixed Questions)
+            - [ ] Day-23 (Graph)
+            - [ ] Day-24 (Graph)
+            - [ ] Day-25 (Dynamic Programming)
+            - [ ] Day-26 (Dynamic Programming)
       - [ ]  [Algorithms for Coding Round Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/Algorithms%20for%20Coding%20Round%20Sheet)
          - [ ] C++
+            - [ ] Binary Search
+            - [ ] Prefix Sum
+            - [ ] Primes/Divisors
+            - [ ] Divide and Conquer
+            - [ ] String Algorithms
+            - [ ] Tree Algorithms
+            - [ ] Graph Algorithms
+            - [ ] Disjoint Set
+            - [ ] Segment Trees
+            - [ ] Dynamic Programming
          - [ ] Python
+            - [ ] Binary Search
+            - [ ] Prefix Sum
+            - [ ] Primes/Divisors
+            - [ ] Divide and Conquer
+            - [ ] String Algorithms
+            - [ ] Tree Algorithms
+            - [ ] Graph Algorithms
+            - [ ] Disjoint Set
+            - [ ] Segment Trees
+            - [ ] Dynamic Programming
          - [ ] Java
+            - [ ] Binary Search
+            - [ ] Prefix Sum
+            - [ ] Primes/Divisors
+            - [ ] Divide and Conquer
+            - [ ] String Algorithms
+            - [ ] Tree Algorithms
+            - [ ] Graph Algorithms
+            - [ ] Disjoint Set
+            - [ ] Segment Trees
+            - [ ] Dynamic Programming
       - [ ] [Competitive Programming Sheet](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/4%5D.%20Striver%20Series/Competitive%20Programming%20Sheet)
          - [ ] C++
+            - [ ] Linear Search
+            - [ ] Hashing
+            - [ ] Prefix Sum
+            - [ ] Sliding Window
+            - [ ] Binary Search
+            - [ ] Prime, Sieve, Segmented Sieve, Prime Factorisation
+            - [ ] Constructive Problems having swapping terms in it
+            - [ ] Bit Manipulation/Power Set
+            - [ ] Greedy Algorithms
+            - [ ] Divide and Conquer
+            - [ ] Stack/Queues/Priority Queues
+            - [ ] String Algorithms
+            - [ ] Tree
+            - [ ] Graph Algorithms
+            - [ ] Dynamic Programming
+            - [ ] Disjoint Set
+            - [ ] Sqrt Decomposition
+            - [ ] Fenwick Tree
+            - [ ] Segment Tree
          - [ ] Python
+            - [ ] Linear Search
+            - [ ] Hashing
+            - [ ] Prefix Sum
+            - [ ] Sliding Window
+            - [ ] Binary Search
+            - [ ] Prime, Sieve, Segmented Sieve, Prime Factorisation
+            - [ ] Constructive Problems having swapping terms in it
+            - [ ] Bit Manipulation/Power Set
+            - [ ] Greedy Algorithms
+            - [ ] Divide and Conquer
+            - [ ] Stack/Queues/Priority Queues
+            - [ ] String Algorithms
+            - [ ] Tree
+            - [ ] Graph Algorithms
+            - [ ] Dynamic Programming
+            - [ ] Disjoint Set
+            - [ ] Sqrt Decomposition
+            - [ ] Fenwick Tree
+            - [ ] Segment Tree
          - [ ] Java
+            - [ ] Linear Search
+            - [ ] Hashing
+            - [ ] Prefix Sum
+            - [ ] Sliding Window
+            - [ ] Binary Search
+            - [ ] Prime, Sieve, Segmented Sieve, Prime Factorisation
+            - [ ] Constructive Problems having swapping terms in it
+            - [ ] Bit Manipulation/Power Set
+            - [ ] Greedy Algorithms
+            - [ ] Divide and Conquer
+            - [ ] Stack/Queues/Priority Queues
+            - [ ] String Algorithms
+            - [ ] Tree
+            - [ ] Graph Algorithms
+            - [ ] Dynamic Programming
+            - [ ] Disjoint Set
+            - [ ] Sqrt Decomposition
+            - [ ] Fenwick Tree
+            - [ ] Segment Tree
    - [ ] FAANG Interview DSA Questions
       - [ ] Facebook
       - [ ] Amazon
