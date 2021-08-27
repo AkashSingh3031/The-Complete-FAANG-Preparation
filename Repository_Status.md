@@ -24,7 +24,7 @@
    - [ ] [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning)
       - [ ] Quantitative Analysis
       - [ ] Logical and Verbal Reasoning
-   - [ ] [Basic Programming MCQs](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs)
+   - [X] [Basic Programming+Technical MCQs](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs)
       - [X] [C Programming](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/1%5D.%20C/C_MCQs.md)
          - [X] [Input and Output](https://www.geeksforgeeks.org/c-language-2-gq/input-and-output-gq/)
          - [X] [Operators](https://www.geeksforgeeks.org/c-language-2-gq/operators-gq/)
@@ -77,7 +77,8 @@
           - [X] [Functions](https://www.geeksforgeeks.org/java-gq/functions-2-gq/)
           - [X] [final keyword](https://www.geeksforgeeks.org/java-gq/final-keyword-gq/)
           - [X] [Operators](https://www.geeksforgeeks.org/java-gq/operators-gq/)
-      - [ ] OOP
+      - [X] [OOP](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/5%5D.%20OOP/OOP_MCQs.md)
+         - [X] [OOP](https://www.javatpoint.com/oops-mcq) 
       - [X] [OS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/6%5D.%20OS/OS_MCQs.md)
          - [X] [Process Management](https://www.geeksforgeeks.org/operating-systems-gq/process-synchronization-gq/)
          - [X] [Memory Management](https://www.geeksforgeeks.org/operating-systems-gq/memory-management-gq/)
@@ -90,7 +91,8 @@
          - [X] [Database Design (Normal Forms)](https://www.geeksforgeeks.org/dbms-gq/database-design-normal-forms-gq/)
          - [X] [Transactions and concurrency control](https://www.geeksforgeeks.org/dbms-gq/transactions-and-concurrency-control-gq/)
          - [X] [File structures](https://www.geeksforgeeks.org/dbms-gq/file-structures-sequential-files-indexing-b-and-b-trees-gq/)
-      - [X] [SQL](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
+      - [X] [SQL](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/8%5D.%20SQL/SQL_MCQs.md)
+         - [X] [SQL](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
       - [X] [CN](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs/9%5D.%20CN/CN_MCQs.md)
          - [X] [Data Link Layer](https://www.geeksforgeeks.org/data-link-layer-gq/)
          - [X] [Network Layer](https://www.geeksforgeeks.org/network-layer-gq/)
