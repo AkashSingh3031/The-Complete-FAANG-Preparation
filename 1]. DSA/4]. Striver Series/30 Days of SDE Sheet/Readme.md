@@ -91,3 +91,49 @@
 </div>
 <br/>
 </details>
+
+## Day-5: (Linked List)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Hashing-6-green?style=for-the-badge"></summary>
+
+
+| S.No.    | Topic:                      | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
+| -------  |:---------------------------:|------------------------------------------------------------------------------------------------------|:---------:|--------|--------|--------|----------------|
+| 1        | `Linked List`               | Reverse a Linked List                                                                                |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26"><img src="https://img.shields.io/badge/Video-Solution-green"></a>   |
+| 2        | `Linked List`               | Find middle of Linked List                                                                           |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 3        | `Linked List`               | Merge two sorted Linked List                                                                         |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 4        | `Linked List`               | Remove N-th node from back of Linked List                                                            |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 5        | `Linked List`               | Delete a given Node when a node is given. (0(1) solution)                                            |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 6        | `Linked List`               | Add two numbers as LinkedList                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=31"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+ 
+<br/>
+<div align="right">
+    <b><a href="#30-days-of-sde-sheet">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
+
+
+## Day-6: (Linked List)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Hashing-6-green?style=for-the-badge"></summary>
+
+
+| S.No.    | Topic:                      | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
+| -------  |:---------------------------:|------------------------------------------------------------------------------------------------------|:---------:|--------|--------|--------|----------------|
+| 1        | `Linked List`               | Find intersection point of Y Linked List                                                             |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32"><img src="https://img.shields.io/badge/Video-Solution-green"></a>   |
+| 2        | `Linked List`               | Detect a cycle in Linked List                                                                        |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 3        | `Linked List`               | Reverse a Linked List in groups of size k                                                            |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 4        | `Linked List`               | Check if a Linked List is palindrome or not                                                          |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=35"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 5        | `Linked List`               | Find the starting point of the Loop of Linked List                                                   |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 6        | `Linked List`               | Flattening of a Linked List                                                                          |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+| 7        | `Linked List`               | Rotate a Linked List                                                                                 |❌         |<a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a>  |  <a href="#"><img src="https://img.shields.io/badge/Solution-red"></a> |<a href="https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
+
+<br/>
+<div align="right">
+    <b><a href="#30-days-of-sde-sheet">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
