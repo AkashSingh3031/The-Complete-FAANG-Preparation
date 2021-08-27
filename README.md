@@ -95,10 +95,21 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 .
 ├── ...
 ├── 𝑴𝒊𝒔𝒄𝒆𝒍𝒍𝒂𝒏𝒆𝒐𝒖𝒔 𝑺𝒕𝒖𝒇𝒇
-|   ├── Aptitude & Reasoning              
+|   ├── Aptitude & Reasoning 
+|   |   ├── Quantitative Analysis
+|   |   ├── Logical and Verbal Reasoning
 |   |   └── ...
 |   |
-|   ├── Basic Programming MCQs
+|   ├── Basic Programming+Technical MCQs
+|   |   ├── C Programming
+|   |   ├── C++ Programming
+|   |   ├── Pyhton Programming
+|   |   ├── Java Programming
+|   |   ├── Object Oriented Programming (OOP)
+|   |   ├── Operating System (OS)
+|   |   ├── Database Management System (DBMS)
+|   |   ├── Structured Query Language (SQL)
+|   |   ├── Computer Network (CN)
 |   |   └── ...
 |   |
 |   ├── Puzzles
