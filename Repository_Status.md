@@ -12,7 +12,7 @@
 | 5.       | [Low Level Design](#-------------low-level-design-for-sde-1----) |
 | 6.       | [Projects](#-------------projects----) |
 | 7.       | [Behavioural Interview Questions](#-------------behavioural-interview-questions----) |
-| 8.       | [Impotant Books and Resources](#-------------important-books-and-resources----) |
+| 8.       | [Important Books and Resources](#-------------important-books-and-resources----) |
 
 <h2 align='center'>
     <a href="#"> 
