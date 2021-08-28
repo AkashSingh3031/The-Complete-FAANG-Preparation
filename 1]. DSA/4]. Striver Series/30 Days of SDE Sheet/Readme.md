@@ -95,7 +95,7 @@
 ## Day-5: (Linked List)
 
 <details>
-  <summary><img id="array" src="https://img.shields.io/badge/Hashing-6-green?style=for-the-badge"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/Linked-List-6-green?style=for-the-badge"></summary>
 
 
 | S.No.    | Topic:                      | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
@@ -118,7 +118,7 @@
 ## Day-6: (Linked List)
 
 <details>
-  <summary><img id="array" src="https://img.shields.io/badge/Hashing-7-yellow?style=for-the-badge"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/Linked-List-7-yellow?style=for-the-badge"></summary>
 
 
 | S.No.    | Topic:                      | Problem                                                                                              | Solutions | Python | C++    | Java   | Video-Solution |
