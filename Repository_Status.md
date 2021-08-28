@@ -877,13 +877,13 @@
                   - [ ] Python
       - [ ] [Amazon](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon)
          - [ ] [Data Structures](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon/1%5D.%20Data%20Structures)
-            - [ ] Array
-               - [ ] School
-                  - [ ] C++
+            - [ ] [Array](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon/1%5D.%20Data%20Structures/01%5D.%20Array)
+               - [ ] [School](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon/1%5D.%20Data%20Structures/01%5D.%20Array/1%5D.%20School)
+                  - [X] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon/1%5D.%20Data%20Structures/01%5D.%20Array/1%5D.%20School/C%2B%2B)
                   - [ ] Java
                   - [ ] Python
-               - [ ] Basic
-                  - [ ] C++
+               - [ ] [Basic](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon/1%5D.%20Data%20Structures/01%5D.%20Array/2%5D.%20Basic)
+                  - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/FAANG%20Interview%20DSA%20Questions/Amazon/1%5D.%20Data%20Structures/01%5D.%20Array/2%5D.%20Basic/C%2B%2B)
                   - [ ] Java
                   - [ ] Python
                - [ ] Easy
