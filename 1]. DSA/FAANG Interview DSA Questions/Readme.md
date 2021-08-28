@@ -1,1 +1,1 @@
-<h1 align="center" href="https://practice.geeksforgeeks.org/company-tags"> GeeksforGeeks - Company Tag Questions </h1>
+<h1 align="center" <a href="https://practice.geeksforgeeks.org/company-tags"> GeeksforGeeks - Company Tag Questions </a></h1>
