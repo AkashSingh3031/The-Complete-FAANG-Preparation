@@ -28,12 +28,14 @@ int main()
 	    
 	    int arr[n];
 	    for(int i=0; i<n; i++)
-            cin>>arr[i];
+            	cin>>arr[i];
+		
 	    Solution ob;
 	    int res = ob.RotateArray(arr, n, d);
+		
 	    for(int i=0; i<n; i++)
-            cout<<arr[i]<<" ";
-        cout<<endl;
+            	cout<<arr[i]<<" ";
+            cout<<endl;
 	}
 	return 0;
 }
