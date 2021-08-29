@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFD700&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=23FF4DFF&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
 <!-- <p align="center">
