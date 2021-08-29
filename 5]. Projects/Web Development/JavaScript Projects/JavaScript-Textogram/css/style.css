@@ -1,0 +1,214 @@
+@import 'utilities.css';
+:root{
+    --primary:#3DCFD3;
+    --dark:#161616;
+    --pure:#FFFFFF;
+    --ternery:#898989;
+    --light:#F2F2F2;
+   --secondary:#070606
+}
+body{
+    font-family: 'Poppins',sans-serif;
+   margin: 0;
+   overflow-x: hidden;
+
+}
+.func{
+    padding-left: 15rem;
+}
+.nav{
+margin: 0px; 
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+*{
+   padding:0;
+   margin:0;
+   box-sizing: border-box;
+   -webkit-font-smotthing:antialiased;
+}
+.header{
+    background: var(--dark);
+    
+}
+ 
+.container{
+    max-width:1152px;
+    padding:0 15px;
+     margin:0 auto;
+
+}
+
+.inp{
+    padding-top:1rem;
+    padding-left:15rem;
+}
+.header nav .left a{
+    color:var(--pure);
+    text-decoration: none;
+    margin-right:1rem;
+   
+    transition:all .3s ease;
+}
+.header nav .left a:hover{
+   color:var(--primary);
+}
+.header nav{
+    padding:01rem 0;
+}
+
+.header nav .branding{
+    margin-right:3rem;
+}
+.header nav .branding a{
+    margin-right:1rem;
+}  
+   
+.butn1{
+    
+    width: 100px;
+    height: 40px;
+}
+
+
+
+
+ 
+ .i{
+    padding-left: 26rem;
+ }
+.inputfile{
+    padding-left: 30rem;
+}
+.inputfile1{
+    padding-left: 28rem;
+}
+.header nav .left a{
+    color:var(--pure);
+    text-decoration: none;
+    margin-right:2rem;
+     
+    transition:all .3s ease;
+}
+.header nav .left a:hover{
+   color:var(--primary);
+}
+.header nav{
+    padding:2rem 0;
+}
+
+.header nav .branding{
+    margin-right:3rem;
+}
+.header nav .branding a{
+    margin-right:3rem;
+} 
+section{
+    padding:2rem 0;
+}
+ 
+
+    
+
+ .section-head{
+     color:var(--secondary);
+     text-align: center;
+     margin-bottom: 1rem;
+     line-height:0.5;
+ }
+ .section-head span{
+color:var(--primary);
+ }
+
+ section.skills .card-wrapper{
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+     grid-row-gap:6rem;
+     grid-column-gap:2rem;
+ }  
+ section.contact .card-wrapper{
+     display:grid;
+     grid-template-columns: repeat(3,1fr);
+     grid-gap:3rem;
+     padding-top: 1rem;
+
+ } 
+ section.contact .card-wrapper .card{
+     text-align: center;
+ }
+ section.contact .card-wrapper .card img{
+     margin-bottom: 3rem;
+ }
+
+ section.contact .card-wrapper .card h1{
+     font-weight: 400;
+     margin-bottom: 1rem;
+ }
+ section.contact .card-wrapper .card h6{
+     font-size:1rem;
+     font-weight: 400;
+     color:var(--ternery);
+     margin-bottom: 4rem;
+ }
+ section.contact .input-wrap{
+     display:grid;
+     grid-template-columns: repeat(2,1fr);
+      grid-gap:2rem;
+      margin-bottom: 2rem;
+ }
+
+ section.contact .input-wrap-2{
+     display:flex;
+     flex-direction: column;
+ }
+ section.contact  input{
+     padding:0.5rem;
+     border:1px solid var(--light);
+    
+ }
+ section.contact .input-wrap-2 input{
+     margin-bottom:2rem;
+
+     border:1px solid var(--light);
+     font-size:0.9rem;
+ }
+ section.contact .input-wrap-2 textarea{
+     padding:0.5rem;
+     border:1px solid var(--light);
+     font-size:0.9rem;
+ }
+ section.contact .input-wrap-2 textarea:focus{
+   outline:none;
+ }
+ section.contact input:focus{
+   outline:none;
+ }
+ section.contact  .btn-wrapper{
+   text-align: center;
+ }
+ ::placeholder { 
+     font-family: arial;
+ }
+  
+@media screen and (max-width:1150px){
+   #container{
+       width:100%;
+   }
+   #header{
+      width:70%;
+   }
+   #inp{
+    width:100%;
+ }
+   #i{
+    width:100%;
+   }
+   #inputfile{
+    width:100%;
+   }
+   #inputfile1{
+    width:100%;
+   }
+} 
