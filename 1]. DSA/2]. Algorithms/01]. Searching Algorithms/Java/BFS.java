@@ -28,16 +28,14 @@ public class BFS {
         visited[s] = true;
         queue.add(s);
 
-        while (queue.size() != 0) {
+        while (!queue.isEmpty()) {
             s = queue.poll();
             System.out.print(s + " ");
 
-            Iterator<Integer> i = adj[s].listIterator();
-            while (i.hasNext()) {
-                int n = i.next();
-                if (!visited[n]) {
-                    visited[n] = true;
-                    queue.add(n);
+            for (Integer neighbour : adj[s]) {
+                if (!visited[neighbour]) {
+                    visited[neighbour] = true;
+                    queue.add(neighbour);
                 }
             }
         }
