@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Textogram</title>
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+     <link rel="stylesheet" type="text/css" href="./css/style.css">
+  <!--
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link  rel="stylesheet" href="./css/style.css">-->
+    <style>
+        .switch {
+          position: relative;
+          display: inline-block;
+          width: 45px;
+          height: 24px;
+        }
+        
+        .switch input { 
+          opacity: 0;
+          width: 0;
+          height: 0;
+        }
+        
+        .slider {
+          position: absolute;
+          cursor: pointer;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-color: #ccc;
+          -webkit-transition: .4s;
+          transition: .4s;
+        }
+        
+        .slider:before {
+          position: absolute;
+          content: "";
+          height: 16px;
+          width: 13px;
+          left: 0px;
+          bottom: 4px;
+          background-color: white;
+          -webkit-transition: .4s;
+          transition: .4s;
+        }
+        
+        input:checked + .slider {
+          background-color: #2196F3;
+        }
+        
+        input:focus + .slider {
+          box-shadow: 0 0 1px #2196F3;
+        }
+        
+        input:checked + .slider:before {
+          -webkit-transform: translateX(26px);
+          -ms-transform: translateX(26px);
+          transform: translateX(26px);
+        }
+        
+        /* Rounded sliders */
+        .slider.round {
+          border-radius: 24px;
+        }
+        
+        .slider.round:before {
+          border-radius: 50%;
+        }
+        </style>
+</head>
+<body> 
+<div class="header">
+    
+    <div class="container">
+        
+    <nav id="main-nav" class="flex items-cen justify">
+        
+        <div class="left flex items-cen">
+            <a href="#" style="font-size:22px; font-weight: bold;" >Textogram</a>
+         
+               
+               <a href="#">Home</a>
+               <a href="about.html">About Us</a>
+               <a href="contact.html">Contact Us</a>
+              
+           </div>
+          
+           </div>     
+          
+   </div>
+        
+         
+       
+    </nav>
+    </div>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Welcome to Textogram!</strong> You can format your text here as you wish...</div>
+    <div class="inp"> 
+        <script type="text/javascript" src="https://code.responsivevoice.org/responsivevoice.js"></script>
+      
+        <p>Enter your text and format!!
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            
+            
+            
+            <button onclick="speakText()"><img class="img" src="play.png" width="20px"> </button> 
+            &nbsp; &nbsp; &nbsp;  
+            <button onclick="pause()"><img class="img" src="pause.png" width="20px"> </button> 
+            &nbsp; &nbsp; &nbsp;  
+            <button onclick="stop()"><img class="img" src="stop.png" width="20px"> </button> 
+            &nbsp; &nbsp; &nbsp;  
+            <button onclick="resume()"><img class="img" src="resume.jfif" width="20px"> </button></p>
+         
+        <textarea id="txt" cols="130" rows="5" style="width: 80%;  
+        line-height: 20px"></textarea><br>
+       <div class="inputfile"> <p>(or)</p></div>
+       <div class="inputfile1"> <input type="file" name="inputfile"
+        id="inputfile"><br>
+        
+       </div>
+       <br>
+       <div class="i">Please upload only .txt files </div>
+        <script type="text/javascript"> 
+          document.getElementById('inputfile') 
+              .addEventListener('change', function() { 
+                
+              var fr=new FileReader(); 
+              fr.onload=function(){ 
+                  document.getElementById('txt') 
+                          .textContent=fr.result; 
+              } 
+                
+              fr.readAsText(this.files[0]); 
+          }) 
+      </script> 
+        
+        <script>
+          
+            function speakText(){
+              var text = document.getElementById('txt').value;
+                if(text.trim().length==0)
+                responsiveVoice.speak("Please enter any text");
+                
+                else
+                {
+                  
+                responsiveVoice.speak(text);
+                
+                }
+                
+            }
+            function pause()
+            {
+              responsiveVoice.pause();
+            }
+            function resume()
+            {
+              responsiveVoice.resume();
+            }
+            function stop()
+            {
+             
+              responsiveVoice.cancel();
+            }
+        </script>
+        
+   
+</div>
+
+ 
+ <div class="func"> 
+  
+  <label class="switch">
+    <input type="checkbox"   id="0" unchecked>
+    <span class="slider round"></span>
+  </label>
+  <label>Convert text into UPPER CASE</label><br>
+
+  <label class="switch">
+    <input type="checkbox"  id="1" unchecked>
+    <span class="slider round"></span>
+  </label>
+
+  <label>Convert text into lower case</label><br>
+  <label class="switch">
+    <input type="checkbox"  id="2" unchecked>
+    <span class="slider round"></span>
+  </label>
+  <label>Frequency of each Word</label><br>
+  <label class="switch">
+    <input type="checkbox"  id="3" unchecked>
+    <span class="slider round"></span>
+  </label>
+  <label>Character Count</label><br>
+  <label class="switch">
+    <input type="checkbox"  id="4" unchecked> 
+    <span class="slider round"></span>
+  </label>
+  <label>Word Count</label><br>
+  <label class="switch">
+    <input type="checkbox"  id="5" unchecked>
+    <span class="slider round"></span>
+  </label>
+  <label>Number of lines in Text</label><br>
+</div>
+<center><button class="btn" onclick="analyze()">Format</button></center>
+<br>
+<br>
+
+<center><p id="demo"></p></center>
+ 
+        <script> 
+                  function analyze()
+                  {
+                    document.getElementById("demo").innerHTML="";
+                   
+                    var text = document.getElementById('txt').value;
+
+                  
+                    var isChecked0=document.getElementById("0");
+                    var isChecked1=document.getElementById("1");
+                    var isChecked2=document.getElementById("2");
+                    var isChecked3=document.getElementById("3");
+                    var isChecked4=document.getElementById("4");
+                    var isChecked5=document.getElementById("5");
+                    if(isChecked0.checked==true)
+                    {
+                          var text1=text;
+                         document.getElementById("demo").innerHTML+="Your text after making into UpperCase is: <br/>" 
+                         for(var i=0;i<text.length;i++)
+                         {
+                               if(text[i]=='\n')
+                               document.getElementById("demo").innerHTML +='<br/>';
+                               else
+                               document.getElementById("demo").innerHTML +=text1[i].toUpperCase();
+                         }
+                      
+                        document.getElementById("demo").innerHTML+="<br>";
+                        document.getElementById("demo").innerHTML+="---------------------------------------------------<br>";
+                    }
+                    if(isChecked1.checked==true)
+                    {
+                      var text1=text;
+                         document.getElementById("demo").innerHTML+="Your text after making into LowerCase is: <br/>" 
+                         for(var i=0;i<text.length;i++)
+                         {
+                               if(text[i]=='\n')
+                               document.getElementById("demo").innerHTML +='<br/>';
+                               else
+                               document.getElementById("demo").innerHTML +=text1[i].toLowerCase();
+                         }
+                      
+                        document.getElementById("demo").innerHTML+="<br>";
+                        document.getElementById("demo").innerHTML+="---------------------------------------------------<br>";
+                    }
+                    if(isChecked2.checked==true)
+                    {
+                      
+                        var map1 = new Map();
+                     
+                          var i;
+                          var s="";
+                          for( i=0;i<text.length;i++)
+                          {
+                             if(text[i]==' ' || text[i]=='\n')
+                             {
+                               if(s.indexOf(' ') == -1 && s!="")
+                               {
+                             if(map1.has(s)==false)
+                             map1.set(s,1);
+                             else
+                             map1.set(s,map1.get(s)+1);
+                             s="";
+                               }
+                               s="";
+                             }
+                             else
+                             s=s+text[i];
+                          }
+                          if(s.indexOf(' ') == -1)
+                          {
+                          if(map1.has(s)==false)
+                             map1.set(s,1);
+                             else
+                             map1.set(s,map1.get(s)+1);
+                          }
+                         
+                          document.getElementById("demo").innerHTML+="The frequency of each word in your text is <br>";
+                          map1.forEach((value, key) =>    document.getElementById("demo").innerHTML +=((` ${key}:  ${value}`))+"<br>");
+                          map1.clear();
+                          document.getElementById("demo").innerHTML+="---------------------------------------------------<br>";
+                    }
+                    if(isChecked3.checked==true)
+                    {
+                      var c=0;
+                      
+                      for(var i=0;i<text.length;i++)
+                      {
+                        if(text[i]!=' ' && text[i]!='\n')
+                        c++;
+                      }
+                      document.getElementById("demo").innerHTML +="There are "+(c)+" Characters in your text<br>";
+                      document.getElementById("demo").innerHTML+="---------------------------------------------------<br>";
+                    }
+                    if(isChecked4.checked==true)
+                    {
+                      var map1 = new Map();
+                     
+                     var i;
+                     var s="";
+                     for( i=0;i<text.length;i++)
+                     {
+                        if(text[i]==' ' || text[i]=='\n')
+                        {
+                          if(s.indexOf(' ') == -1 && s!="")
+                          {
+                        if(map1.has(s)==false)
+                        map1.set(s,1);
+                        else
+                        map1.set(s,map1.get(s)+1);
+                        s="";
+                          }
+                          s="";
+                        }
+                        else
+                        s=s+text[i];
+                     }
+                     if(s.indexOf(' ') == -1)
+                     {
+                     if(map1.has(s)==false)
+                        map1.set(s,1);
+                        else
+                        map1.set(s,map1.get(s)+1);
+                     }
+                    
+                      document.getElementById("demo").innerHTML +="There are "+(map1.size)+" words in your text<br>";
+                      document.getElementById("demo").innerHTML+="---------------------------------------------------<br>";
+                    }
+                    if(isChecked5.checked==true)
+                    {
+                      let text = document.getElementById("txt").value;   
+                      let lines = text.split(/\r|\r\n|\n/);
+                      let count = lines.length;
+                      if(count==1)
+                      document.getElementById("demo").innerHTML +="There is "+(count)+" line in your text<br>";
+                      else
+                      document.getElementById("demo").innerHTML +="There are "+(count)+" lines in your text<br>";
+                      document.getElementById("demo").innerHTML+="---------------------------------------------------<br>";
+                    }
+                  
+                    
+                  }
+                 
+
+
+       </script>
+</body>
+</html>
