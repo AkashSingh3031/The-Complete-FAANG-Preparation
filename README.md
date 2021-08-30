@@ -103,7 +103,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |   ├── Basic Programming+Technical MCQs
 |   |   ├── C Programming
 |   |   ├── C++ Programming
-|   |   ├── Pyhton Programming
+|   |   ├── Python Programming
 |   |   ├── Java Programming
 |   |   ├── Object Oriented Programming (OOP)
 |   |   ├── Operating System (OS)
