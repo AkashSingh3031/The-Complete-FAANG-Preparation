@@ -1,0 +1,7 @@
+Added:
+1. Binary Tree Traversals: 
+    a. Inorder
+    b. Preorder
+    c. Postorder
+
+2. Binary Tree Height Calculation
