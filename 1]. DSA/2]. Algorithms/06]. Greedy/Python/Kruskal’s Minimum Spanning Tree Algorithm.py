@@ -1,62 +1,69 @@
-# Python program for Kruskal's algorithm to find
-# Minimum Spanning tree
-# undirected and weighted graph
-# Kruskal's algorithm finds a minimum spanning forest of an undirected edge-weighted graph. 
-# If the graph is connected, it finds a minimum spanning tree. 
-# It is a greedy algorithm in graph theory as in each step it adds the next lowest-weight edge 
- 
+# Kruskal's algorithm in Python
 
-# class 
-class DisjointSet:
-    def __init__(self, n):
-        self.parent = [i for i in range(n)]
-        self.rank = [1 for _ in range(n)]
-    
-    # make a and b part of the same component
-    # union by rank optimization
-    def union(self, a, b):
-        pa = self.find(a)
-        pb = self.find(b)
-        if pa == pb: return
-        if self.rank[pa] > self.rank[pb]:
-            self.parent[pb] = pa
-            self.rank[pa] += self.rank[pb]
+
+class Graph:
+    def __init__(self, vertices):
+        self.V = vertices
+        self.graph = []
+
+    def add_edge(self, u, v, w):
+        self.graph.append([u, v, w])
+
+    # Search function
+
+    def find(self, parent, i):
+        if parent[i] == i:
+            return i
+        return self.find(parent, parent[i])
+
+    def apply_union(self, parent, rank, x, y):
+        xroot = self.find(parent, x)
+        yroot = self.find(parent, y)
+        if rank[xroot] < rank[yroot]:
+            parent[xroot] = yroot
+        elif rank[xroot] > rank[yroot]:
+            parent[yroot] = xroot
         else:
-            self.parent[pa] = pb
-            self.rank[pb] += self.rank[pa]
-    
-    # find the representative of the 
-    # path compression optimization
-    def find(self, a):
-        if self.parent[a] == a:
-            return a
-        
-        self.parent[a] = self.find(self.parent[a])
-        return self.parent[a]
-    
+            parent[yroot] = xroot
+            rank[xroot] += 1
 
-class Solution:
-    def minCostConnectPoints(self, points:list[list[int]]) -> int:
-        
-        n = len(points)
-        edges = []
-        for i in range(n):
-            for j in range(i+1, n):
-                dist = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1])
-                edges.append((dist, i, j))
-        
-        # sort based on cost (i.e. distance)
-        edges.sort()
-        
-        # using Kruskal's algorithm to find the cost of Minimum Spanning Tree
-        res = 0
-        ds = DisjointSet(n)
-        for cost, u, v in edges:
-            if ds.find(u) != ds.find(v):
-                ds.union(u, v)
+    #  Applying Kruskal algorithm
+    def kruskal_algo(self):
+        result = []
+        i, e = 0, 0
+        self.graph = sorted(self.graph, key=lambda item: item[2])
+        parent = []
+        rank = []
+        for node in range(self.V):
+            parent.append(node)
+            rank.append(0)
+        while e < self.V - 1:
+            u, v, w = self.graph[i]
+            i = i + 1
+            x = self.find(parent, u)
+            y = self.find(parent, v)
+            if x != y:
+                e = e + 1
+                result.append([u, v, w])
+                self.apply_union(parent, rank, x, y)
+        for u, v, weight in result:
+            print("%d - %d: %d" % (u, v, weight))
 
-                res += cost
-        
-        return res
 
-# With union by rank - O(log N)  (Time Complexity)
+g = Graph(6)
+g.add_edge(0, 1, 4)
+g.add_edge(0, 2, 4)
+g.add_edge(1, 2, 2)
+g.add_edge(1, 0, 4)
+g.add_edge(2, 0, 4)
+g.add_edge(2, 1, 2)
+g.add_edge(2, 3, 3)
+g.add_edge(2, 5, 2)
+g.add_edge(2, 4, 4)
+g.add_edge(3, 2, 3)
+g.add_edge(3, 4, 3)
+g.add_edge(4, 2, 4)
+g.add_edge(4, 3, 3)
+g.add_edge(5, 2, 2)
+g.add_edge(5, 4, 3)
+g.kruskal_algo()
