@@ -632,7 +632,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
  
 <td align="center"><a href="https://github.com/fame2105"><img src="https://avatars.githubusercontent.com/u/6636804?v=4" width="100px;" alt=""/><br /><sub><b>fame2105</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=fame2105" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
-<td align="center"><a href="https://github.com/saikiran20002102"><img src="https://avatars.githubusercontent.com/u/61832514?v=4" width="100px;" alt=""/><br /><sub><b>saikiran20002102</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=saikiran20002102" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+<!-- <td align="center"><a href="https://github.com/saikiran20002102"><img src="https://avatars.githubusercontent.com/u/61832514?v=4" width="100px;" alt=""/><br /><sub><b>saikiran20002102</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=saikiran20002102" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> -->
     
 <!-- 2nd Row --> 
 <tr>
@@ -648,7 +648,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
  
 <td align="center"><a href="https://github.com/parajshah"><img src="https://avatars.githubusercontent.com/u/65371747?v=4" width="100px;" alt=""/><br /><sub><b>parajshah</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=parajshah" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
-<td align="center"><a href="https://github.com/Pranjal-bisht"><img src="https://avatars.githubusercontent.com/u/58468853?v=4" width="100px;" alt=""/><br /><sub><b>Pranjal-bisht</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Pranjal-bisht" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+<!-- <td align="center"><a href="https://github.com/Pranjal-bisht"><img src="https://avatars.githubusercontent.com/u/58468853?v=4" width="100px;" alt=""/><br /><sub><b>Pranjal-bisht</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Pranjal-bisht" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> -->
     
 <!-- 3rd Row -->  
 <tr>
@@ -664,7 +664,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
  
 <td align="center"><a href="https://github.com/Wenodh"><img src="https://avatars.githubusercontent.com/u/63317955?v=4" width="100px;" alt=""/><br /><sub><b>Wenodh</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Wenodh" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
-<td align="center"><a href="https://github.com/devraj4522"><img src="https://avatars.githubusercontent.com/u/55313450?v=4" width="100px;" alt=""/><br /><sub><b>devraj4522</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=devraj4522" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+<!-- <td align="center"><a href="https://github.com/devraj4522"><img src="https://avatars.githubusercontent.com/u/55313450?v=4" width="100px;" alt=""/><br /><sub><b>devraj4522</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=devraj4522" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> -->
     
 <!-- 4th Row -->  
 <tr>
@@ -680,7 +680,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
  
 <td align="center"><a href="https://github.com/Satyamchaubey07"><img src="https://avatars.githubusercontent.com/u/55735057?v=4" width="100px;" alt=""/><br /><sub><b>Satyamchaubey07</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Satyamchaubey07" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
  
-<td align="center"><a href="https://github.com/vedudx"><img src="https://avatars.githubusercontent.com/u/53002423?v=4" width="100px;" alt=""/><br /><sub><b>vedudx</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=vedudx" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+<!-- <td align="center"><a href="https://github.com/vedudx"><img src="https://avatars.githubusercontent.com/u/53002423?v=4" width="100px;" alt=""/><br /><sub><b>vedudx</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=vedudx" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> -->
     
 <!-- 5th Row -->  
 <tr>
@@ -696,7 +696,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
     
 <td align="center"><a href="https://github.com/Sukhendra523"><img src="https://avatars.githubusercontent.com/u/44740202?v=4" width="100px;" alt=""/><br /><sub><b>Sukhendra523</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Sukhendra523" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
     
-<td align="center"><a href="https://github.com/Ranjul-Arumadi"><img src="https://avatars.githubusercontent.com/u/54582161?v=4" width="100px;" alt=""/><br /><sub><b>Ranjul-Arumadi</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Ranjul-Arumadi" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
+<!-- <td align="center"><a href="https://github.com/Ranjul-Arumadi"><img src="https://avatars.githubusercontent.com/u/54582161?v=4" width="100px;" alt=""/><br /><sub><b>Ranjul-Arumadi</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Ranjul-Arumadi" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  -->
     
 <!-- 6th Row -->     
 <tr>
@@ -712,7 +712,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
     
 <td align="center"><a href="https://github.com/nixmaldonado"><img src="https://avatars.githubusercontent.com/u/8680692?v=4" width="100px;" alt=""/><br /><sub><b>nixmaldonado</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=nixmaldonado" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
     
-<td align="center"><a href="https://github.com/thefool76"><img src="https://avatars.githubusercontent.com/u/69065938?v=4" width="100px;" alt=""/><br /><sub><b>thefool76</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=thefool76" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  
+<!-- <td align="center"><a href="https://github.com/thefool76"><img src="https://avatars.githubusercontent.com/u/69065938?v=4" width="100px;" alt=""/><br /><sub><b>thefool76</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=thefool76" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   -->
     
 <!-- 7th Row -->     
 <tr>
@@ -728,7 +728,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
     
 <td align="center"><a href="https://github.com/Anshir08"><img src="https://avatars.githubusercontent.com/u/69457505?v=4" width="100px;" alt=""/><br /><sub><b>Anshir08</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Anshir08" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  
     
-<td align="center"><a href="https://github.com/harshil202"><img src="https://avatars.githubusercontent.com/u/83488223?v=4" width="100px;" alt=""/><br /><sub><b>harshil202</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=harshil202" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
+<!-- <td align="center"><a href="https://github.com/harshil202"><img src="https://avatars.githubusercontent.com/u/83488223?v=4" width="100px;" alt=""/><br /><sub><b>harshil202</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=harshil202" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  -->
     
 <!-- 8th Row -->    
 <tr>
