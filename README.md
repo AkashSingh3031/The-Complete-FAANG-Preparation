@@ -609,7 +609,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉` `52`
+## `Awesome Contributors ✨🎉` `53`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -736,7 +736,9 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
     
 <td align="center"><a href="https://github.com/maanasvi999"><img src="https://avatars.githubusercontent.com/u/51221086?v=4" width="100px;" alt=""/><br /><sub><b>maanasvi999</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=maanasvi999" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>    
     
-<td align="center"><a href="https://github.com/mansijain980"><img src="https://avatars.githubusercontent.com/u/63226239?v=4" width="100px;" alt=""/><br /><sub><b>mansijain980</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=mansijain980" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
+<td align="center"><a href="https://github.com/mansijain980"><img src="https://avatars.githubusercontent.com/u/63226239?v=4" width="100px;" alt=""/><br /><sub><b>mansijain980</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=mansijain980" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>    
+    
+<td align="center"><a href="https://github.com/tanyagupta0201"><img src="https://avatars.githubusercontent.com/u/66638392?v=4" width="100px;" alt=""/><br /><sub><b>tanyagupta0201</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=tanyagupta0201" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  
 </table>
 
 
