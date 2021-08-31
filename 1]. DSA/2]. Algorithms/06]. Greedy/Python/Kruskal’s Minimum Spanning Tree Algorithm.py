@@ -36,7 +36,7 @@ class DisjointSet:
     
 
 class Solution:
-    def minCostConnectPoints(self, points: list[list[int]]) -> int:
+    def minCostConnectPoints(self, points:list[list[int]]) -> int:
         
         n = len(points)
         edges = []
@@ -54,6 +54,7 @@ class Solution:
         for cost, u, v in edges:
             if ds.find(u) != ds.find(v):
                 ds.union(u, v)
+
                 res += cost
         
         return res
