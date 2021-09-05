@@ -10,7 +10,7 @@
 
 <h1 align='center'>
     <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md"> 
-        Full Repository Status
+        <code> Full Repository Status </code>
     </a>
 </h1>
 
