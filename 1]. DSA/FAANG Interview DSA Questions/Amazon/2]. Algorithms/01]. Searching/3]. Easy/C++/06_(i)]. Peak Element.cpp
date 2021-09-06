@@ -40,17 +40,17 @@ int main()
 		    cout<<0<<endl;
 		else
 		{
-            if(n==1 and A==0)
-                f=1;
-            else if(A==0 and a[0]>=a[1])
-                f=1;
-            else if(A==n-1 and a[n-1]>=a[n-2])
-                f=1;
-            else if(a[A]>=a[A+1] and a[A]>= a[A-1])
-                f=1;
-            else
-                f=0;
-            cout<<f<<endl;
+		    if(n==1 and A==0)
+			f=1;
+		    else if(A==0 and a[0]>=a[1])
+			f=1;
+		    else if(A==n-1 and a[n-1]>=a[n-2])
+			f=1;
+		    else if(a[A]>=a[A+1] and a[A]>= a[A-1])
+			f=1;
+		    else
+			f=0;
+		    cout<<f<<endl;
 		}
 	}
 	return 0;
