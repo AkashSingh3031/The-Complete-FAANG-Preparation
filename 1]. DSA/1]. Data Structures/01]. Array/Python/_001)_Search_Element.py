@@ -1,6 +1,6 @@
 # function to perform linear search for element in array
 def search(arr, element):
-    for index in range(1, len(arr)):
+    for index in range(0, len(arr)):
         if arr[index] == element:
             return index
 
