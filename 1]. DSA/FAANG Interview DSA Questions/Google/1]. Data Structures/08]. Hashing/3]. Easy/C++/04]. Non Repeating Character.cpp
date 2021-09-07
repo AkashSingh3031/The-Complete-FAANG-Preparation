@@ -32,7 +32,7 @@ int main()
         char ans = obj.nonrepeatingCharacter(S);
         
         if(ans != '$')
-	        cout << ans;
+	    	cout << ans;
         else 
             cout << "-1";
             
