@@ -29,14 +29,14 @@ int main()
 	    string S;
 	    cin >> S;
 	    Solution obj;
-        char ans = obj.nonrepeatingCharacter(S);
+            char ans = obj.nonrepeatingCharacter(S);
         
-        if(ans != '$')
-	    	cout << ans;
-        else 
-            cout << "-1";
+            if(ans != '$')
+	        cout << ans;
+            else 
+                cout << "-1";
             
-        cout << endl;
+            cout << endl;
 	    
 	}
 	return 0;
