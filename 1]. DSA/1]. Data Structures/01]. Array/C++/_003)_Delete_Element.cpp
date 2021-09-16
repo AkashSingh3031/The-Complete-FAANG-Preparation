@@ -1,21 +1,25 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+// Function to delete the target element from an array.
 int deleteEle(int arr[], int n, int x)
 {
 	int i = 0;
+	//Iterate over the array to get index of target element.
 	for(i = 0; i < n; i++)
 	{
+		//assigning index value of target element to variable "i".
 		if(arr[i] == x)
 			break;
 	}
 	if(i == n)
 		return n;
 	for(int j = i; j < n - 1; j++)
-	{
+	{	
+		//Shifting elements backward.
 		arr[j] = arr[j + 1];
 	}
+	//returns value of n after deletion
 	return n-1;
 }
 
