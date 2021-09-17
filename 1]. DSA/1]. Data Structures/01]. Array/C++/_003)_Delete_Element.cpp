@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
+
 // Function to delete the target element from an array.
 int deleteEle(int arr[], int n, int x)
 {
@@ -8,7 +9,7 @@ int deleteEle(int arr[], int n, int x)
 	//Iterate over the array to get index of target element.
 	for(i = 0; i < n; i++)
 	{
-		//assigning index value of target element to variable "i".
+		//compare the target value 'x' & current value arr[i] (i.e arr[0] or arr[1]
 		if(arr[i] == x)
 			break;
 	}
