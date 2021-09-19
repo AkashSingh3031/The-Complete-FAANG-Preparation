@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=23FF4DFF&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
-<p align="center">
-    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGO.gif">
-</p><br> 
+<!-- <p align="center">
+    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG.jpg">
+</p><br>  -->
  
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM-3.png)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
