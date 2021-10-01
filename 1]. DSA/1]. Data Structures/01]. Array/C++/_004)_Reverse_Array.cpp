@@ -8,12 +8,13 @@ using namespace std;
 	while(low < high)
 	{
               
-              //using temp variable to swap value of array elements.
+        //using temp variable to swap value of array elements.
 		int temp = arr[low];
 		arr[low] = arr[high];
 		arr[high] = temp;
-              //incrementation 
+        // Increment low till { low < high }
 		low++;
+		// Decement high till { high > low }
 		high--;
 	}
 }
