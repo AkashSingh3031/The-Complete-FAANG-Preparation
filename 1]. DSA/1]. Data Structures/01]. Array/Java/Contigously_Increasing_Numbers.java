@@ -1,3 +1,4 @@
+/*
 Ques:-
 Given two integers start and end, return a sorted list of integers such that every number e is between start = e = end and the digits of e are contiguously increasing. For example, 2345 is contiguously increasing while 135 and 321 are not.
 
@@ -20,6 +21,8 @@ Step 3:- Once we reach start we keep adding element to array and then keep incre
 Step 4:- Since values added to array will be random so we will sort the array after adding all elements till end number.
 
 Ans:-
+*/
+
 import java.util.*;
 
 class Solution {
