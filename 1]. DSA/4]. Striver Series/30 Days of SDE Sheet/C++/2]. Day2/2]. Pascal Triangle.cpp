@@ -1,53 +1,44 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-#define ll long long
+// Function to find the elements of rowIndex in Pascal's Triangle
+vector<int> getRow(int rowIndex)
+{
+     vector<int> currow;
+     // 1st element of every row is 1
+     currow.push_back(1);
 
- // } Driver Code Ends
+     // Check if the row that has to
+     // be returned is the first row
+     if (rowIndex == 0)
+       return currow;
+	
+     // Generate the previous row
+     vector<int> prev = getRow(rowIndex - 1);
 
-class Solution{
-public:
-    vector<ll> nthRowOfPascalTriangle(int n) 
-    {
-        vector<vector<ll>> res(n+1);
-        for (ll line = 1; line <= n; line++)
-        {
-            ll C = 1; // used to represent C(line, i)
-            vector<ll> temp;
-            for (ll i = 1; i <= line; i++)
-            {
-                // The first value in a line is always 1
-                temp.push_back(C);
-                C = C * (line - i) / i;
-            }
-            res.push_back(temp);
-        }
-        
-        return res[res.size()-1];
-    }
-};
+     for(int i = 1; i < prev.size(); i++)
+     {
+        int curr = prev[i - 1] + prev[i];
+        currow.push_back(curr);
+     }
+     currow.push_back(1);
 
-
-// { Driver Code Starts.
-
-
-void printAns(vector<ll> &ans) {
-    for (auto &x : ans) {
-        cout << x << " ";
-    }
-    cout << "\n";
+     // Return the row
+     return currow;
 }
 
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int n;
-        cin >> n;
-        Solution ob;
-        auto ans = ob.nthRowOfPascalTriangle(n);
-        printAns(ans);
-    }
-    return 0;
+// Driver Code
+int main()
+{
+	int n;
+ cin>>n;
+	vector<int> arr = getRow(n);
+
+  for(int i = 0; i < arr.size(); i++)
+  {
+     if (i == arr.size() - 1)
+      cout << arr[i];
+     else
+      cout << arr[i] << ", ";
+  }
+  return 0;
 }
-  // } Driver Code Ends
