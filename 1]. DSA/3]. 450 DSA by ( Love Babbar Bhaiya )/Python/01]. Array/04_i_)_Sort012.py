@@ -5,7 +5,6 @@ INPUT : [0,2,2,1,0]
 OUTPUT : [0,0,1,2,2]
 """
 
-
 # I am using DNF(Dutch National Flag) algorithm
 # You can read about it here : https://users.monash.edu/~lloyd/tildeAlgDS/Sort/Flag/
 
