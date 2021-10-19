@@ -15,15 +15,8 @@ EXAMPLE:
 """
 ------------------------------IMPORTANT NOTE----------------------------------------
 
-This algorithm is restricted for finding maximum value which are positive
-FOR EXAMPLE:
-    INPUT : [-1, -2, -3, -4]
-    OUTPUT : 0 But the correct output is -1
-
-    This algorithm fail because in starting we assume that maximum sum will be 0 and therefore
-    we ignore the negative value
-
-    For approach that is true for negative also see _08_ii)_Kadane's_Algorithm
+This algorithm gives the result without updating the actual array.
+So if constraind is given that you don't have to update the array then this is the algorithm you are looking for
 """
 
 """
@@ -36,15 +29,16 @@ Also if at any point current_so far became negative we reassigned it to 0
 
 For example 
 arr = [-2, 3, 2, -2]
-current_max = max_so_far = 0   (both have value 0)
+current_max = 0
+max_so_far = -inf   (-infinite)  
 Now we loop through arr and keep adding arr value to current_max
 
 -----------1st iteration----------
-current_max = -2, maximum_so_far = 0    (current_max is negative therefore we assigned it to 0)
-Therefore current_max = 0, maximum_so_far = 0
+current_max = -2, maximum_so_far = -inf   (current_max is negative and greater than max_so_far)
+Therefore current_max = 0, maximum_so_far = -2
 
 -----------2nd iteration----------
-current_max = 3 , maximum_so_far = 0   (current_max is positive and its value is > maximum_so_far)
+current_max = 3 , maximum_so_far = 2   (current_max is positive and its value is > maximum_so_far)
 Therefore maximum_so_far = 3  
 
 -----------3rd iteration----------
@@ -66,12 +60,13 @@ def max_sub_array(arr):
     Time Complexity : O(n)
     Space Complexity : O(1)
     """
-    current_max = maximum_so_far = 0
+    current_max = 0
+    maximum_so_far = float('-inf')
     for i in arr:
         current_max += i
         if current_max > maximum_so_far:
             maximum_so_far = current_max
-        elif current_max < 0:
+        if current_max < 0:
             current_max = 0
 
     return maximum_so_far
