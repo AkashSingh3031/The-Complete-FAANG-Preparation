@@ -4,7 +4,7 @@
 
 <!-- <p align="center">
     <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
-</p><br>  -->
+</p><br>  --> 
 
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM-3.png)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
@@ -25,7 +25,7 @@
 <!-- ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
 <code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code> -->
 
----
+--- 
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
@@ -86,7 +86,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 6.   | [Projects](#6-projects) |
 | 7.   | [Important Books and Resources](#7-important-books-and-resources) |
 | 8.   | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
-
+ 
 ## `Tree of Index  🚀`
 ```js
 .
