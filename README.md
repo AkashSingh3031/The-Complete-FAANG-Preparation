@@ -7,7 +7,7 @@
 </p><br>  --> 
 
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM-3.png)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
- 
+
 <h1 align='center'>
     <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md"> 
         <code> Full Repository Status </code>
