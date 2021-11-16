@@ -75,6 +75,25 @@
 # `🏆 The Complete FAANG Preparation 🏆`
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
 
+---
+
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=github&utm_medium=faang_prep">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+---
+
 ## `Table of Contents 📋`
 | SNo. | **Contents** |
 | ---  | ------------ |
