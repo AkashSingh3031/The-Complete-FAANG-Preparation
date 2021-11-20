@@ -1,7 +1,7 @@
 #rotate left by d places
 l = [10,20,30,40,50]
 d = 3
-#ans = [40,10,20,30]
+#ans = [40,50,10,20,30]
 #left rotate by 3
 
 # method 2 slicing 
