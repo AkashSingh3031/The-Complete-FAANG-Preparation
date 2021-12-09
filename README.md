@@ -772,11 +772,11 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
     
 <td align="center"><a href="https://github.com/Uchiha-Itachi0"><img src="https://avatars.githubusercontent.com/u/86482181?v=4" width="100px;" alt=""/><br /><sub><b>Uchiha-Itachi0</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Uchiha-Itachi0" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
     
-<td align="center"><a href="https://github.com/yan-michael"><img src="https://avatars.githubusercontent.com/u/86482181?v=4" width="100px;" alt=""/><br /><sub><b>yan-michael</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=yan-michael" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>     
+<td align="center"><a href="https://github.com/yan-michael"><img src="https://avatars.githubusercontent.com/u/15942983?v=4" width="100px;" alt=""/><br /><sub><b>yan-michael</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=yan-michael" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>     
     
 <!-- 11th Row -->    
 <tr>     
-<td align="center"><a href="https://github.com/abhistark007"><img src="https://avatars.githubusercontent.com/u/15942983?v=4" width="100px;" alt=""/><br /><sub><b>abhistark007</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=abhistark007" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+<td align="center"><a href="https://github.com/abhistark007"><img src="https://avatars.githubusercontent.com/u/58290134?v=4" width="100px;" alt=""/><br /><sub><b>abhistark007</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=abhistark007" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
