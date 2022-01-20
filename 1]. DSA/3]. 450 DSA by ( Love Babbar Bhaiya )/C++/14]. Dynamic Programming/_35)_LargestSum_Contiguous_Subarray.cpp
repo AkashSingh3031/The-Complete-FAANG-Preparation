@@ -1,5 +1,5 @@
 /*
-   GFG problem link:-  https://practice.geeksforgeeks.org/problems/edit-distance3702/1
+   GFG problem link:-  https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
    Approach:- Kadane's Algorithm
 */
 
