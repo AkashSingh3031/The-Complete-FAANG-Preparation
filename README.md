@@ -105,7 +105,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | 6.   | [Projects](#6-projects) |
 | 7.   | [Important Books and Resources](#7-important-books-and-resources) |
 | 8.   | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
- 
+
 ## `Tree of Index  🚀`
 ```js
 .
