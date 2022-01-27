@@ -23,14 +23,10 @@ typedef vector<vi> vv;
 typedef vector<vector<string>> vss;
 // typedef map<int,int>
 
-void readVec(vi vec, int n)
+void readVec(vi &vec, int n)
 {
     for (int i = 0; i < n; i++)
-    {
-        ll num;
-        cin >> num;
-        vec.pb(num);
-    }
+        cin >> vec[i];
 }
 
 
@@ -96,10 +92,11 @@ void solve()
 {
     int n;
     cin >> n;
-    vi vec;
+    vi vec(n);
     readVec(vec, n);
     sort(vec.rbegin(), vec.rend());
     int a = *vec.begin();
+
     int sm = accumulate(all(vec), 0LL);
     double ans = double(sm - a) / (n - 1);
     ans += a;
@@ -111,10 +108,10 @@ void solve()
 
 int main() {
 
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#endif
+// #ifndef ONLINE_JUDGE
+//     freopen("input.txt", "r", stdin);
+//     freopen("output.txt", "w", stdout);
+// #endif
 
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
@@ -128,5 +125,3 @@ int main() {
 }
 
 // coded with the ❤️ Avnoor
-
-
