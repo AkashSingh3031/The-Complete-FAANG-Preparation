@@ -95,16 +95,16 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ---
 
 ## `Table of Contents 📋`
-| SNo. | **Contents** |
-| ---  | ------------ |
-| 1.   | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
-| 2.   | [DSA](#2-dsa) |
-| 3.   | [Competitive Programming](#3-competitive-programming) |
-| 4.   | [Technical Subject](#4-technical-subject) |
-| 5.   | [Low Level Design](#5-low-level-design) |
-| 6.   | [Projects](#6-projects) |
-| 7.   | [Important Books and Resources](#7-important-books-and-resources) |
-| 8.   | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
+| **SNo.** | **Contents** |
+| -------- | ------------ |
+| 1.       | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
+| 2.       | [DSA](#2-dsa) |
+| 3.       | [Competitive Programming](#3-competitive-programming) |
+| 4.       | [Technical Subject](#4-technical-subject) |
+| 5.       | [Low Level Design](#5-low-level-design) |
+| 6.       | [Projects](#6-projects) |
+| 7.       | [Important Books and Resources](#7-important-books-and-resources) |
+| 8.       | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
 
 ## `Tree of Index  🚀`
 ```js
