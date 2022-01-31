@@ -73,7 +73,7 @@
 ---
 
 # `🏆 The Complete FAANG Preparation 🏆`
-This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
+This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
 
 ---
 
@@ -367,7 +367,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 └── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
 |   ├── Object Oriented Design
-|   |   ├── Introduciton to Classes and Objects
+|   |   ├── Introduction to Classes and Objects
 |   |   ├── Software Development Process
 |   |   ├── Introduction to UML
 |   |   ├── Class Diagrams and Object Diagrams
