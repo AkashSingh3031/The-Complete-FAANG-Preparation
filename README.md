@@ -626,7 +626,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors` ✨🎉 `63`
+## `Awesome Contributors` ✨🎉 `64`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -782,6 +782,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/xor09"><img src="https://avatars.githubusercontent.com/u/70262740?v=4" width="100px;" alt=""/><br /><sub><b>xor09</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=xor09" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
     
 <td align="center"><a href="https://github.com/avnoor-488"><img src="https://avatars.githubusercontent.com/u/54592053?v=4" width="100px;" alt=""/><br /><sub><b>avnoor-488</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=avnoor-488" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
+    
+<td align="center"><a href="https://github.com/VishnuVVR-369"><img src="https://avatars.githubusercontent.com/u/86388801?v=4" width="100px;" alt=""/><br /><sub><b>VishnuVVR-369</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=VishnuVVR-369" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
 </table>
 
 
