@@ -4,7 +4,8 @@
 
 <!-- <p align="center">
     <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif"> 
-</p><br>  -->
+</p>
+<br>  -->
 
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM-3.png)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
@@ -30,7 +31,7 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 [![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers) 
+[![GitHub Stars](https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members)
 [![GitHub Watchers](https://img.shields.io/github/watchers/AkashSingh3031/The-Complete-FAANG-Preparation?style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/watchers)
 [![License](https://img.shields.io/badge/License-MIT-red.svg?logo=github&style=social)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
@@ -73,7 +74,7 @@
 ---
 
 # `🏆 The Complete FAANG Preparation 🏆`
-This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
+This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
 
 ---
 
@@ -95,17 +96,17 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 ---
 
 ## `Table of Contents 📋`
-| SNo. | **Contents** |
-| ---  | ------------ |
-| 1.   | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
-| 2.   | [DSA](#2-dsa) |
-| 3.   | [Competitive Programming](#3-competitive-programming) |
-| 4.   | [Technical Subject](#4-technical-subject) |
-| 5.   | [Low Level Design](#5-low-level-design) |
-| 6.   | [Projects](#6-projects) |
-| 7.   | [Important Books and Resources](#7-important-books-and-resources) |
-| 8.   | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
- 
+| **SNo.** | **Contents** |
+| -------- | ------------ |
+| 1.       | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
+| 2.       | [DSA](#2-dsa) |
+| 3.       | [Competitive Programming](#3-competitive-programming) |
+| 4.       | [Technical Subject](#4-technical-subject) |
+| 5.       | [Low Level Design](#5-low-level-design) |
+| 6.       | [Projects](#6-projects) |
+| 7.       | [Important Books and Resources](#7-important-books-and-resources) |
+| 8.       | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
+
 ## `Tree of Index  🚀`
 ```js
 .
@@ -367,7 +368,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 └── 𝑳𝒐𝒘 𝑳𝒆𝒗𝒆𝒍 𝑫𝒆𝒔𝒊𝒈𝒏
 |   ├── Object Oriented Design
-|   |   ├── Introduciton to Classes and Objects
+|   |   ├── Introduction to Classes and Objects
 |   |   ├── Software Development Process
 |   |   ├── Introduction to UML
 |   |   ├── Class Diagrams and Object Diagrams
@@ -625,7 +626,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors` ✨🎉 `62`
+## `Awesome Contributors` ✨🎉 `64`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -779,6 +780,10 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/abhistark007"><img src="https://avatars.githubusercontent.com/u/58290134?v=4" width="100px;" alt=""/><br /><sub><b>abhistark007</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=abhistark007" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
     
 <td align="center"><a href="https://github.com/xor09"><img src="https://avatars.githubusercontent.com/u/70262740?v=4" width="100px;" alt=""/><br /><sub><b>xor09</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=xor09" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
+    
+<td align="center"><a href="https://github.com/avnoor-488"><img src="https://avatars.githubusercontent.com/u/54592053?v=4" width="100px;" alt=""/><br /><sub><b>avnoor-488</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=avnoor-488" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
+    
+<td align="center"><a href="https://github.com/VishnuVVR-369"><img src="https://avatars.githubusercontent.com/u/86388801?v=4" width="100px;" alt=""/><br /><sub><b>VishnuVVR-369</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=VishnuVVR-369" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
 </table>
 
 
