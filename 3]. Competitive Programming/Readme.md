@@ -49,6 +49,7 @@
    - [ ] [Problems](https://www.spoj.com/problems/)
    - [ ] [Contests](https://www.spoj.com/contests/)
 
-### 12. [Static A2OJ](https://a2oj.com/)
-   - [ ] [Ladders](https://a2oj.com/Ladders.html)
-   - [ ] [Categories](https://a2oj.com/Categories.html)
+### 12. [CSES](https://cses.fi/)
+   - [ ] [CSES Problem Set](https://cses.fi/problemset/)
+   - [ ] [BOI Contest Collection](https://cses.fi/boi/list/)
+   - [ ] [CEOI Contest Collection](https://cses.fi/ceoi/list/)
