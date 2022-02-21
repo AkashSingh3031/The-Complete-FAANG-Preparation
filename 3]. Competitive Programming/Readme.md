@@ -21,6 +21,9 @@
    - [ ] [Data Structures](https://practice.geeksforgeeks.org/home)
    - [ ] [Algorithms](https://practice.geeksforgeeks.org/home)
    - [ ] [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=leftbar-rightbar#Math)
+   - [ ] [Problem of the Day (POTD)](https://practice.geeksforgeeks.org/problem-of-the-day)
+   - [ ] [Interview Series](https://practice.geeksforgeeks.org/events/rec/interview-series)
+   - [ ] [Job a Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon)
    - [ ] [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm#1)
 
 ### 6. [InterviewBit](https://www.interviewbit.com/practice)
@@ -34,6 +37,9 @@
 
 ### 8. [Work@Tech](https://www.codingninjas.com/codestudio)
    - [ ] [Data Structures & Algorithms](https://workat.tech/problem-solving/practice)
+      - [ ] [Topics](https://workat.tech/problem-solving/practice/topics)
+      - [ ] [Companies](https://workat.tech/problem-solving/practice/companies)
+      - [ ] [List](https://workat.tech/problem-solving/practice/lists)
    - [ ] [Machine Coding](https://workat.tech/machine-coding/practice)
 
 ### 9. [HackerRank](https://www.hackerrank.com/)
