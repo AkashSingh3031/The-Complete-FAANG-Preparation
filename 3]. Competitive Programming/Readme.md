@@ -44,6 +44,8 @@
 
 ### 9. [HackerRank](https://www.hackerrank.com/)
    - [ ] [Practice](https://www.hackerrank.com/dashboard)
+   - [ ] [Tutorials](https://www.hackerrank.com/domains/tutorials)
+   - [ ] [Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)
    - [ ] [Compete](https://www.hackerrank.com/contests)
 
 ### 10. [HackerEarth](https://www.hackerearth.com/)
