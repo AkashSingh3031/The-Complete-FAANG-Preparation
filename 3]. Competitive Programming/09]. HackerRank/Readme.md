@@ -5,7 +5,9 @@
 <!-- [![HackerRank](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/HackerRank-1.png)](https://www.hackerrank.com) -->
 
 ### 1. [Practice](https://www.hackerrank.com/dashboard)
-### 2. [Compete](https://www.hackerrank.com/contests)
+### 2. [Tutorials](https://www.hackerrank.com/domains/tutorials)
+### 3. [Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)
+### 4. [Compete](https://www.hackerrank.com/contests)
 
 <!-- 
 ### 1. [C](https://www.hackerrank.com/domains/c)
