@@ -78,7 +78,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=github&utm_medium=faang_prep">
 			<b>Applying to internships?</b>
@@ -91,7 +91,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 		</a>
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
-</div>
+</div> -->
 
 ---
 
