@@ -11,6 +11,7 @@
 
 ### 3. [LeetCode](https://leetcode.com/explore)
    - [ ] [Problems](https://leetcode.com/problemset/all)
+   - [ ] [Company Tag Questions](https://leetcode.com/company/google)
    - [ ] [Contests](https://leetcode.com/contest)
 
 ### 4. [Coding Ninjas](https://www.codingninjas.com/codestudio)
