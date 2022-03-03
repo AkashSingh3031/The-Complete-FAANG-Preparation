@@ -1,8 +1,7 @@
 ## Arrays
 
 <details>
-
-<summary><img id="array" src="https://img.shields.io/badge/Arrays-44-brightgreen?style=for-the-badge"></summary>
+    <summary><img id="array" src="https://img.shields.io/badge/Arrays-44-brightgreen?style=for-the-badge"></summary>
 
 
 | S.No.    | Topic:                | Problem                                                                                              | Solutions | Python | C++    | Java   | JavaScript   |
