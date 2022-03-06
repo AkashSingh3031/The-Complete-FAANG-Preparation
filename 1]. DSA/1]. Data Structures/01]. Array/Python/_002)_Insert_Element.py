@@ -1,4 +1,3 @@
-
 """
 Function to insert a new element at a given position
 
@@ -14,6 +13,7 @@ def insert(arr, index, successor):
 arr = [1, 2, 3, 5]
 print("Array before insertion:", arr)
 # OUTPUT: [1, 2, 3, 5]
-insert(arr, 3, -4) 
+
+insert(arr, 3, 4) 
 print("Array after insertion:", arr)
-# OUTPUT: [1, 2, 3, -4, 5]
+# OUTPUT: [1, 2, 3, 4, 5]
