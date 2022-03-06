@@ -1,24 +1,20 @@
 """
-Function to insert element at a given position
+Function to insert a new element at a given position
 
-Takes an Array an position and an element as arguments
+Takes the position of an array and an element as arguments
 """
 
 
-def insert(arr, position, element):
+def insert(arr, index, successor):
+    
+    for index in range(index, len(arr)):
+        arr[index], successor = successor, arr[index]
 
-    next_element = element
-
-    for index in range(position, len(arr)):
-        current = arr[index]
-        arr[index] = next_element
-        next_element = current
-
-    arr.append(next_element)
-
+    arr.append(successor)
+    
 
 arr = [1, 2, 3, 5]
 print("Array before insertion:", arr)
 
 insert(arr, 1, -4)
-print("After insertion:", arr)
+print("Array after insertion:", arr)
