@@ -5,16 +5,16 @@ Takes the position of an array and an element as arguments
 """
 
 
-def insert(arr, position, element):
-    insert = element
+def insert(arr, index, successor):
     
-    for index in range(position):
-        moved, arr[index] = arr[index], insert
-        insert = moved
+    for index in range(index, len(arr)):
+        arr[index], successor = successor, arr[index]
+
+    arr.append(successor)
     
 
 arr = [1, 2, 3, 5]
 print("Array before insertion:", arr)
 
 insert(arr, 1, -4)
-print("After insertion:", arr)
+print("Array after insertion:", arr)
