@@ -36,7 +36,7 @@
    - [ ] [Interview Coding](https://mycode.prepbytes.com/interview-coding/practice)
    - [ ] [Company Coding](https://mycode.prepbytes.com/company-questions)
 
-### 8. [Work@Tech](https://www.codingninjas.com/codestudio)
+### 8. [Work@Tech](https://workat.tech/practice)
    - [ ] [Data Structures & Algorithms](https://workat.tech/problem-solving/practice)
       - [ ] [Topics](https://workat.tech/problem-solving/practice/topics)
       - [ ] [Companies](https://workat.tech/problem-solving/practice/companies)
