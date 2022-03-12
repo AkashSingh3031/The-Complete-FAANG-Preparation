@@ -1,16 +1,27 @@
-#checking a palindrome or not using recursion
-# ex: "peep"
+# Check palidrome in any sequence of characters with recursion
+# It will return "True" or "False" after checking
+def palindrome_checker(sequence):
 
-def palindrome(s,b,e):
-    if b>e:
-        return True
-    if s[b]!=s[e]:
-        return False
-    else:
-        return palindrome(s, b+1, e-1)
+    def chars(sequence):
+        sequence = sequence.lower()
+        ans = ''
 
-s = "pop"
-print(palindrome(s, 0, len(s)-1))
+        for char in sequence:
+            if char in 'abcdefghijklmnopqrstuvxwyz1234567890':
+                ans = ans + char
 
-s = "pick"
-print(palindrome(s, 0, len(s)-1))
+        return ans
+
+    def check(sequence):
+        if len(sequence) <= 1:
+            return True
+
+        else:
+            return sequence[0] == sequence[-1] and check(sequence[1:-1])
+
+    return check(chars(sequence))
+
+print(palindrome_checker('2022/22/02'))
+# OUTPUT: True
+print(palindrome_checker("Madam, in Eden, I'm Adam"))
+# OUTPUT: True
