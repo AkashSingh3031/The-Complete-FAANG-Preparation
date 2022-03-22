@@ -64,7 +64,7 @@
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=orange&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031)
-
+<br>
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/open-source.svg" />
