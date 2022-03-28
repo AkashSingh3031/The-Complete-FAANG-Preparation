@@ -28,9 +28,9 @@ int main() {
     cin>>t;
     while(t--)
     {
-		string s;
+	string s;
         cin >> s;
-		cout << reverseWord(s) << endl;
+	cout << reverseWord(s) << endl;
     }
     return 0;
 }
