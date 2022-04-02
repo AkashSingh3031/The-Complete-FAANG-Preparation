@@ -14,8 +14,8 @@ class Solution{
     public:
     int findSingle(int N, int arr[]){
         // code here
-        int m = arr[0];
-        for(int i=1; i<N; i++)
+        int m = 0;
+        for(int i=0; i<N; i++)
             m ^= arr[i];
         return m;
     }
