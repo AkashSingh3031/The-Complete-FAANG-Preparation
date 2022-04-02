@@ -5,8 +5,8 @@
 
 ### 1. [Problems](https://leetcode.com/problemset/all)
 
-### 2. [Company Tag Questions](https://leetcode.com/company/google)
-
-### 3. [Contests](https://leetcode.com/contest)
+### 2. [Contests](https://leetcode.com/contest)
    - Weekly Contests
    - Biweekly Contests
+
+### 3. [Company Tag Questions](https://leetcode.com/company/google)
