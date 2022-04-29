@@ -1,0 +1,8 @@
+pip install pyqt5
+pip install numby
+pip install matplotlib
+pip install pandas
+pip install sympy
+pip install sklearn.metrics
+pip install more_itertools
+pip install scipy
