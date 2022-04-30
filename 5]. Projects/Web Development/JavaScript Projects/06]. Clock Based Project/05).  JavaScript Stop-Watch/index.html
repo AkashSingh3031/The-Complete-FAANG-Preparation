@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/fav.ico" type="image/x-icon">
+    <title>Stop Watch</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>StopWatch</h2>
+        <div class="time">
+            <div>
+                <span class="digit" id="hr">00</span>
+                <span class="txt">Hr</span>
+            </div>
+            <div>
+                <span class="digit" id="min">00</span>
+                <span class="txt">Min</span>
+            </div>
+            <div>
+                <span class="digit" id="sec">00</span>
+                <span class="txt">Sec</span>
+            </div>
+            <div>
+                <span class="digit" id="count">00</span>
+                <span class="txt">Millisec</span>
+            </div>
+        </div>
+    
+        <div class="btns">
+            <button class="btn start" onclick="start()">Start</button>
+            <button class="btn stop" onclick="stop()">Stop</button>
+            <button class="btn reset" onclick="reset()">Reset</button>
+        </div>
+
+    </div>
+
+    <script src="./assets/script.js"></script>
+</body>
+</html>

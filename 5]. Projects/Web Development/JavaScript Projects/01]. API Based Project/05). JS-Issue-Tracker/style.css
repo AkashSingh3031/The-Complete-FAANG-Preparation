@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300;400&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background: linear-gradient(to right, #da22ff, #9733ee);
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+}
+h1{
+    text-align: center;
+}
+.jumbotron {
+  background: rgba(255, 255, 255, 0.40);
+  transform-style: preserve-3d;
+  transition: .3s;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
+  max-width: 60rem;
+  width: 100%;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-radius: .5rem;
+  box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
+}
+.well{
+  background: rgb(248, 248, 248);
+  max-width: 60rem;
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1.5rem;
+  border-radius: .5rem;
+  border: none;
+  box-shadow: 0px 10px 15px rgba(0,0,0,0.2);
+}
+#savebtn{
+    font-size: 1.5rem;
+    background: #0730e9;
+    outline: none;
+    border: none;
+}
+#savebtn:hover{
+    background: #0423ad;
+}
+#clrbtn{
+    font-size: 1.5rem;
+    background: #b90404;
+    outline: none;
+    float: right;
+    border: none;
+}
+#clrbtn:hover{
+    background: #b40404;
+}
+
+
+
+/* issue list */
+.labid{
+    display: flex;
+    gap: 1rem;
+    font-family: 'Roboto Mono', monospace;
+    border-bottom: 1px solid #333;
+}
+.labid span{
+    background: rgb(255, 94, 0);
+    color: rgb(255, 255, 255);
+}
+.labid h6{
+    margin-top: 5px;
+}
+.well p glyphicon-user{
+    margin-left: 1rem;
+    padding: 5rem;
+}
+.well #closebtn{
+    background: rgb(4, 161, 38);
+    outline: none;
+    border: none;
+}
+.well #closebtn:hover{
+    background: rgb(3, 119, 28);
+}
+.well #delbtn{
+    background: rgb(219, 4, 4);
+    outline: none;
+    border: none;
+}
+.well #delbtn:hover{
+    background: rgb(173, 2, 2);
+}
+
+
+/* back button */
+.backbtn {
+    position: absolute;
+    font-size: 3rem;
+    float: left;
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-left: 13rem;
+    color:rgb(255, 255, 255);
+}
+.backbtn a{
+    text-decoration: none;
+    color: inherit;  
+}

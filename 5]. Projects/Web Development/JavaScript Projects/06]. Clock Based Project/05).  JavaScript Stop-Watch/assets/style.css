@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    min-width: 100%;
+    font-size: 62.5%;
+    overflow: hidden;
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.4);
+    transform-style: preserve-3d;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+    max-width: 35rem;
+    width: 100%;
+    margin: 8rem auto;
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    transition: .3s;
+}
+h2{
+    font-size: 2.5rem;
+    text-align: center;
+    color: #111;
+}
+.time {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
+}
+.time div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 7rem;
+    background: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    color: rgb(29, 29, 29);
+    padding: 1rem 2rem;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+.time div .digit {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.time div .txt {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+    /* background: yellow; */
+    margin: 0 3rem;
+    margin-top: 2rem;
+}
+.btns .btn {
+    border: none;
+    outline: none;
+    padding: .7rem 1.5rem;
+    border-radius: .2rem;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    background: #161616;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 .2rem 1rem rgba(0, 0, 0, 0.3);
+    transition: .2s ease-out;
+}
+.btns .btn:hover {
+    background: rgb(0, 0, 0);
+    color: #ffffff;
+}
+.btns .btn.stop {
+    background: #d40101;
+    color: rgb(255, 255, 255);
+}
+.btns .btn.stop:hover {
+    background: #940000;
+    color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width:768px) {
+    html {
+        font-size: 82.5%;
+    }
+}
+@media screen and (max-width:460px) {
+    html {
+        font-size: 60%;
+    }
+}

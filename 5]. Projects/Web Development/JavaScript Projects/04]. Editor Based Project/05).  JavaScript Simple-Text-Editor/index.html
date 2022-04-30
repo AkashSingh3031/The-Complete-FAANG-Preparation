@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+  <script src="https://kit.fontawesome.com/c939d0e917.js" crossorigin="anonymous"></script>
+  <title>Simple Text Editor</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="text-center container">
+  <main class="wrapper">
+    <h1 class="banner p-3 text-primary header" style="text-decoration-color: white">
+      TextEditor
+    </h1>
+    <div class="row">
+      <div class="col">
+        <button id="bold" onclick="makeBold(this)" type="button" class="btn btn-light">
+          Bold
+        </button>
+        <button id="italic" onclick="makeItalic(this)" type="button" class="btn btn-light">
+          Italic
+        </button>
+        <button id="underline" onclick="makeUnderline(this)" type="button" class="btn btn-light">
+          Underline
+        </button>
+        <button id="left-align" onclick="alignText(this,'left')" type="button" class="align btn btn-light">
+          <i class="fas fa-align-left"></i>
+        </button>
+        <button id="center-align" onclick="alignText(this,'center')" type="button" class="align btn btn-light">
+          <i class="fas fa-align-center"></i>
+        </button>
+        <button id="right-align" onclick="alignText(this,'right')" type="button" class="align btn btn-light">
+          <i class="fas fa-align-right"></i>
+        </button>
+      </div>
+    </div>
+    <hr />
+    <div class="row editor">
+      <div class="col">
+        <div class="form-group">
+          <label for="text-input">Your Document Text</label>
+          <textarea class="form-control" oninput="updateText()" id="text-input" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="col">
+        <label for="text-input">Formatted Text</label>
+        <div id="text-output" class="bg-light"></div>
+      </div>
+    </div>
+
+    <div class="push"></div>
+  </main>
+  <script src="script.js"></script>
+</body>
+
+</html>

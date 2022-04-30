@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Music Player | Vanilla JavaScript Music Player">
+    <meta name="keywords" content="Music Player, HTML, CSS, JavaScript, Music, Project">
+    <meta name="author" content="Akash Singh">
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <title>Music Player</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/styles/style.css">
+</head> 
+<body>
+
+  <div class="container">
+
+    <!-- music player container -->
+    <div class="music_player">
+
+        <div class="header">
+            <i class="material-icons-round">audiotrack</i>
+            <span>Now Playing</span>            
+            <lottie-player id="equalizer" background="transparent"  speed="1"  style="width: 35px; height: 35px;" loop autoplay></lottie-player>
+        </div>
+
+        <div class="imgBox">
+            <img src="" alt="Player Cover" draggable="false">
+        </div>
+
+        <div class="songDetails">
+            <p class="name">Song Name</p>
+            <p class="artist">Jhon Doe</p>
+        </div>
+
+        <div class="progressBox">
+            <div class="progress-bar"></div>
+            <div class="timer">
+                <span class="current">00:00</span>
+                <span class="duration">00:00</span>
+            </div>
+            <audio id="mainAudio" src=""></audio>
+        </div>
+
+        <div class="controls">
+            <i id="repeat-plist" class="material-icons-round" title="Playlist Looped">repeat</i>
+            <i id="prev" class="material-icons-round">skip_previous</i>
+            <div class="play-pause">
+            <i class="material-icons-round">play_arrow</i>
+            </div>
+            <i id="next" class="material-icons-round">skip_next</i>
+            <i id="vol" class="material-icons-round">volume_up</i>
+        </div>        
+
+    </div>
+
+    <!-- music list div -->
+    <div class="music_list">
+
+        <div class="header">
+            <i class="material-icons-round">queue_music</i>
+            <span>Music List</span>
+        </div>
+
+        <ul>
+            <!-- <li>
+                <div class="row">
+                    <span>Song Name</span>
+                    <p>Jhon Doe</p>
+                </div>
+                <span class="audio-duration">00:00</span>
+            </li> -->
+        </ul>
+
+    </div>
+
+  </div>
+
+    <!-- lottie anim js -->
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+    <!-- custom js -->
+    <script src="./assets/songs.js"></script>
+    <script src="./assets/script.js"></script>
+</body>
+</html>

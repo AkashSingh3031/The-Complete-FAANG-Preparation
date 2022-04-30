@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+body {
+    background: linear-gradient(to right, #da22ff, #9733ee);;
+    font-size: 62.5%;
+    overflow: hidden;
+  }
+body, button, input {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  letter-spacing: .1rem;
+}
+.background {
+  display: flex;
+  min-height: 100vh;
+}
+.backbtn {
+  position: absolute;
+  font-size: 2rem;
+  float: left;
+  cursor: pointer;
+  margin-top: 1.5rem;
+  margin-left: 10rem;
+  color:#fff;
+}
+.backbtn a{
+  text-decoration: none;
+  color: inherit;  
+}
+.container {
+    flex: 0 1 30rem;
+    margin: auto;
+    padding: 1rem;
+}
+.screen {
+  position: relative;
+  border-radius: 1rem;
+  background: rgba(0, 0, 0, 0.7);
+  transform-style: preserve-3d;
+  transition: .1s;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+}
+.screen-body {
+  display: block;
+}
+.form-body {
+  flex: 1;
+  padding: 2rem;
+}
+.title {
+  justify-content: center;
+  align-items: center;
+  color: #ffee04;
+  font-size: 2rem;
+  padding: 1.5rem;
+  text-transform: uppercase;
+  display: flex;
+}
+.inputs {
+  margin-bottom: 1rem;
+}
+input {
+  padding: 10px 0;
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgb(199, 198, 198);
+  color: rgb(252, 252, 252);
+  font-size: .9rem;
+  text-transform: uppercase;
+  outline: none;
+  transition: border-color .2s;
+  width: 100%;
+}
+input::placeholder {
+  color: rgb(230, 227, 227);
+}
+input:focus {
+  border-bottom-color: rgb(235, 233, 233);
+}
+.result{
+  color: rgb(255, 255, 255);
+  font-size: 1rem;
+  padding-bottom: .2rem;
+  margin-left: 1rem;
+  text-align: left;
+}
+.form-btn{
+  margin-top: 2rem;
+  text-align: center;
+}
+.btn {
+    line-height: 0;
+    padding: 1rem 1rem;
+    border-radius: .5rem;
+    transition: 0.5s;
+    color: #fff;
+    cursor: pointer;
+    background: #e41919;
+}
+.btn span {
+    font-weight: 600;
+    font-size: 1rem;
+}
+.btn i {
+    margin-left: 0.2rem;
+    font-size: .8rem;
+    transition: 0.3s;
+}
+.btn:hover i {
+    transform: translateX(5px);
+}

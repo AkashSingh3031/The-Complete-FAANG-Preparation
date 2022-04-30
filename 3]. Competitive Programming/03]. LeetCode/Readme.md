@@ -9,4 +9,14 @@
    - Weekly Contests
    - Biweekly Contests
 
-### 3. [Company Tag Questions](https://leetcode.com/company/google)
+### 3. [Study Plan](https://leetcode.com/study-plan)
+   - Comprehensive Study Plans
+      - [Data Structure](https://leetcode.com/study-plan/data-structure)
+	  - [Algorithm](https://leetcode.com/study-plan/algorithm)
+   - In-Depth Topics
+      - [SQL](https://leetcode.com/study-plan/sql)
+      - [Programming Skills](https://leetcode.com/study-plan/programming-skills)
+      - [Binary Search](https://leetcode.com/study-plan/binary-search)
+      - [Graph Theory](https://leetcode.com/study-plan/graph)
+      - [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming)
+	  

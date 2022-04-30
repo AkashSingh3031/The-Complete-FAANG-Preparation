@@ -1,0 +1,58 @@
+@import 'colors';
+@import 'mixins';
+
+.controls {
+    @include flexCenter;
+    margin: 4rem 0 .5rem 0;
+
+    i {
+        font-size: 3rem;
+        color: $orange;
+        cursor: pointer;
+
+        &:nth-child(2),
+        &:nth-child(4) {
+            font-size: 4rem;
+        }
+
+        &:hover {
+            color: #d85600;
+        }
+    }
+
+    #prev {
+        margin-right: -1.2rem;
+    }
+
+    #next {
+        margin-left: -1.2rem;
+    }
+
+    .play-pause {
+        height: 5rem;
+        width: 5rem;
+        background: $orange;
+        box-shadow: 0 .2rem 2rem .1rem $yellow;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: .2s ease-out;
+
+        i {
+            height: 4rem;
+            width: 4rem;
+            line-height: 4rem;
+            text-align: center;
+            border-radius: inherit;
+            background: inherit;
+            position: relative;
+            color: $white;
+        }
+
+        &:hover {
+            background: #d85600;
+            transform: scale(1.07);
+        }
+    }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="background">
+  <div class="backbtn">
+    <a href="#"><i class="fas fa-arrow-circle-left"></i></a>    
+  </div>
+  <div class="container">
+    <div class="screen">
+      <div class="screen-body">
+          <div class="title">
+            <div>
+              Student Grade Calcy
+            </div>
+          </div>
+        <div class="form-body">
+          <div class="app-form">
+            <div class="inputs">
+              <input type="text" placeholder="Subject 1" id="phy">
+            </div>
+            <div class="inputs">
+              <input type="text" placeholder="Subject 2" id="chem">
+            </div>
+             <div class="inputs">
+              <input type="text" placeholder="Subject 3" id="math">
+            </div>
+            <div class="inputs">
+              <input type="text" placeholder="Subject 4" id="cs" >
+            </div>
+            <div class="inputs">
+              <input type="text" placeholder="Subject 5" id="eng" >
+            </div>
+            <div class="form-btn"> 
+              <a class="btn" onclick="calc()"><span>Calculate Percentage</span>
+                <i class="fas fa-arrow-circle-right"></i>
+              </a>
+            </div>            
+          </div>
+      </div>
+
+    </div>
+      <div class="result">
+        <p id="result"></p>
+     </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

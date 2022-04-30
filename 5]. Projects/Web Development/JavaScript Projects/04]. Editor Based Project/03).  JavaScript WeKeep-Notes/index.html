@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Keep | Notes</title>
+    <link rel="shortcut icon" href="./assets/fav.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-green-100" style="font-family: 'Poppins', sans-serif;">
+
+<header class="w-full px-3 sm:px-0 py-4 bg-gray-900 shadow-lg">
+
+    <div class="nav-container sm:w-4/5 mx-auto flex items-center justify-between">
+        <a class="text-2xl sm:text-3xl font-bold text-yellow-500 hover:text-yellow-600 flex items-center" href="/"> <i class="material-icons-round text-3xl">description</i> We Keep</a>
+        <button class="bg-yellow-500 p-2 rounded-md hover:bg-yellow-600 flex items-center gap-1" id="addBtn"><i class="material-icons-round">add_box</i>Add New Note</button>
+    </div>
+</header>
+
+<div class="grid pt-6 pb-8 pr-4 sm:pr-12 pl-4 sm:pl-12 h-full w-full grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-4 gap-y-6" id="notesContainer">
+    
+    <!-- <div class="note h-52 p-2 bg-purple-800 rounded flex flex-col shadow-lg border-b-4 border-yellow-400">
+        <div class="operation p-0.5 flex justify-end gap-2 mb-0.5">
+            <button class="material-icons-round edit bg-green-400 p-1 rounded hover:bg-green-600 hover:text-white transition-colors duration-75">edit_note</button>
+            <button class="material-icons-round delete bg-red-600 text-white p-1 rounded hover:bg-red-700 transition-colors duration-75">delete</button>
+        </div>
+
+        <div class="noteTxt p-1 overflow-y-auto pb-4 text-white"></div>
+        <textarea class="p-1 outline-none border border-yellow-500 rounded resize-none w-full placeholder-gray-500" rows="6" placeholder="Type your note.."></textarea>
+    </div> -->
+
+</div>
+
+    <script src="./assets/script.js"></script>
+</body>
+</html>

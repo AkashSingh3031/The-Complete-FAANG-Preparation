@@ -1,0 +1,43 @@
+@import 'colors';
+@import 'mixins';
+
+.music_player {
+    position: relative;
+    overflow: hidden;
+    width: 35rem;
+    min-height: 50rem;
+    border-radius: 1.5rem;
+    padding:  3rem;
+    background: $white;
+    box-shadow: 0px .5rem 1.5rem rgba(0, 0, 0, .35);
+
+    .header {
+        @include flexCenter;
+
+        i {
+            font-size: 3rem;
+            color: $lightblack;
+        }
+
+        span {
+            font-size: 2rem;
+            color: $lightblack;
+        }
+    }
+
+    .songDetails {
+        text-align: center;
+        margin: 3rem 0;
+        color: $lightblack;
+
+        .name {
+            font-size: 2.2rem;
+            font-weight: 500;
+        }
+
+        .artist {
+            opacity: .8;
+            font-size: 1.6rem;
+        }
+    }
+}

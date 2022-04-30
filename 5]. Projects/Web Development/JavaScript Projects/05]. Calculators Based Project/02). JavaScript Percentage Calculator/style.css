@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body{
+    
+    background-image: url("head.jpg");
+    background-size: cover;
+    font-family: 'Rokkitt', serif;
+}
+body span{
+    color:rgb(6, 16, 41);
+
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+#HSC{
+    display:block;
+    background-color:rgba(75, 75, 165, 0.555);
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#demo{
+margin-top: 20px;
+}
+#Reset{
+    margin-top: 10px;
+}
+.SSLC{
+    display: block;
+    background-color: rgba(31, 121, 53, 0.5);
+    padding-top: 20px;
+    padding-bottom: 65px;
+}
+#demo1{
+    margin-top: 20px;
+    }
+#Reset1{
+        margin-top: 10px;
+    }
+.download{
+display:block;
+background-color: rgb(130, 131, 74);
+padding-bottom: 30px;
+padding-top: 20px;
+}
+.download1{
+  display:block;
+  background-color: rgb(5, 27, 12);
+  padding-bottom: 30px;
+  padding-top: 20px;
+ }
+.sslchead{
+  display:block;
+  background-color: rgba(70, 8, 8, 0.842);
+  border-radius: 50%;
+}
+.hschead{
+  display:block;
+  background-color: rgba(206, 219, 24, 0.911);
+  border-radius: 50%;
+}

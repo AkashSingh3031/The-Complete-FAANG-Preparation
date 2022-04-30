@@ -11,8 +11,8 @@
 
 ### 3. [LeetCode](https://leetcode.com/explore)
    - [ ] [Problems](https://leetcode.com/problemset/all)
-   - [ ] [Company Tag Questions](https://leetcode.com/company/google)
    - [ ] [Contests](https://leetcode.com/contest)
+   - [ ] [Study Plan](https://leetcode.com/study-plan)
 
 ### 4. [Coding Ninjas](https://www.codingninjas.com/codestudio)
    - [ ] [Interview Problems](https://www.codingninjas.com/codestudio/problems)
@@ -43,37 +43,41 @@
       - [ ] [List](https://workat.tech/problem-solving/practice/lists)
    - [ ] [Machine Coding](https://workat.tech/machine-coding/practice)
 
-### 9. [HackerRank](https://www.hackerrank.com/)
+### 9. [binarysearch](https://binarysearch.com/problems?order=id)
+   - [ ] [Problems](https://binarysearch.com/problems?order=id)
+   - [ ] [Contest](https://binarysearch.com/contest)
+
+### 10. [HackerRank](https://www.hackerrank.com/)
    - [ ] [Practice](https://www.hackerrank.com/dashboard)
    - [ ] [Tutorials](https://www.hackerrank.com/domains/tutorials)
    - [ ] [Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)
    - [ ] [Compete](https://www.hackerrank.com/contests)
 
-### 10. [HackerEarth](https://www.hackerearth.com/)
+### 11. [HackerEarth](https://www.hackerearth.com/)
    - [ ] [Practice](https://www.hackerearth.com/practice/)
    - [ ] [Compete](https://www.hackerearth.com/challenges/)
 
-### 11. [CodeChef](https://www.codechef.com/)
+### 12. [CodeChef](https://www.codechef.com/)
    - [ ] [PRACTICE & LEARN](https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems_head)
    - [ ] [Compete](https://www.codechef.com/contests/?itm_medium=navmenu&itm_campaign=allcontests_head)
       - [ ] [Long Challenge](https://www.codechef.com/contests/?itm_medium=navmenu&itm_campaign=allcontests#past-contests)
       - [ ] [Cook-off](https://www.codechef.com/contests/?itm_medium=navmenu&itm_campaign=allcontests#past-contests)
       - [ ] [Lunch Time](https://www.codechef.com/contests/?itm_medium=navmenu&itm_campaign=allcontests#past-contests)
 
-### 12. [CodeForces](https://codeforces.com/)
+### 13. [CodeForces](https://codeforces.com/)
    - [ ] [Problem Set](https://codeforces.com/problemset)
    - [ ] [Contests](https://codeforces.com/contests)
 
-### 13. [AtCoder](https://atcoder.jp/)
+### 14. [AtCoder](https://atcoder.jp/)
    - [ ] [Contest](https://atcoder.jp/contests/)
 
-### 14. [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
+### 15. [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
    - [ ] [Problems](https://www.spoj.com/problems/)
    - [ ] [Contests](https://www.spoj.com/contests/)
 
-### 15. [Australian  Maths Trust (AMT)](https://orac.amt.edu.au/cgi-bin/train/hub.pl)
+### 16. [Australian  Maths Trust (AMT)](https://orac.amt.edu.au/cgi-bin/train/hub.pl)
 
-### 16. [CSES](https://cses.fi/)
+### 17. [CSES](https://cses.fi/)
    - [ ] [CSES Problem Set](https://cses.fi/problemset/)
    - [ ] [BOI Contest Collection](https://cses.fi/boi/list/)
    - [ ] [CEOI Contest Collection](https://cses.fi/ceoi/list/)

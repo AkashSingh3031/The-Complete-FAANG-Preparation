@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>👀Follow Along Nav</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav>
+    <ul class="menu">
+      <li><a href="">Home</a></li>
+      <li><a href="https://akashsingh3031.medium.com/">Blogs</a></li>
+      <li><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA/featured">Videos</a></li>
+      <li><a href="https://github.com/AkashSingh3031">Github</a></li>
+      <li><a href="https://www.linkedin.com/in/akash-singh3031/">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <div class="wrapper">
+    <h2><a href="">Object Localization</a></h2>
+    <p><span style="font-weight: 400;">An image classification or image recognition model simply detect the probability
+        of an object in an image. In contrast to this, <a href="">object localization</a> refers to identifying the location of an
+        object in the image. An object localization algorithm will output the coordinates of the location of an object
+        with respect to the image. In <a href="">computer vision</a>, the most popular way to localize an object in an image is to
+        represent its location with the help of bounding boxes.</span></p>
+
+    <p>Shows an <a href="">example</a> of a bounding box.</p>
+    <figure id="attachment_23526" aria-describedby="caption-attachment-23526" style="width: 477px"
+      class="wp-caption aligncenter"><img
+        src="https://marvel-b1-cdn.bc0a.com/f00000000225793/blog-c7ff.kxcdn.com/blog/wp-content/uploads/2018/08/Fig-1.png">
+    </figure>
+
+    <p><span style="font-weight: 400;">A bounding box can be initialized using the following parameters:</span></p>
+    <ul>
+      <li style="font-weight: 400;"><span style="font-weight: 200;"><a href="">bx, by :</a> coordinates of the center of
+          the bounding box</span></li>
+      <li style="font-weight: 400;"><span style="font-weight: 200;"><a href="">bw :</a> width of the bounding box w.r.t
+          the image width</span></li>
+      <li style="font-weight: 400;"><span style="font-weight: 200;"><a href="">bh :</a> height of the bounding box w.r.t
+          the image height</span></li>
+    </ul>
+
+  </div>
+
+  <script>
+    const triggers = document.querySelectorAll('a');
+    const highlight = document.createElement('span');
+    highlight.classList.add('highlight');
+    document.body.appendChild(highlight);
+
+    function highlightLink() {
+      const linkCoords = this.getBoundingClientRect();
+      console.log(linkCoords);
+      const coords = {
+        width: linkCoords.width,
+        height: linkCoords.height,
+        top: linkCoords.top + window.scrollY,
+        left: linkCoords.left + window.scrollX
+      };
+
+      highlight.style.width = `${coords.width}px`;
+      highlight.style.height = `${coords.height}px`;
+      highlight.style.transform = `translate(${coords.left}px, ${coords.top}px)`;
+
+    }
+
+    triggers.forEach(a => a.addEventListener('mouseenter', highlightLink));
+
+  </script>
+</body>
+
+</html>
