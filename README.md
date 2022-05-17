@@ -856,7 +856,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 </table>
 
 
-## `Contributing` <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px">
+## `Contributing` <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px">
 We'd love your contributions! Kindly follow the steps below to get started:
 
 0. Star <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" title="this">this</a> repository.
