@@ -6,12 +6,12 @@
 | **SNo.** | **Contents** |
 | -------- | ------------ |
 | 1.       | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
-| 2.       | [DSA + CP](#2-dsa---cp) |
-| 3.       | [Technical Subject](#4-technical-subject) |
-| 4.       | [Low Level Design](#5-low-level-design) |
-| 5.       | [Projects](#6-projects) |
-| 6.       | [Important Books and Resources](#7-important-books-and-resources) |
-| 7.       | [Behavioural Interview Questions](#8-behavioural-interview-questions) |
+| 2.       | [DSA + CP](#2-dsa--cp) |
+| 3.       | [Technical Subject](#3-technical-subject) |
+| 4.       | [Low Level Design](#4-low-level-design) |
+| 5.       | [Projects](#5-projects) |
+| 6.       | [Important Books and Resources](#6-important-books-and-resources) |
+| 7.       | [Behavioural Interview Questions](#7-behavioural-interview-questions) |
 
 
 ## `Tree of Index  🚀`
