@@ -6,13 +6,15 @@
 
 <h1 align='center'>
 	<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md">
-		<code> Full Repository Status </code> <br>
+		<code> Full Repository Status </code>
+	</a> <br>
+	<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Learn.md">
 	    	<code> Learning Index </code>
 	</a>
 </h1>
 
 <p align="center">
-  <code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
+	<code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
 </p>
 
 <p align="center">
