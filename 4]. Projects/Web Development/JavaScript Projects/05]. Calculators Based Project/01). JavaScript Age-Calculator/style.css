@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, #fc00ff, #00dbde);
+    font-size: 62.5%;
+    overflow: hidden;
+}
+.container {
+  background: rgba(255, 255, 255, 0.40);
+  transform-style: preserve-3d;
+  transition: .3s;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
+  max-width: 30rem;
+  width: 100%;
+  margin: 8rem auto;
+  padding: 1rem 2rem 1rem 2rem;
+  border-radius: .5rem;
+  box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
+}
+.container *{
+    border: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.input-wrapper{
+    background: rgb(252, 45, 45);
+    padding: 2rem 1.5rem;
+    border-radius: .5rem;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+}
+input {
+    height: 3rem;
+    background: #fff;
+    color: #000;
+    font-weight: 500;
+    border-radius: .4rem;
+    width: 60%;
+    padding: 0 1.5rem;
+    font-size: 1rem;
+}
+button{
+    width: 30%;
+    float: right;
+    cursor: pointer;
+    height: 3rem;
+    background: #fff;
+    color: #000;
+    font-weight: 600;
+    border-radius: .4rem;
+    transition: .3s;
+    display: inline-block;
+}
+button:hover{
+    background: linear-gradient(to left, #fc00ff, #00dbde);
+}
+button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: -9px;
+    font-size: 24px;
+    right: -10px;
+    transition: 0.5s;
+}
+button:hover span {
+    padding-right: 15px;
+}
+button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.output-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+}
+.output-wrapper div{
+    height: 6rem;
+    width: 6rem;
+    background: rgb(252, 34, 34);
+    border-radius: 0.5rem;
+    color: #fff;
+    display: grid;
+    place-items: center;
+    padding: 1rem 0;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+.details span{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.details p{
+    font-size: 0.8rem;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+#wishmsg{
+    color: rgb(0, 0, 0);
+    display: none;
+    font-family: 'Lobster Two', cursive;
+}
+
+.backbtn {
+    position: absolute;
+    font-size: 2rem;
+    float: left;
+    cursor: pointer;
+    top: 3rem;
+    margin-left: 10rem;
+    color:rgb(255, 255, 255);
+}
+.backbtn a{
+    text-decoration: none;
+    color: inherit;  
+}
