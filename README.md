@@ -43,7 +43,7 @@
 ![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?label=Awesome%20Contributors&style=plastic&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github)
 
-[![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akash-singh3031/)
+[![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akashsingh3031/)
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/919794423031)
 [![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/akashsingh3031)
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/akashsingh3031/)
