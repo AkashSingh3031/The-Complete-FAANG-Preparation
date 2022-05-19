@@ -1,20 +1,24 @@
 # Implement pow(x, n), which calculates x raised to the power n (i.e., x^n).
-def myPow(x: float, n: int):
-    
+def myPow(x, n):
+
     if (n == 0):
         return 1
-    elif (x == 0):
-        return 0
-    
-    else:
-        if (n < 0):
-            return 1 / myPow(x, -n)
-        else:
-            temp = myPow(x, n//2)
-            if (n % 2 == 0):
-                return temp * temp
-            else:
-                return temp * temp * x
+    elif (x in [0, 1]) or (n == 1):
+        return x
+
+    res = 1
+    if (n < 0):
+        x = 1 / x
+        n = - (n + 1)
+        res *= x
+    while n > 0:
+        if (n % 2): # n is odd
+            res *= x
+            n -= 1
+        else: # jump 2 steps when n is even
+            x *= x
+            n //= 2
+    return res
 
 print(myPow(2.00000, 10))
 # OUTPUT: 1024.0
