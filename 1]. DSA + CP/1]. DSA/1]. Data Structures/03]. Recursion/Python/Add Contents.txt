@@ -4,3 +4,5 @@ Added :
 2. GCD.py
 3. Fibonacci_Series.py
 4. palindrome.py
+5. Pow(x,n).py
+6. Reverse_String.py
