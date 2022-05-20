@@ -18,3 +18,6 @@ print(countDigits(64))
 # OUTPUT: 2
 print(countDigits(-3459))
 # OUTPUT: 4
+
+# Time Complexity: O(logN) (Or O(log10(N)) to be exact
+# Space Complexity: O(1)
