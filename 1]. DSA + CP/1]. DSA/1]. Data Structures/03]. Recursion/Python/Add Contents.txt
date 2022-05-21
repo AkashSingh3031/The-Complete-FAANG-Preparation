@@ -6,3 +6,4 @@ Added :
 4. palindrome.py
 5. Pow(x,n).py
 6. Reverse_String.py
+7. Search_In_A_Binary_Search_Tree.py
