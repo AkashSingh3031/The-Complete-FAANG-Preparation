@@ -1,5 +1,5 @@
 # Binary Tree Traversals
-# Inorder, Preorder and PostOrder
+# Inorder, Preorder and PostOrder - Recursive
 
 class Node:
     def __init__(self, key):
