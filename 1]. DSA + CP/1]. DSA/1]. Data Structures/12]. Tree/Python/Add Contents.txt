@@ -9,3 +9,5 @@ Added:
 3. Binary Tree Level Order Traversal
 
 4. Symmetric Tree
+
+5. Path Sum
