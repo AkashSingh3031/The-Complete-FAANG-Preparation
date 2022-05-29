@@ -8,3 +8,4 @@ Added :
 6. Reverse_String.py
 7. Search_In_A_Binary_Search_Tree.py
 8. Climbing_Stairs.py
+9. Symmetric_Tree.py
