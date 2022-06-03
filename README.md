@@ -332,6 +332,14 @@ git push -u origin <your_branch_name>
 [![Stargazers over time](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation.svg)](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation)
 
 ## [`MIT LICENSE 📜`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
+
+| Permissions       | Limitations  | Conditions                      |
+|-------------------|--------------|---------------------------------|
+| ✔ Commercial use | ❌ Liability | 🛈 License and copyright notice |
+| ✔ Modification   | ❌ Warranty  |                                 |
+| ✔ Distribution   |              |                                 |
+| ✔ Private use    |              |                                 |
+
 ```css
 MIT License
 
