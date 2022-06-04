@@ -1,4 +1,4 @@
-# [30 Days of SDE Sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
+# [30 Days of SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
 
 ## Day-1: (Arrays)
 
