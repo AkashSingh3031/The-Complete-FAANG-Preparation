@@ -1,4 +1,4 @@
-searchElement(var arr, var element) {
+int searchElement(var arr, var element) {
   for (var i = 0; i < arr.length; i++) {
     if (arr[i] == element) {
       return i;

@@ -1,13 +1,14 @@
-reverse(arr) {
-  var start = 0;
-  var end = arr.length - 1;
+void reverse(arr) {
+  var low = 0;
+  var high = arr.length - 1;
 
-  while (start < end) {
-    var temp = arr[start];
-    arr[start] = arr[end];
-    arr[end] = temp;
-    start++;
-    end--;
+  while (low < high) {
+    var temp = arr[low];
+    arr[low] = arr[high];
+    arr[high] = temp;
+
+    low++;
+    high--;
   }
 }
 

@@ -1,4 +1,4 @@
-insert(arr, positon, element) {
+void insert(arr, positon, element) {
   if (positon < 0 || positon > arr.length) {
     throw new Exception("Invalid position");
   }

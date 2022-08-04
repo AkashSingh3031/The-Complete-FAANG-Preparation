@@ -1,4 +1,4 @@
-leftRotateOne(arr) {
+void leftRotateOne(arr) {
   var temp = arr[0];
   for (int i = 1; i < arr.length; i++) {
     arr[i - 1] = arr[i];

@@ -1,8 +1,8 @@
-delete(arr, element) {
+List<int> delete(arr, element) {
   if (arr.indexOf(element) == -1) {
     throw new Exception("Element does not exist in array");
   }
-  var newArr = [];
+  var newArr = <int>[];
   for (int i = 0; i < arr.length; i++) {
     if (arr[i] != element) {
       newArr.add(arr[i]);
