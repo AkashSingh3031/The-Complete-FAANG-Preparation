@@ -128,7 +128,7 @@
 <table>
 <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
  
-<td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg](https://images-eu.ssl-images-amazon.com/images/I/510XSXq3gHL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Conceptual Programming Tips for Interviews and Competitive Exams Tricky Problems and Solutions</b></sub></a><br /></td>
+<td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/510XSXq3gHL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Conceptual Programming Tips for Interviews and Competitive Exams Tricky Problems and Solutions</b></sub></a><br /></td>
 </table>
 
 ## 6. `Technical Subjects`
