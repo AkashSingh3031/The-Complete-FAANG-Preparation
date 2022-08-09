@@ -37,6 +37,7 @@
 |   |
 |   ├── Coding Interviews
 |   |   ├── Cracking the Coding Interview by GAYLE LAAKMANN McDowELL
+|   |   ├── Conceptual Programming Tips for interviews and Competitive exams: Tricky problems and Solutions
 |   |   └── ...
 |   |
 |   ├── Technical Subjects
@@ -126,6 +127,8 @@
 ## 5. `Coding Interviews`
 <table>
 <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
+ 
+<td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/510XSXq3gHL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Conceptual Programming Tips for Interviews and Competitive Exams Tricky Problems and Solutions</b></sub></a><br /></td>
 </table>
 
 ## 6. `Technical Subjects`
