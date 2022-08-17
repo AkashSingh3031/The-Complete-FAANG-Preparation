@@ -116,19 +116,19 @@
       - [ ] [Array](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array)
          - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array/C%2B%2B)
          - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/01%5D.%20Array/Java)
-         - [ ] Python
+         - [ ] [Python](https://www.scaler.com/topics/array-in-python/)
       - [ ] [2D Array](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/02%5D.%202D%20Array)
          - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/02%5D.%202D%20Array/C%2B%2B)
          - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/02%5D.%202D%20Array/Java)
-         - [ ] Python
+         - [ ] [Python](https://www.scaler.com/topics/2d-array-in-python/)
       - [ ] [Recursion](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/03%5D.%20Recursion)
          - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/03%5D.%20Recursion/C%2B%2B)
-         - [ ] Java
-         - [ ] Python
+         - [ ] [Java](https://www.scaler.com/topics/recursion-in-java/)
+         - [ ] [Python](https://www.scaler.com/topics/python/recursion-in-python/)
       - [ ] Strings
-         - [ ] C++
-         - [ ] Java
-         - [ ] Python
+         - [ ] [C++](https://www.scaler.com/topics/cpp/strings-in-cpp/)
+         - [ ] [Java](https://www.scaler.com/topics/java/string-in-java/)
+         - [ ] [Python](https://www.scaler.com/topics/python/strings-in-python/)
       - [ ] Hashing
          - [ ] C++
          - [ ] Java
@@ -137,7 +137,7 @@
          - [ ] [C](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List/C)
          - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List/C%2B%2B)
          - [ ] [Java](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/06%5D.%20Linked%20List/Java)
-         - [ ] Python
+         - [ ] [Python](https://www.scaler.com/topics/linked-list-in-python/)
       - [ ] [Doubly Linked List](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/07%5D.%20Doubly%20Linked%20List)
          - [ ] [C](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/07%5D.%20Doubly%20Linked%20List/C)
          - [ ] C++
@@ -149,15 +149,15 @@
          - [ ] Python
       - [ ] [Stack](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/09%5D.%20Stack)
          - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/09%5D.%20Stack/C%2B%2B)
-         - [ ] Java
-         - [ ] Python
+         - [ ] [Java](https://www.scaler.com/topics/stack-class-in-java/)
+         - [ ] [Python](https://www.scaler.com/topics/stack-in-python/)
       - [ ] [Queue](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/10%5D.%20Queue)
          - [ ] [C++](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA/1%5D.%20Data%20Structures/10%5D.%20Queue/C%2B%2B)
-         - [ ] Java
-         - [ ] Python
+         - [ ] [Java](https://www.scaler.com/topics/java/stack-and-queue-in-java/)
+         - [ ] [Python](https://www.scaler.com/topics/queue-in-python/)
       - [ ] Deueue
          - [ ] C++
-         - [ ] Java
+         - [ ] [Java](https://www.scaler.com/topics/java/deque-in-java/)
          - [ ] Python
       - [ ] Tree
          - [ ] C++
