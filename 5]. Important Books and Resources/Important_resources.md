@@ -11,6 +11,7 @@
   > Tip: Once DS Understanding & Implementation is done start practising DSrelated questions over portals like
   > * [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
   > * [LeetCode](https://leetcode.com/problemset/all/)
+  > * [Scaler Topics](https://www.scaler.com/topics/)
 
 
 
