@@ -58,7 +58,12 @@
    -  It is a preemptive mode of SJF algorithm in which jobs are scheduled according to the shortest remaining time.
 
 - **Round Robin (RR) Scheduling:**
-   -  Each process is assigned a fixed time, in a cyclic way. 5. Priority Based scheduling (Non Preemptive): In this scheduling, processes are scheduled according to their priorities, i.e., highest priority process is scheduled first. If priorities of two processes match, then scheduling is according to the arrival time.
+   -  Each process is assigned a fixed time, in a cyclic way. 
+   -  The period of time for which a process or job is allowed to run in a pre-emptive method is called time quantum.
+   
+ - **Priority Based scheduling (Non Preemptive):**
+   -  In this scheduling, processes are scheduled according to their priorities, i.e., highest priority process is scheduled first. 
+   -  If priorities of two processes match, then scheduling is according to the arrival time.
 
 - **Highest Response Ratio Next (HRRN):**
    -  In this scheduling, processes with the highest response ratio are scheduled. This algorithm avoids starvation. 
