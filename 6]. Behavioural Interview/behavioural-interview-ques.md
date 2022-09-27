@@ -30,9 +30,20 @@ working with people who are committed to getting things done and who are passion
 ```
 
 2. Describe a situation where your colleagues disagreed with your ideas. What did you do?
-
+```
+A few team members, including myself, were tasked to make new mobile application to improve efficiency while prioritizing customer satisfaction. 
+I was mostly concerned with meeting all of the customers’ needs, but a coworker was concerned that I was not following our instructions by neglecting efficiency. 
+At first it seemed like we were in total conflict, but I was able to get him to realize that we were each concerned with two halves of the solution. 
+Only by combining our two contributions would we be able to succeed. We focused on the areas we excelled in and found a way to fit them together, creating a procedure that is still in use with the company and improved efficiency.
+```
 
 3. When you have completed a difficult task or project
+```
+The most challenging situation for me, I would say was in my internship my team was dealing with a big project. 
+All the employees were very serious about this BIG PROJECT because it was one of the largest projects in monetary terms that the company had ever received. 
+The project was, however, in our reach and we would have done it without much of hustling. But, the problem arose here when one of our software expert resigned in the middle of the project and our work halted. 
+Since I had some experience with required softare technology, I was asked to do it for that Big Project. It was quite a time since I had done that work. I was afraid that I won’t be able to do it. But, I recalled all that I have learned and gave it a shot and hit the bull’s eye.
+```
 
 ### Amazon Leadership Principles
 [Amazon LP](https://www.youtube.com/watch?v=6LQrs-m-40o)
