@@ -7,7 +7,7 @@
 <h1 align='center'>
 	<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md">
 		<code> Full Repository Status </code>
-	</a> <br>
+	</a><br>
 	<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Learn.md">
 	    	<code> Learning Index </code>
 	</a>
