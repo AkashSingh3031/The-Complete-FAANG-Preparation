@@ -10,7 +10,7 @@
     "movie-trailer": "^2.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-youtube": "^7.11.3"
   },
   "scripts": {
