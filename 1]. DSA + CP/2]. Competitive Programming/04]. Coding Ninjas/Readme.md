@@ -1,6 +1,6 @@
 # [CodeStudio](https://www.codingninjas.com/codestudio)
 <p align="center">
-<!--     <img width="1000" height="150" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/GFG-1.png"> -->
+     <img width="1000" height="150" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/codestudio-1.png">
 </p><br>
 
 ### 1. [Practice](https://www.codingninjas.com/codestudio/problems)
