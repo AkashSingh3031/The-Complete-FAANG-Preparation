@@ -22,7 +22,3 @@
       - [Interview Series](https://practice.geeksforgeeks.org/events/rec/interview-series)
       - [Job a Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon)
       - [BiWizard School Contest](https://practice.geeksforgeeks.org/events/rec/step-up-coding-school)
-
-### 3. [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=leftbar-rightbar#Math)
-
-### 4. [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm#1)
