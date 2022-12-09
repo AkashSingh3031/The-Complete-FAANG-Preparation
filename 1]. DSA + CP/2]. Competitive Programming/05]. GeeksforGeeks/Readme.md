@@ -23,4 +23,3 @@
       - [Interview Series](https://practice.geeksforgeeks.org/events/rec/interview-series)
       - [Job a Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon)
       - [BiWizard School Contest](https://practice.geeksforgeeks.org/events/rec/step-up-coding-school)
-
