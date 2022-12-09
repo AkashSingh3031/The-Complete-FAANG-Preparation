@@ -11,6 +11,7 @@
 
 ### 3. [Study Plan](https://leetcode.com/study-plan)
    - Comprehensive Study Plans
+      - [LeetCode 75](https://leetcode.com/study-plan/leetcode-75)
       - [Data Structure](https://leetcode.com/study-plan/data-structure)
 	  - [Algorithm](https://leetcode.com/study-plan/algorithm)
    - In-Depth Topics
