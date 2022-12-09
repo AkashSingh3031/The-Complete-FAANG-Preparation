@@ -21,7 +21,7 @@
 
 ### 3. [Contests](https://www.interviewbit.com/contests)
    - [CodeDrift](https://www.interviewbit.com/contests)
-		- Tpoic Wise
+		- Topic Wise
 			- [Arrays](https://www.interviewbit.com/contest/code-drift-arrays)
 			- [Maths](https://www.interviewbit.com/contest/code-drift-maths)
 			- [Binary Search](https://www.interviewbit.com/contest/code-drift-binary-search)
