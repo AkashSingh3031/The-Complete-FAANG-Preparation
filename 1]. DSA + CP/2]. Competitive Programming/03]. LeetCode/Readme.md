@@ -13,7 +13,7 @@
    - Comprehensive Study Plans
       - [LeetCode 75](https://leetcode.com/study-plan/leetcode-75)
       - [Data Structure](https://leetcode.com/study-plan/data-structure)
-	  - [Algorithm](https://leetcode.com/study-plan/algorithm)
+      - [Algorithm](https://leetcode.com/study-plan/algorithm)
    - In-Depth Topics
       - [SQL](https://leetcode.com/study-plan/sql)
       - [Programming Skills](https://leetcode.com/study-plan/programming-skills)
