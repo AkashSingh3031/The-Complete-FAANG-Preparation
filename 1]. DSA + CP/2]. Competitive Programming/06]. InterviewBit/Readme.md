@@ -4,23 +4,23 @@
 </p><br>
 
 ### 1. [Practice](https://www.interviewbit.com/practice/)
-	- [Programming](https://www.interviewbit.com/courses/programming)
-	- [Puzzle](https://www.interviewbit.com/puzzles)
-	- [Databases](https://www.interviewbit.com/courses/databases)
-	- [Scripting](https://www.interviewbit.com/courses/shell)
-	- [Data Science](https://www.interviewbit.com/courses/data-science-and-machine-learning)
+   - [Programming](https://www.interviewbit.com/courses/programming)
+   - [Puzzle](https://www.interviewbit.com/puzzles)
+   - [Databases](https://www.interviewbit.com/courses/databases)
+   - [Scripting](https://www.interviewbit.com/courses/shell)
+   - [Data Science](https://www.interviewbit.com/courses/data-science-and-machine-learning)
 
 ### 2. Resources
-	- [All Problems](https://www.interviewbit.com/coding-interview-questions)
-	- [Fast Track Courses](https://www.interviewbit.com/courses/fast-track)
-		- [Python](https://www.interviewbit.com/courses/fast-track-python)
-		- [Java](https://www.interviewbit.com/courses/fast-track-java)
-		- [C++](https://www.interviewbit.com/courses/fast-track-cpp)
-		- [JavaScript](https://www.interviewbit.com/courses/fast-track-js)
-		- [C#](https://www.interviewbit.com/courses/fast-track-csharp)
+   - [All Problems](https://www.interviewbit.com/coding-interview-questions)
+   - [Fast Track Courses](https://www.interviewbit.com/courses/fast-track)
+      - [Python](https://www.interviewbit.com/courses/fast-track-python)
+	  - [Java](https://www.interviewbit.com/courses/fast-track-java)
+	  - [C++](https://www.interviewbit.com/courses/fast-track-cpp)
+	  - [JavaScript](https://www.interviewbit.com/courses/fast-track-js)
+      - [C#](https://www.interviewbit.com/courses/fast-track-csharp)
 
-### 2. [Contests](https://www.interviewbit.com/contests)
-	- [CodeDrift](https://www.interviewbit.com/contests)
+### 3. [Contests](https://www.interviewbit.com/contests)
+   - [CodeDrift](https://www.interviewbit.com/contests)
 		- Tpoic Wise
 			- [Arrays](https://www.interviewbit.com/contest/code-drift-arrays)
 			- [Maths](https://www.interviewbit.com/contest/code-drift-maths)
