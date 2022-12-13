@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"> Competitive Programming Sites</a></h1>
+<h1 align="center"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming#-competitive-programming-sites"> Competitive Programming Sites</a></h1>
 
 ### 1. [Google](https://codingcompetitions.withgoogle.com/)
    - [ ] [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -139,9 +139,37 @@
       - [ ] [List](https://workat.tech/problem-solving/practice/lists)
    - [ ] [Machine Coding](https://workat.tech/machine-coding/practice)
 
-### 9. [binarysearch](https://binarysearch.com/problems?order=id)
-   - [ ] [Problems](https://binarysearch.com/problems?order=id)
-   - [ ] [Contest](https://binarysearch.com/contest)
+### 9. [CodeSignal](https://app.codesignal.com)
+   - [ ] [Arcade](https://binarysearch.com/problems?order=id)
+      - [ ] [Intro](https://app.codesignal.com/arcade/intro)
+      - [ ] [The Core](https://app.codesignal.com/arcade/code-arcade)
+      - [ ] [Databases](https://app.codesignal.com/arcade/db)
+      - [ ] [Python](https://app.codesignal.com/arcade/python-arcade)
+      - [ ] [Graphs](https://app.codesignal.com/arcade/graphs-arcade)
+   - [ ] [Interview Practice](https://app.codesignal.com/interview-practice)
+      - [ ] [Data Structures](https://app.codesignal.com/interview-practice)
+      - [ ] [Sorting & Searching](https://app.codesignal.com/interview-practice)
+      - [ ] [Dynamic Programming](https://app.codesignal.com/interview-practice)
+      - [ ] [Special Topics](https://app.codesignal.com/interview-practice)
+      - [ ] [Math](https://app.codesignal.com/interview-practice)
+   - [ ] [Challenges](https://app.codesignal.com/challenges/page/1)
+      - [ ] [Algorithmic](https://app.codesignal.com/challenges/page/1)
+          - [ ] Easy
+          - [ ] Medium
+          - [ ] Hard
+      - [ ] [Frontend](https://app.codesignal.com/challenges/page/1)
+          - [ ] Easy
+          - [ ] Medium
+          - [ ] Hard
+      - [ ] [Database](https://app.codesignal.com/challenges/page/1)
+          - [ ] Easy
+          - [ ] Medium
+          - [ ] Hard
+      - [ ] [DevOps](https://app.codesignal.com/challenges/page/1)
+          - [ ] Easy
+          - [ ] Medium
+          - [ ] Hard
+   - [ ] [Company Challenges](https://app.codesignal.com/company-challenges)
 
 ### 10. [HackerRank](https://www.hackerrank.com/)
    - [ ] [Prepare](https://www.hackerrank.com/dashboard)

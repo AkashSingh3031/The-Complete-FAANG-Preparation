@@ -21,6 +21,10 @@
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
+# [`Community Exchange`](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=sort%3Astar_desc)
+<code>[![Community Exchange](https://user-images.githubusercontent.com/60146338/207290439-271ff95f-e528-4d84-86b5-eff13c384f55.png)](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=The-Complete-FAANG-Preparation)
+[![CLASS OF 2022 - Yearbook](https://user-images.githubusercontent.com/60146338/207295394-51549613-c597-4982-bd22-fb7894f02c13.png)](https://education.github.com/graduation/yearbook?sort=az&page=2&search=akashsingh3031#AkashSingh3031)</code>
+
 ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
 <code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code>
 
