@@ -1,8 +1,30 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=The+Complete+FAANG+Preparation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=50&width=900&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+
+<p align="center">
+	<code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
+</p>
+
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api"/>
+</p>
+
+<p align="center">
+    <a href="https://bit.ly/3FvaHo9" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/codestudio-1.png" width="300px" height="80px" /></a> 
+	<br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=F78D1AFF&size=50&width=420&height=80&lines=Learning+Resources"/>
+</p>
+
+# `🏆 Table of Contents 📋`
+| SNo. | Topics | Sub Topics |
+|------|----------|----------|
+| 1.   | [📘Aptitude + Puzzle](https://www.codingninjas.com/codestudio/guided-paths?category=interview-preparation)              | [1️⃣Aptitude](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation) <br> [2️⃣Puzzle](https://www.codingninjas.com/codestudio/guided-paths/top-150-interview-puzzles) |
+| 2.   | [📘Languages](https://www.codingninjas.com/codestudio/guided-paths)                                                     |[1️⃣C++](https://bit.ly/3YtE9n1) <br> [2️⃣Python](https://bit.ly/3V3lgnW) <br> [3️⃣Java](https://bit.ly/3FX11Eb)|
+| 3.   | [📘DSA + CP](https://www.codingninjas.com/codestudio/guided-paths) <hr> [📘Top Problem Lists](https://bit.ly/3v0rudC)   |[1️⃣Data Structures abd Algorithms](https://bit.ly/3V5h7Qx) <br> [2️⃣Competitive Programming](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming) <hr> [1️⃣Striver SDE Sheet](https://bit.ly/3hu7GfF) <br> [2️⃣Love Babbar DSA Sheet](https://bit.ly/3uTFyFM)|
+| 4.   | [📘Technical Subject](https://www.codingninjas.com/codestudio/guided-paths?category=interview-preparation)              |[1️⃣Operating System](https://bit.ly/3HKNaSK) <br> [2️⃣Database Management System](https://bit.ly/3FX5k2e) <br> [3️⃣Computer Networks](https://bit.ly/3BHlNFv) <br> [4️⃣Object Oriented Programming in C++](https://bit.ly/3WrQgzn) <br>&emsp; [4️⃣🅰️Object Oriented Programming in Python](https://www.codingninjas.com/codestudio/guided-paths/oops-in-python) <br>&emsp; [4️⃣🅱️Object Oriented Programming in Java](https://www.codingninjas.com/codestudio/guided-paths/oops-in-java) <br> [5️⃣System Design](https://www.codingninjas.com/codestudio/guided-paths/system-design)|
+
 
 <h1 align='center'>
 	<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md">
@@ -13,20 +35,12 @@
 	</a>
 </h1>
 
-<p align="center">
-	<code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
-</p>
-
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api"/>
-</p>
-
-# [`Community Exchange`](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=sort%3Astar_desc)
+<!-- # [`Community Exchange`](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=sort%3Astar_desc)
 <code>[![Community Exchange](https://user-images.githubusercontent.com/60146338/207290439-271ff95f-e528-4d84-86b5-eff13c384f55.png)](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=The-Complete-FAANG-Preparation)
 [![CLASS OF 2022 - Yearbook](https://user-images.githubusercontent.com/60146338/207295394-51549613-c597-4982-bd22-fb7894f02c13.png)](https://education.github.com/graduation/yearbook?sort=az&page=2&search=akashsingh3031#AkashSingh3031)</code>
 
 ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
-<code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code>
+<code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code> -->
 
 ---
  
