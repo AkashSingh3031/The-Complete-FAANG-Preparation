@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=50&width=900&height=80&lines=The+Complete+FAANG+Preparation"/>
 </p>
 
-[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
 <p align="center">
 	<code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" /></code>
