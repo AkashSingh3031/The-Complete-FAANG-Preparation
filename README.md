@@ -17,6 +17,8 @@
 	<br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=F78D1AFF&size=50&width=420&height=80&lines=Learning+Resources"/>
 </p>
 
+<div align="center">
+	
 # `🏆 Table of Contents 📋`
 | SNo. | Topics | Sub Topics |
 |------|--------|------------|
@@ -25,6 +27,7 @@
 | 3.   | [📘DSA + CP](https://www.codingninjas.com/codestudio/guided-paths) <hr> [📘Top Problem Lists](https://bit.ly/3v0rudC)   | [1️⃣Data Structures and Algorithms](https://bit.ly/3V5h7Qx) <br> [2️⃣Competitive Programming](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming) <hr> [1️⃣Striver SDE Sheet](https://bit.ly/3hu7GfF) <br> [2️⃣Love Babbar DSA Sheet](https://bit.ly/3uTFyFM)|
 | 4.   | [📘Technical Subject](https://www.codingninjas.com/codestudio/guided-paths?category=interview-preparation)              | [1️⃣Operating System](https://bit.ly/3HKNaSK) <br> [2️⃣Database Management System](https://bit.ly/3FX5k2e) <br> [3️⃣Computer Networks](https://bit.ly/3BHlNFv) <br> [4️⃣Object Oriented Programming in C++](https://bit.ly/3WrQgzn) <br>&emsp; [4️⃣🅰️Object Oriented Programming in Python](https://www.codingninjas.com/codestudio/guided-paths/oops-in-python) <br>&emsp; [4️⃣🅱️Object Oriented Programming in Java](https://www.codingninjas.com/codestudio/guided-paths/oops-in-java) <br> [5️⃣System Design](https://www.codingninjas.com/codestudio/guided-paths/system-design)|
 
+</div>
 
 <!-- # [`Community Exchange`](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=sort%3Astar_desc)
 <code>[![Community Exchange](https://user-images.githubusercontent.com/60146338/207290439-271ff95f-e528-4d84-86b5-eff13c384f55.png)](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=The-Complete-FAANG-Preparation)
