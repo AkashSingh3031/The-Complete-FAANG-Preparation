@@ -124,10 +124,431 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 	</a>
 </h1>
 
+<table>
+    <thead>
+        <tr>
+            <th> SNo. </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff"> <img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge"></a>
+            </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP"> <img src="https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge"></a>
+            </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects"> <img src="https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge"></a>
+            </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201"> <img src="https://img.shields.io/badge/System_Sesign-orange?style=for-the-badge"></a>
+            </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects"> <img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge"></a>
+            </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Important%20Books%20and%20Resources"> <img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge"></a>
+            </th>
+            <th> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/6%5D.%20Behavioural%20Interview"> <img src="https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge"></a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 1. </td>
+            <td>
+                <table border="5" id="verticalalign">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning"> Aptitude & Reasoning </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 2. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs"> Basic Programming MCQs </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 3. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles"> Puzzles </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table border="5">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/1%5D.%20DSA"> DSA </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 2. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming"> CP </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table border="5">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)"> OOP </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 2. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)"> OS </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 3. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)"> DBMS </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 4. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)"> SQL </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 5. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)"> CN </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table border="5">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design"> Object Oriented Design</a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 2. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study"> Case Study </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table border="5">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Blockchain%20Development"> Blockchain Development</a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 2. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Data%20Science"> Data Science </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 3. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Internet%20of%20Things%20(IOT)"> Internet of Things (IOT)</a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 4. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Web%20Development"> Web Development</a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 5. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Mobile%20Development"> Mobile Development </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 6. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Desktop%20Development"> Desktop Development </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table border="5">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                            <th> Sub-Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/5%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md"> 📚Important Books </a>
+                            </th>
+                            <th>
+                                <table border="3">
+                                    <thead>
+                                        <tr>
+                                            <th> SNo. </th>
+                                            <th> Topics </th>
+                                            <th> Sub-Topics </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th> 1. </th>
+                                            <th align="left"> 📘Aptitude + Puzzles </th>
+                                            <th align="left"> </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 2. </th>
+                                            <th align="left"> 📘Programming Languages </th>
+                                            <th align="left"> 📒C & C++ Language
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
+                                                </table> 📒Python Language
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
+                                                </table> 📒Java Language
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 3. </th>
+                                            <th align="left"> 📘DSA
+                                                <hr> 📘CP </th>
+                                            <th align="left"> 📒Data Structures
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td>
+                                                </table> 📒Algorithms
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
+                                                </table>
+                                                <hr> 📒Competitive Programming
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 4. </th>
+                                            <th align="left"> 📘Technical Subject </th>
+                                            <th align="left"> 📒Object Oriented Programming (OOP)
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg" width="50px;" alt=""/><br /><sub><b>Object Oriented Programming</b></sub></a><br /></td>
+                                                </table> 📒Operating System (OS)
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
+                                                </table> 📒Database Management System (DBMS)
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
+                                                </table> 📒Computer Network (CN)
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Evwd0GdiL._SX198_BO1,204,203,200_QL40_ML2_.jpg" width="50px;" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </th>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <th> 2. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/5%5D.%20Important%20Books%20and%20Resources/Readme.md"> 📓Learning Resources</a>
+                            </th>
+                            <th> <a href="https://bit.ly/3FvaHo9" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/codestudio-1.png" width="300px" height="80px" /></a> <br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=F78D1AFF&size=50&width=420&height=80&lines=Learning+Resources" />
+                                <table border="3">
+                                    <thead>
+                                        <tr>
+                                            <th> SNo. </th>
+                                            <th> Topics </th>
+                                            <th> Sub-Topics </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th> 1. </th>
+                                            <th align="left"> 📘Aptitude + Puzzle </th>
+                                            <th align="left"> <a href="https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation"> 1️⃣Aptitude </a> <br><a href="https://www.codingninjas.com/codestudio/guided-paths/top-150-interview-puzzles"> 2️⃣Puzzle </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 2. </th>
+                                            <th align="left"> 📘Languages </th>
+                                            <th align="left"> <a href="https://bit.ly/3YtE9n1"> 1️⃣C++ </a> <br> <a href="https://bit.ly/3V3lgnW"> 2️⃣Python </a> <br> <a href="https://bit.ly/3FX11Eb">3️⃣Java </a>)
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 3. </th>
+                                            <th align="left"> 📘DSA + CP
+                                                <hr> 📘Top Problem Lists </th>
+                                            <th align="left"> <a href="https://bit.ly/3V5h7Qx"> 1️⃣Data Structures and Algorithms </a> <br> <a href="https://www.codingninjas.com/codestudio/guided-paths/competitive-programming"> 2️⃣Competitive Programming </a>
+                                                <hr> <a href="https://bit.ly/3hu7GfF"> 1️⃣Striver SDE Sheet </a> <br> <a href="https://bit.ly/3uTFyFM"> 2️⃣Love Babbar DSA Sheet </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 4. </th>
+                                            <th align="left"> 📘Technical Subject </th>
+                                            <th align="left"> <a href="https://bit.ly/3HKNaSK"> 1️⃣Operating System </a> <br> <a href="https://bit.ly/3FX5k2e"> 2️⃣Database Management System </a> <br> <a href="https://bit.ly/3BHlNFv"> 3️⃣Computer Networks </a> <br> <a href="https://bit.ly/3WrQgzn">4️⃣ Object Oriented Programming in C++  </a> <br>&emsp; <a href="https://www.codingninjas.com/codestudio/guided-paths/oops-in-python"> 4️⃣🅰️Object Oriented Programming in Python </a> <br>&emsp; <a href="https://www.codingninjas.com/codestudio/guided-paths/oops-in-java"> 4️⃣🅱️Object Oriented Programming in Java </a> <br> <a href="https://www.codingninjas.com/codestudio/guided-paths/system-design"> 5️⃣System Design </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table> <br> <a href="https://www.geeksforgeeks.org" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/GFG-1.png" width="300px" height="50px" /></a> <br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=308D46&size=50&width=420&height=80&lines=Learning+Resources" />
+                                <table border="3">
+                                    <thead>
+                                        <tr>
+                                            <th> SNo. </th>
+                                            <th> Topics </th>
+                                            <th> Sub-Topics </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th> 1. </th>
+                                            <th align="left"> 📘Aptitude + Puzzles </th>
+                                            <th align="left"> <a href="https://www.geeksforgeeks.org/aptitude-gq"> 1️⃣Aptitude </a> <br> <a href="https://www.geeksforgeeks.org/puzzles"> 2️⃣Puzzle </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 2. </th>
+                                            <th align="left"> 📘Languages </th>
+                                            <th align="left"> <a href="https://www.geeksforgeeks.org/c-plus-plus"> 1️⃣C++ </a> <br> <a href="https://www.geeksforgeeks.org/python-programming-language"> 2️⃣Python </a> <br> <a href="https://www.geeksforgeeks.org/java"> 3️⃣Java </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 3. </th>
+                                            <th align="left"> 📘DSA + CP
+                                                <hr> 📘Top Problem Lists </th>
+                                            <th align="left"> <a href="https://www.geeksforgeeks.org/data-structures"> 1️⃣Data Structures </a> <br> <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms"> 2️⃣Algorithms </a> <br> <a href="https://www.geeksforgeeks.org/competitive-programming-a-complete-guide"> 3️⃣Competitive Programming </a>
+                                                <hr> <a href="https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation">1️⃣GFG SDE Sheet  </a> <br>&emsp; <a href="https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers"> 🔵Facebook(Meta) SDE Sheet </a> <br>&emsp; <a href="https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers"> 🟠Amazon SDE Sheet </a> <br>&emsp; <a href="https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers"> ⚫Apple SDE Sheet </a> <br>&emsp; <a href="https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers"> 🔴Netflix SDE Sheet </a> <br>&emsp; <a href="https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers"> 🟢Google SDE Sheet </a> <br> <a href="https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar"> 2️⃣Love Babbar DSA Sheet </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 4. </th>
+                                            <th align="left"> 📘Technical Subject </th>
+                                            <th align="left"> <a href="https://www.geeksforgeeks.org/operating-systems"> 1️⃣Operating System </a> <br> <a href="https://www.geeksforgeeks.org/dbms"> 2️⃣Database Management System </a> <br> <a href="https://www.geeksforgeeks.org/computer-network-tutorials"> 3️⃣Computer Networks </a> <br> <a href="https://www.geeksforgeeks.org/system-design-tutorial"> 4️⃣System Design </a> <br>&emsp; <a href="https://www.geeksforgeeks.org/software-design-patterns"> 4️⃣🅰️Software Design Patterns </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                    <tbody>
+                                        <tr>
+                                            <th> 5. </th>
+                                            <th align="left"> 📘Projects </th>
+                                            <th align="left"> <a href="https://www.geeksforgeeks.org/computer-science-projects"> 1️⃣Computer Science Projects </a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table border="5">
+                    <thead>
+                        <tr>
+                            <th> SNo. </th>
+                            <th> Contents </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th> 1. </th>
+                            <th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Behavioural%20Interview/behavioural-interview-ques.md"> Behavioural Interview Questions </a>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
+<!-- 
 | SNo. | [![`Miscellaneous Stuff`](https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff) | [![`DSA + CP`](https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP) | [![`Technical Subjects`](https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects) | [![`System Sesign`](https://img.shields.io/badge/System_Sesign-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201) | [![`Projects`](https://img.shields.io/badge/Projects-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects) | [![`Important Books and Resources`](https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Important%20Books%20and%20Resources) | [![`Behavioural Interview`](https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/6%5D.%20Behavioural%20Interview) |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.   | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [Basic Programming MCQs](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> [Puzzles](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles) </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [DSA](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/1%5D.%20DSA) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [CP](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming) </th></tr>  </tbody>  </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [OOP](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [OS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> [DBMS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> [SQL](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)) </th></tr>  </tbody> <tbody><tr><th> 5. </th> <th align="left"> [CN](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)) </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Object Oriented Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [Case Study](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study) </th></tr>  </tbody>  </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Blockchain Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Blockchain%20Development) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Data%20Science) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Internet%20of%20Things%20(IOT)) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Web%20Development) </th></tr>  </tbody> <tbody><tr><th> 5. </th> <th align="left"> [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Mobile%20Development) </th></tr>  </tbody> <tbody><tr><th> 6. </th> <th align="left"> [Desktop Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Desktop%20Development) </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th> <th> Sub-Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [📚Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/5%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md) </th><th> <table border="3"> <thead> <tr><th> SNo. </th> <th> Topics </th> <th> Sub-Topics </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> 📘Aptitude + Puzzles </th><th align="left"> </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> 📘Programming Languages </th><th align="left"> 📒C & C++ Language <table><td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td><td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td> <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td><td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td></table> 📒Python Language<table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td></table> 📒Java Language <table><td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td></table></th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> 📘DSA  <hr> 📘CP </th><th align="left"> 📒Data Structures <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td> </table> 📒Algorithms <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td> </table> <hr> 📒Competitive Programming <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td> </table> </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> 📘Technical Subject </th><th align="left"> 📒Object Oriented Programming (OOP) <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg" width="50px;" alt=""/><br /><sub><b>Object Oriented Programming</b></sub></a><br /></td> </table> 📒Operating System (OS) <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td> </table> 📒Database Management System (DBMS) <table> <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td> </table> 📒Computer Network (CN) <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Evwd0GdiL._SX198_BO1,204,203,200_QL40_ML2_.jpg" width="50px;" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td> </table> </th></tr>  </tbody></table> </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [📓Learning Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/5%5D.%20Important%20Books%20and%20Resources/Readme.md) </th><th> <a href="https://bit.ly/3FvaHo9" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/codestudio-1.png" width="300px" height="80px" /></a> <br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=F78D1AFF&size=50&width=420&height=80&lines=Learning+Resources"/> <table border="3"> <thead> <tr><th> SNo. </th> <th> Topics </th> <th> Sub-Topics </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> 📘Aptitude + Puzzle </th><th align="left"> [1️⃣Aptitude](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation) <br> [2️⃣Puzzle](https://www.codingninjas.com/codestudio/guided-paths/top-150-interview-puzzles) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> 📘Languages </th><th align="left"> [1️⃣C++](https://bit.ly/3YtE9n1) <br> [2️⃣Python](https://bit.ly/3V3lgnW) <br> [3️⃣Java](https://bit.ly/3FX11Eb) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> 📘DSA + CP  <hr> 📘Top Problem Lists </th><th align="left"> [1️⃣Data Structures and Algorithms](https://bit.ly/3V5h7Qx) <br> [2️⃣Competitive Programming](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming) <hr> [1️⃣Striver SDE Sheet](https://bit.ly/3hu7GfF) <br> [2️⃣Love Babbar DSA Sheet](https://bit.ly/3uTFyFM) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> 📘Technical Subject </th><th align="left"> [1️⃣Operating System](https://bit.ly/3HKNaSK) <br> [2️⃣Database Management System](https://bit.ly/3FX5k2e) <br> [3️⃣Computer Networks](https://bit.ly/3BHlNFv) <br> [4️⃣Object Oriented Programming in C++](https://bit.ly/3WrQgzn) <br>&emsp; [4️⃣🅰️Object Oriented Programming in Python](https://www.codingninjas.com/codestudio/guided-paths/oops-in-python) <br>&emsp; [4️⃣🅱️Object Oriented Programming in Java](https://www.codingninjas.com/codestudio/guided-paths/oops-in-java) <br> [5️⃣System Design](https://www.codingninjas.com/codestudio/guided-paths/system-design) </th></tr>  </tbody>  </table> <br> <a href="https://www.geeksforgeeks.org" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/GFG-1.png" width="300px" height="50px" /></a> <br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=308D46&size=50&width=420&height=80&lines=Learning+Resources"/> <table border="3"> <thead> <tr><th> SNo. </th> <th> Topics </th> <th> Sub-Topics </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> 📘Aptitude + Puzzles </th><th align="left"> [1️⃣Aptitude](https://www.geeksforgeeks.org/aptitude-gq) <br> [2️⃣Puzzle](https://www.geeksforgeeks.org/puzzles) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> 📘Languages </th><th align="left"> [1️⃣C++](https://www.geeksforgeeks.org/c-plus-plus) <br> [2️⃣Python](https://www.geeksforgeeks.org/python-programming-language) <br> [3️⃣Java](https://www.geeksforgeeks.org/java) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> 📘DSA + CP  <hr> 📘Top Problem Lists </th><th align="left"> [1️⃣Data Structures](https://www.geeksforgeeks.org/data-structures) <br> [2️⃣Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms) <br> [3️⃣Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide) <hr> [1️⃣GFG SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation) <br>&emsp; [🔵Facebook(Meta) SDE Sheet](https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers) <br>&emsp; [🟠Amazon SDE Sheet](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers) <br>&emsp; [⚫Apple SDE Sheet](https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers) <br>&emsp; [🔴Netflix SDE Sheet](https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers) <br>&emsp; [🟢Google SDE Sheet](https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers) <br> [2️⃣Love Babbar DSA Sheet](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> 📘Technical Subject </th><th align="left"> [1️⃣Operating System](https://www.geeksforgeeks.org/operating-systems) <br> [2️⃣Database Management System](https://www.geeksforgeeks.org/dbms) <br> [3️⃣Computer Networks](https://www.geeksforgeeks.org/computer-network-tutorials) <br> [4️⃣System Design](https://www.geeksforgeeks.org/system-design-tutorial) <br>&emsp; [4️⃣🅰️Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns) </th></tr>  </tbody> <tbody><tr><th> 5. </th> <th align="left"> 📘Projects </th><th align="left"> [1️⃣Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects) </th></tr>  </tbody> </table> </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Behavioural Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Behavioural%20Interview/behavioural-interview-ques.md) </th></tr>  </tbody> </table> |
+| 1.   | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Aptitude & Reasoning](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [Basic Programming MCQs](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> [Puzzles](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles) </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [DSA](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/1%5D.%20DSA) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [CP](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming) </th></tr>  </tbody>  </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [OOP](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/0%5D.%20Object%20Oriented%20Programming%20(OOP)) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [OS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/1%5D.%20Operating%20System%20(OS)) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> [DBMS](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/2%5D.%20Database%20Management%20System%20(DBMS)) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> [SQL](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/3%5D.%20Structured%20Query%20Language%20(SQL)) </th></tr>  </tbody> <tbody><tr><th> 5. </th> <th align="left"> [CN](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)) </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Object Oriented Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [Case Study](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study) </th></tr>  </tbody>  </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Blockchain Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Blockchain%20Development) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Data%20Science) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> [Internet of Things (IOT)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Internet%20of%20Things%20(IOT)) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> [Web Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Web%20Development) </th></tr>  </tbody> <tbody><tr><th> 5. </th> <th align="left"> [Mobile Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Mobile%20Development) </th></tr>  </tbody> <tbody><tr><th> 6. </th> <th align="left"> [Desktop Development](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Desktop%20Development) </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th> <th> Sub-Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [📚Important Books](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/5%5D.%20Important%20Books%20and%20Resources/Important_Books_Link.md) </th><th> <table border="3"> <thead> <tr><th> SNo. </th> <th> Topics </th> <th> Sub-Topics </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> 📘Aptitude + Puzzles </th><th align="left"> </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> 📘Programming Languages </th><th align="left"> 📒C & C++ Language <table><td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td><td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td> <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td><td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td></table> 📒Python Language<table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td></table> 📒Java Language <table><td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td></table></th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> 📘DSA  <hr> 📘CP </th><th align="left"> 📒Data Structures <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td> </table> 📒Algorithms <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td> </table> <hr> 📒Competitive Programming <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td> </table> </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> 📘Technical Subject </th><th align="left"> 📒Object Oriented Programming (OOP) <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg" width="50px;" alt=""/><br /><sub><b>Object Oriented Programming</b></sub></a><br /></td> </table> 📒Operating System (OS) <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td> </table> 📒Database Management System (DBMS) <table> <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td> </table> 📒Computer Network (CN) <table> <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Evwd0GdiL._SX198_BO1,204,203,200_QL40_ML2_.jpg" width="50px;" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td> </table> </th></tr>  </tbody></table> </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> [📓Learning Resources](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/5%5D.%20Important%20Books%20and%20Resources/Readme.md) </th><th> <a href="https://bit.ly/3FvaHo9" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/codestudio-1.png" width="300px" height="80px" /></a> <br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=F78D1AFF&size=50&width=420&height=80&lines=Learning+Resources"/> <table border="3"> <thead> <tr><th> SNo. </th> <th> Topics </th> <th> Sub-Topics </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> 📘Aptitude + Puzzle </th><th align="left"> [1️⃣Aptitude](https://www.codingninjas.com/codestudio/guided-paths/aptitude-preparation) <br> [2️⃣Puzzle](https://www.codingninjas.com/codestudio/guided-paths/top-150-interview-puzzles) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> 📘Languages </th><th align="left"> [1️⃣C++](https://bit.ly/3YtE9n1) <br> [2️⃣Python](https://bit.ly/3V3lgnW) <br> [3️⃣Java](https://bit.ly/3FX11Eb) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> 📘DSA + CP  <hr> 📘Top Problem Lists </th><th align="left"> [1️⃣Data Structures and Algorithms](https://bit.ly/3V5h7Qx) <br> [2️⃣Competitive Programming](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming) <hr> [1️⃣Striver SDE Sheet](https://bit.ly/3hu7GfF) <br> [2️⃣Love Babbar DSA Sheet](https://bit.ly/3uTFyFM) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> 📘Technical Subject </th><th align="left"> [1️⃣Operating System](https://bit.ly/3HKNaSK) <br> [2️⃣Database Management System](https://bit.ly/3FX5k2e) <br> [3️⃣Computer Networks](https://bit.ly/3BHlNFv) <br> [4️⃣Object Oriented Programming in C++](https://bit.ly/3WrQgzn) <br>&emsp; [4️⃣🅰️Object Oriented Programming in Python](https://www.codingninjas.com/codestudio/guided-paths/oops-in-python) <br>&emsp; [4️⃣🅱️Object Oriented Programming in Java](https://www.codingninjas.com/codestudio/guided-paths/oops-in-java) <br> [5️⃣System Design](https://www.codingninjas.com/codestudio/guided-paths/system-design) </th></tr>  </tbody>  </table> <br> <a href="https://www.geeksforgeeks.org" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/GFG-1.png" width="300px" height="50px" /></a> <br><img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&color=308D46&size=50&width=420&height=80&lines=Learning+Resources"/> <table border="3"> <thead> <tr><th> SNo. </th> <th> Topics </th> <th> Sub-Topics </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> 📘Aptitude + Puzzles </th><th align="left"> [1️⃣Aptitude](https://www.geeksforgeeks.org/aptitude-gq) <br> [2️⃣Puzzle](https://www.geeksforgeeks.org/puzzles) </th></tr>  </tbody> <tbody><tr><th> 2. </th> <th align="left"> 📘Languages </th><th align="left"> [1️⃣C++](https://www.geeksforgeeks.org/c-plus-plus) <br> [2️⃣Python](https://www.geeksforgeeks.org/python-programming-language) <br> [3️⃣Java](https://www.geeksforgeeks.org/java) </th></tr>  </tbody> <tbody><tr><th> 3. </th> <th align="left"> 📘DSA + CP  <hr> 📘Top Problem Lists </th><th align="left"> [1️⃣Data Structures](https://www.geeksforgeeks.org/data-structures) <br> [2️⃣Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms) <br> [3️⃣Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide) <hr> [1️⃣GFG SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation) <br>&emsp; [🔵Facebook(Meta) SDE Sheet](https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers) <br>&emsp; [🟠Amazon SDE Sheet](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers) <br>&emsp; [⚫Apple SDE Sheet](https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers) <br>&emsp; [🔴Netflix SDE Sheet](https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers) <br>&emsp; [🟢Google SDE Sheet](https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers) <br> [2️⃣Love Babbar DSA Sheet](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar) </th></tr>  </tbody> <tbody><tr><th> 4. </th> <th align="left"> 📘Technical Subject </th><th align="left"> [1️⃣Operating System](https://www.geeksforgeeks.org/operating-systems) <br> [2️⃣Database Management System](https://www.geeksforgeeks.org/dbms) <br> [3️⃣Computer Networks](https://www.geeksforgeeks.org/computer-network-tutorials) <br> [4️⃣System Design](https://www.geeksforgeeks.org/system-design-tutorial) <br>&emsp; [4️⃣🅰️Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns) </th></tr>  </tbody> <tbody><tr><th> 5. </th> <th align="left"> 📘Projects </th><th align="left"> [1️⃣Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects) </th></tr>  </tbody> </table> </th></tr>  </tbody> </table> | <table border="5"> <thead> <tr><th> SNo. </th> <th> Contents </th></tr> </thead> <tbody><tr><th> 1. </th> <th align="left"> [Behavioural Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Behavioural%20Interview/behavioural-interview-ques.md) </th></tr>  </tbody> </table> | 
+-->
 
 </br>
 
