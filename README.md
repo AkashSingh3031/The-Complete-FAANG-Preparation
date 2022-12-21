@@ -148,7 +148,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
         <tr>
             <td> 1. </td>
             <td>
-                <table border="5" id="verticalalign">
+                <table border="5">
                     <thead>
                         <tr>
                             <th> SNo. </th>
