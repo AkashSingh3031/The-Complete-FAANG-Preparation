@@ -56,6 +56,8 @@
 |   |   └── ...
 |   |
 |   ├── Aptitude & Reasoning
+|   |   ├── Quantitative Aptitude by Dr. R S Aggarwal
+|   |   └── ...
 |   |
 |   ├── Low Level Design
 |   |   ├── Object Oriented Design
@@ -64,14 +66,16 @@
 └── ...
 ```
 
-<!-- 1. `Programming Language`
-2. [`Data Structures`](#data-structures)
-3. [`Algorithms`](#algorithms)
-4. [`Competitive Programming`](#competitive-programming)
-5. [`Coding Interviews`](#coding-interviews)
-6. `Technical Subjects`
-7. `Aptitude & Reasoning`
-8. [`Low Level Design`](#low-level-design) -->
+<!-- 
+1. [`Programming Language`](#1-programming-language)
+2. [`Data Structures`](#2-data-structures)
+3. [`Algorithms`](#3-algorithms)
+4. [`Competitive Programming`](#4-competitive-programming)
+5. [`Coding Interviews`](#5-coding-interviews)
+6. [`Technical Subjects`](#6-technical-subjects)
+7. [`Aptitude & Reasoning`](#7-aptitude--reasoning)
+8. [`Low Level Design`](#low-level-design) 
+-->
 
 ---
 
@@ -128,7 +132,7 @@
 <table>
 <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
  
-<td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/510XSXq3gHL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Conceptual Programming Tips for Interviews and Competitive Exams Tricky Problems and Solutions</b></sub></a><br /></td>
+<td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/510XSXq3gHL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Conceptual Programming Tips <br> for Interviews and Competitive Exams <br> Tricky Problems and Solutions</b></sub></a><br /></td>
 </table>
 
 ## 6. `Technical Subjects`
@@ -154,7 +158,10 @@
 
 
 ## 7. `Aptitude & Reasoning`
--
+- `Quantitative Aptitude`
+<table>
+ <td align="center"><a href="#"><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="150px;" alt=""/><br /><sub><b>Quantitative Aptitude - Dr. R S Aggarwal</b></sub></a><br /></td>
+</table>
 
 ## 8. `Low Level Design`
 - [Object Oriented Design](https://www.oodesign.com/)
