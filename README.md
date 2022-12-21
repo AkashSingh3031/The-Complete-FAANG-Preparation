@@ -618,25 +618,33 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
                                         <tr>
                                             <th valign="top"> 1. </th>
                                             <th align="left" valign="top"> 📘Aptitude + Puzzles </th>
-                                            <th align="left"> </th>
+                                            <th align="left"> 
+												📒Aptitude
+                                                <table>
+                                                    <td align="center"><a href="#"><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub></a><br /></td>
+                                                </table>
+											</th>
                                         </tr>
                                     </tbody>
                                     <tbody>
                                         <tr>
                                             <th valign="top"> 2. </th>
                                             <th align="left" valign="top"> 📘Programming Languages </th>
-                                            <th align="left"> 📒C & C++ Language
+                                            <th align="left"> 
+												📒C & C++ Language
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
-                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
-                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
-                                                </table> 📒Python Language
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
+                                                </table> 
+												📒Python Language
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
-                                                </table> 📒Java Language
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
+                                                </table> 
+												📒Java Language
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
                                                 </table>
                                             </th>
                                         </tr>
@@ -645,20 +653,28 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
                                         <tr>
                                             <th valign="top"> 3. </th>
                                             <th align="left" valign="top"> 📘DSA
-                                                <hr> 📘CP </th>
-                                            <th align="left"> 📒Data Structures
+                                                <hr> 📘CP <hr> 📘Coding Interviews </th>
+                                            <th align="left"> 
+												📒Data Structures
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td>
-                                                </table> 📒Algorithms
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms</b></sub></a><br /></td>
+                                                </table> 
+												📒Algorithms
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
                                                 </table>
-                                                <hr> 📒Competitive Programming
+                                                <hr> 
+												📒Competitive Programming
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
                                                 </table>
+												<hr> 
+												📒Coding Interviews
+												<table>
+													<td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
+												</table>
                                             </th>
                                         </tr>
                                     </tbody>
@@ -666,18 +682,22 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
                                         <tr>
                                             <th valign="top"> 4. </th>
                                             <th align="left" valign="top"> 📘Technical Subject </th>
-                                            <th align="left"> 📒Object Oriented Programming (OOP)
+                                            <th align="left"> 
+												📒Object Oriented Programming (OOP)
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg" width="50px;" alt=""/><br /><sub><b>Object Oriented Programming</b></sub></a><br /></td>
-                                                </table> 📒Operating System (OS)
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/><br /><sub><b>Object Oriented Programming</b></sub></a><br /></td>
+                                                </table> 
+												📒Operating System (OS)
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="50px;" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
-                                                </table> 📒Database Management System (DBMS)
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
+                                                </table> 
+												📒Database Management System (DBMS)
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="50px;" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
-                                                </table> 📒Computer Network (CN)
+                                                    <td align="center"><a href="#"><img src="https://images-eu.ssl-images-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
+                                                </table> 
+												📒Computer Network (CN)
                                                 <table>
-                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Evwd0GdiL._SX198_BO1,204,203,200_QL40_ML2_.jpg" width="50px;" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
+                                                    <td align="center"><a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/51Evwd0GdiL._SX198_BO1,204,203,200_QL40_ML2_.jpg" width="100" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
                                                 </table>
                                             </th>
                                         </tr>
