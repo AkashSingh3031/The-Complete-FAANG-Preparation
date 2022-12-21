@@ -278,7 +278,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 1. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/01%5D.%20Google"> Google </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/01%5D.%20Google"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/google.png" width="15" height="15"> Google 
+													</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/01%5D.%20Google/1%5D.%20Code%20Jam"> 1️⃣Code Jam </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/01%5D.%20Google/2%5D.%20Hash%20Code"> 2️⃣Hash Code </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/01%5D.%20Google/3%5D.%20Kick%20Start"> 3️⃣Kick Start </a>
@@ -288,7 +291,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 2. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/02%5D.%20Facebook"> Facebook (Meta) </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/02%5D.%20Facebook"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/meta.png" width="15" height="15"> Facebook (Meta) 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/02%5D.%20Facebook/1%5D.%20Hacker%20Cup"> 1️⃣Facebook Hackercup </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/02%5D.%20Facebook/2%5D.%20FB%20Hack"> 2️⃣FB Hack </a>
@@ -298,7 +304,9 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 3. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode"> LeetCode </a>
+											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode"> 
+												<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="15" height="15"> LeetCode 
+											</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/1%5D.%20Problems"> 1️⃣Problems </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/2%5D.%20Contests"> 2️⃣Contests </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan"> 3️⃣Study Plan </a>
@@ -308,7 +316,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 4. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/04%5D.%20Coding%20Ninjas"> Coding Ninjas </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/04%5D.%20Coding%20Ninjas"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Coding%20Ninjas.png" width="18" height="15"> Coding Ninjas 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/04%5D.%20Coding%20Ninjas/1%5D.%20Practice"> 1️⃣Practice </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/04%5D.%20Coding%20Ninjas/2%5D.%20Contests"> 2️⃣Contests </a>
@@ -318,7 +329,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 5. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/05%5D.%20GeeksforGeeks"> GeeksforGeeks </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/05%5D.%20GeeksforGeeks"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" width="15" height="12"> GeeksforGeeks 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/05%5D.%20GeeksforGeeks/1%5D.%20Problems"> 1️⃣Problems </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/05%5D.%20GeeksforGeeks/2%5D.%20Events/Series"> 2️⃣Contests </a>
@@ -328,7 +342,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 6. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/06%5D.%20InterviewBit"> InterviewBit </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/06%5D.%20InterviewBit"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" width="15" height="15"> InterviewBit 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/06%5D.%20InterviewBit/1%5D.%20Practice"> 1️⃣Practice </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/06%5D.%20InterviewBit/2%5D.%20Resources"> 2️⃣Resources </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/06%5D.%20InterviewBit/3%5D.%20Contests/1%5D.%20CodeDrift"> 3️⃣Contests </a>
@@ -338,7 +355,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 7. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/07%5D.%20PrepBytes"> PrepBytes </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/07%5D.%20PrepBytes"> 
+													PrepBytes 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/07%5D.%20PrepBytes/1%5D.%20Competitive%20Coding"> 1️⃣Competitive Coding </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/07%5D.%20PrepBytes/2%5D.%20Interview%20Coding"> 2️⃣Interview Coding </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/07%5D.%20PrepBytes/3%5D.%20Company%20Coding"> 3️⃣Company Coding </a>
@@ -348,7 +368,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 8. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/08%5D.%20Work%40Tech"> Work@Tech </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/08%5D.%20Work%40Tech"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" width="15" height="15"> Work@Tech 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/08%5D.%20Work%40Tech/1%5D.%20Basic%20Coding%20For%20Beginners"> 1️⃣Basic Coding For Beginners </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/08%5D.%20Work%40Tech/2%5D.%20Data%20Structures%20%26%20Algorithms"> 2️⃣Data Structures & Algorithms </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/08%5D.%20Work%40Tech/3%5D.%20Machine%20Coding"> 3️⃣Machine Coding </a>
@@ -358,7 +381,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 9. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/09%5D.%20CodeSignal"> CodeSignal </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/09%5D.%20CodeSignal"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codesignal.png" width="15" height="15"> CodeSignal 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/09%5D.%20CodeSignal/1%5D.%20Arcade"> 1️⃣Arcade </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/09%5D.%20CodeSignal/2%5D.%20Interview%20Practice"> 2️⃣Interview Practice </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/09%5D.%20CodeSignal/3%5D.%20Challenges"> 3️⃣Challenges </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/09%5D.%20CodeSignal/4%5D.%20Company%20Challenges"> 4️⃣Company Challenges </a>
@@ -368,7 +394,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 10. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/10%5D.%20HackerRank"> HackerRank </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/10%5D.%20HackerRank"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" width="15" height="15"> HackerRank 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/10%5D.%20HackerRank/1%5D.%20Prepare"> 1️⃣Prepare </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/10%5D.%20HackerRank/2%5D.%20Compete"> 2️⃣Compete </a>
@@ -378,7 +407,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 11. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/11%5D.%20HackerEarth"> HackerEarth </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/11%5D.%20HackerEarth"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" width="15" height="15"> HackerEarth 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/11%5D.%20HackerEarth/1%5D.%20Practice"> 1️⃣Practice </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/11%5D.%20HackerEarth/2%5D.%20Compete"> 2️⃣Compete </a>
@@ -388,7 +420,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 12. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/12%5D.%20CodeChef"> CodeChef </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/12%5D.%20CodeChef"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeChef.png" width="15" height="15"> CodeChef 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/12%5D.%20CodeChef/1%5D.%20Learn"> 1️⃣Learn </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/12%5D.%20CodeChef/2%5D.%20Practice"> 2️⃣Practice </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/12%5D.%20CodeChef/3%5D.%20Compete"> 3️⃣Compete </a>
@@ -398,7 +433,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 13. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/13%5D.%20CodeForces"> CodeForces </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/13%5D.%20CodeForces"> 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeForces.png" width="15" height="15"> CodeForces 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/13%5D.%20CodeForces/1%5D.%20Problem%20Set"> 1️⃣Problem Set </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/13%5D.%20CodeForces/2%5D.%20Contests"> 2️⃣Contests </a>
@@ -408,7 +446,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 14. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/14%5D.%20AtCoder"> AtCoder </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/14%5D.%20AtCoder"> 
+													AtCoder 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/14%5D.%20AtCoder/Contest"> 1️⃣Contest </a>
@@ -418,7 +459,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 15. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/15%5D.%20Sphere%20Online%20Judge%20(SPOJ)"> Sphere Online Judge (SPOJ) </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/15%5D.%20Sphere%20Online%20Judge%20(SPOJ)"> 
+													Sphere Online Judge (SPOJ) 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/15%5D.%20Sphere%20Online%20Judge%20(SPOJ)/1%5D.%20Problems"> 1️⃣Problems </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/15%5D.%20Sphere%20Online%20Judge%20(SPOJ)/2%5D.%20Contests"> 2️⃣Contests </a> <br> <a href=""> 3️⃣ </a>
@@ -428,7 +472,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 16. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/16%5D.%20LightOJ"> LightOJ </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/16%5D.%20LightOJ"> 
+													LightOJ 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/16%5D.%20LightOJ/1%5D.%20Problems"> 1️⃣Problems </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/16%5D.%20LightOJ/2%5D.%20Compete"> 2️⃣Compete </a>
@@ -438,7 +485,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 17. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/17%5D.%20Toph"> Toph </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/17%5D.%20Toph"> 
+													Toph 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/17%5D.%20Toph/1%5D.%20Problems"> 1️⃣Problems </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/17%5D.%20Toph/2%5D.%20Contests"> 2️⃣Contests </a>
@@ -448,7 +498,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 18. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/18%5D.%20Australian%20%20Maths%20Trust%20(AMT)"> Australian Maths Trust (AMT) </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/18%5D.%20Australian%20%20Maths%20Trust%20(AMT)"> 
+													Australian Maths Trust (AMT) 
+												</a>
 											</th>
 											<th align="left">
 											</th>
@@ -457,7 +510,10 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 									<tbody>
 										<tr>
 											<th> 19. </th>
-											<th align="left"> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/19%5D.%20CSES"> CSES </a>
+											<th align="left"> 
+												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/19%5D.%20CSES"> 
+													CSES 
+												</a>
 											</th>
 											<th align="left">
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/19%5D.%20CSES/1%5D.%20CSES%20Problem%20Set"> 1️⃣CSES Problem Set </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/19%5D.%20CSES/2%5D.%20BOI%20Contest%20Collection"> 2️⃣BOI Contest Collection </a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/19%5D.%20CSES/3%5D.%20CEOI%20Contest%20Collection"> 3️⃣CEOI Contest Collection </a>
