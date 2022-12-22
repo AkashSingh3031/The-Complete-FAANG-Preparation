@@ -44,7 +44,7 @@
 			<th align="left"> 
 				📒Aptitude
 				<table>
-					<td align="center"><a href="https://amzn.to/3YDPAbP"><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3YDPAbP" target="_blank"><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -56,18 +56,18 @@
 			<th align="left"> 
 				📒C & C++ Language
 				<table>
-					<td align="center"><a href="https://amzn.to/3hI9iCC"><img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3v95Vru"><img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3ja5k67"><img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3HUCXDu"><img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3hI9iCC" target="_blank"><img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3v95Vru" target="_blank"><img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3ja5k67" target="_blank"><img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3HUCXDu" target="_blank"><img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
 				</table> 
 				📒Python Language
 				<table>
-					<td align="center"><a href="https://amzn.to/3VkfBKm"><img src="https://m.media-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3VkfBKm" target="_blank"><img src="https://m.media-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
 				</table> 
 				📒Java Language
 				<table>
-					<td align="center"><a href="https://amzn.to/3PRL0mw"><img src="https://m.media-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3PRL0mw" target="_blank"><img src="https://m.media-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -80,23 +80,23 @@
 			<th align="left"> 
 				📒Data Structures
 				<table>
-					<td align="center"><a href="https://amzn.to/3BSpus3"><img src="https://m.media-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Made Easy</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3hNWFWD"><img src="https://m.media-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Thinking with Python</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3BSpus3" target="_blank"><img src="https://m.media-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Made Easy</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3hNWFWD" target="_blank"><img src="https://m.media-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Thinking with Python</b></sub></a><br /></td>
 				</table> 
 				📒Algorithms
 				<table>
-					<td align="center"><a href="https://amzn.to/3G8gdyw"><img src="https://m.media-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3WCn4p8"><img src="https://m.media-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3G8gdyw" target="_blank"><img src="https://m.media-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3WCn4p8" target="_blank"><img src="https://m.media-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
 				</table>
 				<hr> 
 				📒Competitive Programming
 				<table>
-					<td align="center"><a href="https://amzn.to/3WwrXjG"><img src="https://m.media-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3WwrXjG" target="_blank"><img src="https://m.media-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
 				</table>
 				<hr> 
 				📒Coding Interviews
 				<table>
-					<td align="center"><a href="https://amzn.to/3W8POpP"><img src="https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3W8POpP" target="_blank"><img src="https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -108,24 +108,24 @@
 			<th align="left"> 
 				📒Object Oriented Programming (OOP)
 				<table>
-					<td align="center"><a href="https://amzn.to/3GcSzRC"><img src="https://m.media-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/><br /><sub><b>Object Oriented Programming <br> with C++ <br> E Ealagurusamy</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3GcSzRC" target="_blank"><img src="https://m.media-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/><br /><sub><b>Object Oriented Programming <br> with C++ <br> E Ealagurusamy</b></sub></a><br /></td>
 				</table> 
 				📒Operating System (OS)
 				<table>
-					<td align="center"><a href="https://amzn.to/3HQpP28"><img src="https://m.media-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3HQpP28" target="_blank"><img src="https://m.media-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
 				</table> 
 				📒Database Management System (DBMS)
 				<table>
-					<td align="center"><a href="https://amzn.to/3WwzT53"><img src="https://m.media-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3WwzT53" target="_blank"><img src="https://m.media-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
 				</table> 
 				📒Computer Network (CN)
 				<table>
-					<td align="center"><a href="https://amzn.to/3HTROOg"><img src="https://m.media-amazon.com/images/I/51vT3X2tdtL._SX409_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3HTROOg" target="_blank"><img src="https://m.media-amazon.com/images/I/51vT3X2tdtL._SX409_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
 				</table>
 				📒System Design
 				<table>
-					<td align="center"><a href="https://amzn.to/3G9Mo0o"><img src="https://m.media-amazon.com/images/I/4129HxbBnOL._SX331_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 1</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3PHbmrj"><img src="https://m.media-amazon.com/images/I/31wqdTUjz2L._SX348_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 2</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3G9Mo0o" target="_blank"><img src="https://m.media-amazon.com/images/I/4129HxbBnOL._SX331_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 1</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3PHbmrj" target="_blank"><img src="https://m.media-amazon.com/images/I/31wqdTUjz2L._SX348_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 2</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -456,7 +456,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 											<th> 3. </th>
 											<th align="left"> 
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode"> 
-													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="15" height="15"> LeetCode 
+													<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="15" height="15"> LeetCode
 												</a>
 											</th>
 											<th align="left">
@@ -467,10 +467,58 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/2%5D.%20Contests"> 
 													2️⃣Contests 
 												</a> 
-												<br> 
+													<br>&emsp; 
+													<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/2%5D.%20Contests/1%5D.%20Weekly%20Contests"> 
+														📕Weekly Contests 
+													</a>
+													<br>&emsp; 
+													<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/2%5D.%20Contests/2%5D.%20Biweekly%20Contests"> 
+														📕Biweekly Contests 
+													</a>
+												<br>
 												<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan"> 
 													3️⃣Study Plan 
 												</a>
+													<br>&emsp; 
+													<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/1%5D.%20Comprehensive%20Study%20Plans"> 
+														📕Comprehensive Study Plans 
+													</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/1%5D.%20Comprehensive%20Study%20Plans/1%5D.%20LeetCode%2075"> 
+															📖LeetCode 75 
+														</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/1%5D.%20Comprehensive%20Study%20Plans/2%5D.%20Data%20Structure"> 
+															📖Data Structure 
+														</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/1%5D.%20Comprehensive%20Study%20Plans/3%5D.%20Algorithm"> 
+															📖Algorithm 
+														</a>
+													<br>&emsp; 
+													<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/2%5D.%20In-Depth%20Topics"> 
+														📕In-Depth Topics 
+													</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/2%5D.%20In-Depth%20Topics/1%5D.%20SQL"> 
+															📖SQL	 
+														</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/2%5D.%20In-Depth%20Topics/2%5D.%20Programming%20Skills"> 
+															📖Programming Skills 
+														</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/2%5D.%20In-Depth%20Topics/3%5D.%20Binary%20Search"> 
+															📖Binary Search 
+														</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/2%5D.%20In-Depth%20Topics/4%5D.%20Graph%20Theory"> 
+															📖Graph Theory 
+														</a>
+														<br>&emsp;&emsp; 
+														<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP/2%5D.%20Competitive%20Programming/03%5D.%20LeetCode/3%5D.%20Study%20Plan/2%5D.%20In-Depth%20Topics/5%5D.%20Dynamic%20Programming"> 
+															📖Dynamic Programming 
+														</a>
 											</th>
 										</tr>
 									</tbody>
@@ -995,7 +1043,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Aptitude
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3YDPAbP">
+														<a href="https://amzn.to/3YDPAbP" target="_blank">
 															<img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub>
@@ -1013,28 +1061,28 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒C & C++ Language
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3hI9iCC">
+														<a href="https://amzn.to/3hI9iCC" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Let Us C</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3v95Vru">
+														<a href="https://amzn.to/3v95Vru" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>C in Depth</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3ja5k67">
+														<a href="https://amzn.to/3ja5k67" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Let Us C++</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3HUCXDu">
+														<a href="https://amzn.to/3HUCXDu" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>The Complete Reference <br> C++</b></sub>
@@ -1044,7 +1092,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Python Language
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3VkfBKm">
+														<a href="https://amzn.to/3VkfBKm" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Core Python</b></sub>
@@ -1054,7 +1102,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Java Language
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3PRL0mw">
+														<a href="https://amzn.to/3PRL0mw" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Core Java</b></sub>
@@ -1073,14 +1121,14 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Data Structures
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3BSpus3">
+														<a href="https://amzn.to/3BSpus3" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Data Structures <br> and Algorithms <br> Made Easy</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3hNWFWD">
+														<a href="https://amzn.to/3hNWFWD" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Data Structures <br> and Algorithms <br> Thinking with Python</b></sub>
@@ -1090,14 +1138,14 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Algorithms
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3G8gdyw">
+														<a href="https://amzn.to/3G8gdyw" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Introduction to Algorithms</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3WCn4p8">
+														<a href="https://amzn.to/3WCn4p8" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Algorithms</b></sub>
@@ -1108,7 +1156,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Competitive Programming
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3WwrXjG">
+														<a href="https://amzn.to/3WwrXjG" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Guide to <br> Competitive Programming</b></sub>
@@ -1119,7 +1167,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Coding Interviews
 												<table>
 													<td align="center">
-														<a href="https://amzn.to/3W8POpP">
+														<a href="https://amzn.to/3W8POpP" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/>
 															<br>
 															<sub><b>Cracking the Coding Interview</b></sub>
@@ -1137,7 +1185,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Object Oriented Programming (OOP)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3GcSzRC">
+														<a href="https://amzn.to/3GcSzRC" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Object Oriented Programming <br> with C++ <br> E Ealagurusamy</b></sub>
@@ -1147,7 +1195,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Operating System (OS)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3HQpP28">
+														<a href="https://amzn.to/3HQpP28" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Operating System</b></sub>
@@ -1157,7 +1205,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Database Management System (DBMS)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3WwzT53">
+														<a href="https://amzn.to/3WwzT53" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Database Management System</b></sub>
@@ -1167,7 +1215,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒Computer Network (CN)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3HTROOg">
+														<a href="https://amzn.to/3HTROOg" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51vT3X2tdtL._SX409_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Computer Network</b></sub>
@@ -1177,14 +1225,14 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 												📒System Design
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3G9Mo0o">
+														<a href="https://amzn.to/3G9Mo0o" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/4129HxbBnOL._SX331_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>System Design - Volume 1</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3PHbmrj">
+														<a href="https://amzn.to/3PHbmrj" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/31wqdTUjz2L._SX348_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>System Design - Volume 2</b></sub>
