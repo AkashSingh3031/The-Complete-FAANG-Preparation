@@ -28,3 +28,31 @@ void insert_front(Node** head_ref, int new_data){
     //move the head to point to the new node
     (*head_ref) = new_node;
 }
+
+int main (){
+    //start with empty doubly linked list
+    Node* head = NULL;
+
+    //inserting 6. so linked list becomes 6->NULL
+    insert_front(&head, 6);
+
+    //inserting 7 at the front. so linked list becomes 7->6->NULL
+    insert_front(&head, 7);
+
+    //inserting 1 at the front. so linked list becomes 1->7->6->NULL
+    insert_front(&head, 1);
+
+    //inserting 4 at the front. so linked list becomes 4->1->7->6->NULL
+    insert_front(&head, 4);
+
+    //inserting 8 at the front. so linked list becomes 8->4->1->7->6->NULL
+    insert_front(&head, 8);
+
+    cout << "Doubly linked list is: ";
+    while(head != NULL){
+        cout << head->data << "-->";
+        head = head->next;
+    }
+
+    return 0;
+}
