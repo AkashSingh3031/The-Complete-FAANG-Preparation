@@ -41,7 +41,7 @@ int main() {
     //start with empty doubly linked list
     Node* head = NULL;
 
-    //inserting 2. so linked list becomes 6->NULL
+    //inserting 2. so linked list becomes 2->NULL
     insert_after(head, 2);
 
     //inserting 7 after. so linked list becomes 2->7->NULL
