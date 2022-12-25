@@ -58,6 +58,7 @@
 				<table>
 					<td align="center"><a href="https://amzn.to/3hI9iCC" target="_blank"><img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
 					<td align="center"><a href="https://amzn.to/3v95Vru" target="_blank"><img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
+					<tr>
 					<td align="center"><a href="https://amzn.to/3ja5k67" target="_blank"><img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
 					<td align="center"><a href="https://amzn.to/3HUCXDu" target="_blank"><img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
 				</table> 
@@ -1080,6 +1081,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 															<sub><b>C in Depth</b></sub>
 														</a><br />
 													</td>
+													<tr>
                                                     <td align="center">
 														<a href="https://amzn.to/3ja5k67" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
@@ -1467,7 +1469,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://prepverse.github.io/)** <br><br> [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akashsingh3031/) [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/akashsingh3031/) <br> [![Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/akash.singh3031/) [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1ca0f1&amp)](https://twitter.com/intent/follow?screen_name=akashsingh3031) |
 
-## `Awesome Contributors` ✨🎉 `77`
+## `Awesome Contributors` ✨🎉 `78`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -1655,6 +1657,11 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/saurabh200014"><img src="https://avatars.githubusercontent.com/u/68815222?v=4" width="100px;" alt=""/><br /><sub><b>saurabh200014</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=saurabh200014" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 	
 <td align="center"><a href="https://github.com/chandru1003"><img src="https://avatars.githubusercontent.com/u/55582956?v=4" width="100px;" alt=""/><br /><sub><b>chandru1003</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=chandru1003" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+	
+<td align="center"><a href="https://github.com/csi-Abil"><img src="https://avatars.githubusercontent.com/u/101435994?v=4" width="100px;" alt=""/><br /><sub><b>csi-Abil</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=csi-Abil" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+    
+<!-- 14th Row -->    
+<!-- <tr> -->      
 </table>
 
 
