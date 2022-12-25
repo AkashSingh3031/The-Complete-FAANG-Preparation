@@ -38,7 +38,7 @@ void insert_after(Node* prev_node, int new_data){
 }
 
 int main() {
-   //Creating a node with a value 9 so the list head is 9->NULL
+   //Creating a node with a value 9 so the list becomes 9->NULL
     Node* head = new Node();
     head->next = nullptr;
     head->data = 9;
