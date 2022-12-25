@@ -12,7 +12,7 @@ struct Node{
 void insert_after(Node* prev_node, int new_data){
     //check if the given previous node is NULL
     if(prev_node == NULL){
-        cout << "The given previous node cannot be NULL";
+        cout << "The given previous node cannot be NULL"<<endl;
         return;
     }
 
@@ -38,29 +38,32 @@ void insert_after(Node* prev_node, int new_data){
 }
 
 int main() {
-    //start with empty doubly linked list
-    Node* head = NULL;
+   //Creating a node with a value 9 so the list head is 9->NULL
+    Node* head = new Node();
+    head->next = nullptr;
+    head->data = 9;
 
-    //inserting 2. so linked list becomes 6->NULL
+    //inserting 2 after head. so linked list becomes 9->2->NULL
     insert_after(head, 2);
 
-    //inserting 7 after. so linked list becomes 2->7->NULL
+    //inserting 7 after head. so linked list becomes 9->7->2->NULL
     insert_after(head, 7);
 
-    //inserting 1 after. so linked list becomes 2->7->1->NULL
+    //inserting 1 after head. so linked list becomes 9->1->7->2->NULL
     insert_after(head, 1);
 
-    //inserting 4 after. so linked list becomes 2->7->1->4->NULL
+    //inserting 4 after head. so linked list becomes 9->4->1->7->2->NULL
     insert_after(head, 4);
 
-    //inserting 8 after. so linked list becomes 2->7->1->4->8->NULL
+    //inserting 8 after head. so linked list becomes 9->8->4->1->7->2->NULL
     insert_after(head, 8);
 
     cout << "Doubly linked list is: ";
-    while(head != NULL){
+    while(head != nullptr){
         cout << head->data << "-->";
         head = head->next;
     }
+    cout<<"NULL";
 
     return 0;
 }

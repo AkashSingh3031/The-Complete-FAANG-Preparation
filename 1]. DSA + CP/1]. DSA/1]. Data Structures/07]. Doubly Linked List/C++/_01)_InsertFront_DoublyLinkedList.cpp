@@ -53,6 +53,7 @@ int main (){
         cout << head->data << "-->";
         head = head->next;
     }
+    cout<<"NULL";
 
     return 0;
 }
