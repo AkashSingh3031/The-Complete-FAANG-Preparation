@@ -1716,7 +1716,19 @@ git push -u origin <your_branch_name>
 
 ## `Stargazers Over Time 📊📈` 
 
+<table>
+	<td>
+		<a href="https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation"><img src="https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation.svg" width="100%" height="100%"></a>
+	</td>
+	<tr>
+	<td>
+		<a href="https://star-history.com/#AkashSingh3031/The-Complete-FAANG-Preparation&Timeline"><img src="https://api.star-history.com/svg?repos=AkashSingh3031/The-Complete-FAANG-Preparation&type=Timeline" width="100%" height="100%"></a>
+	</td>
+</table>
+
+<!--
 [![Stargazers over time](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation.svg)](https://starchart.cc/AkashSingh3031/The-Complete-FAANG-Preparation)
+-->
 
 ## [`MIT LICENSE 📜`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
 
@@ -1726,6 +1738,8 @@ git push -u origin <your_branch_name>
 | ✔ Modification   | ❌ Warranty  |                                 |
 | ✔ Distribution   |              |                                 |
 | ✔ Private use    |              |                                 |
+
+> **Note**
 
 ```css
 MIT License
