@@ -8,7 +8,7 @@
 | 1.       | [Miscellaneous Stuff](#1-miscellaneous-stuff) |
 | 2.       | [DSA + CP](#2-dsa--cp) |
 | 3.       | [Technical Subject](#3-technical-subject) |
-| 4.       | [Low Level Design](#4-low-level-design) |
+| 4.       | [System Design](#4-system-design) |
 | 5.       | [Projects](#5-projects) |
 | 6.       | [Important Books and Resources](#6-important-books-and-resources) |
 | 7.       | [Behavioural Interview Questions](#7-behavioural-interview-questions) |
@@ -628,9 +628,9 @@
       - [CN.md](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/2%5D.%20Technical%20Subjects/4%5D.%20Computer%20Network%20(CN)/Readme.md)
    - [Interview Questions](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects/Interview%20Questions)
 
-### 4. [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201)
-   - [Object Oriented Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design)
-   - [Case Study](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study)
+### 4. [System Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design)
+   - [Low Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design/01%5D.%20Low%20Level%20Design)
+   - [High Level Design](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design/02%5D.%20High%20Level%20Design)
    
 ### 5. [Projects](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects)
    - [Data Science](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Data%20Science)
