@@ -101,6 +101,7 @@
 				<table>
 					<td align="center"><a href="https://amzn.to/3hI9iCC" target="_blank"><img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="200" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
 					<td align="center"><a href="https://amzn.to/3v95Vru" target="_blank"><img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="200" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
+					<tr>
 					<td align="center"><a href="https://amzn.to/3ja5k67" target="_blank"><img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="200" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
 					<td align="center"><a href="https://amzn.to/3HUCXDu" target="_blank"><img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="200" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
 				</table> 
