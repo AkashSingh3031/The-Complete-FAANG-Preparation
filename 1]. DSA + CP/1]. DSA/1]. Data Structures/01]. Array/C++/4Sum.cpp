@@ -1,4 +1,5 @@
-
+vector<vector<int>> fourSum(vector<int>& nums, int target) {
+    
 vector<vector<int>> res;
     
     if(nums.empty()) return res;
@@ -35,7 +36,7 @@ vector<vector<int>> res;
             while(j+1 < n && nums[j+1] == nums[j]) ++j;
         }
         while(i+1 < n && nums[i+1] == nums[i]) ++i;
-    }
+    }    
     
     return res;
     
