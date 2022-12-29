@@ -174,16 +174,16 @@
   <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="45" /></a></td>
   <td align="center"><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Akash's Medium" width="45"/></a></td>
   <tr>
-  <td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black"></a></td>
-  <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8"></a></td>
-  <td align="center"><a href="https://wa.me/919794423031"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=25D366"></a></td>
-  <td align="center"><a href="https://t.me/akashsingh3031"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1"></a></td>
-  <td align="center"><a href="https://www.facebook.com/akashsingh3031"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=4267B2"></a></td>
-  <td align="center"><a href="https://www.instagram.com/akash.singh3031"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&amp;labelColor=FCAF45&amp;logo=instagram&amp;logoColor=FD1D1D"></a></td>
-  <td align="center"><a href="https://twitter.com/akashsingh3031"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1DA1F2"></a></td>
-  <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"><img src="https://img.shields.io/badge/-Gmail-0F9D58?style=flat&amp;labelColor=4285F4&amp;logo=gmail&amp;logoColor=DB4437"></a></td>
-  <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000"></a></td>
-  <td align="center"><a href="https://medium.com/@akashsingh3031"><img src="https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black"></a></td>
+  <td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+  <td align="center"><a href="https://wa.me/919794423031"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
+  <td align="center"><a href="https://t.me/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=1ca0f1&logo=telegram&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.facebook.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.instagram.com/akash.singh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
+  <td align="center"><a href="https://twitter.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=1DA1F2&logo=twitter&svgfill=white"></a></td>
+  <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
+  <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
+  <td align="center"><a href="https://medium.com/@akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=medium&svgfill=white"></a></td>
 </table>
 
 ### `Coding Profiles:`
@@ -199,16 +199,16 @@
   <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="45"/></a></td>
   <td align="center"><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Akash's Kaggle" width="30"/></a></td>
   <tr>
-  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange"></a></td>
-  <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://img.shields.io/badge/-GeeksforGeeks-308D46?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=308D46"></a></td>
-  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://img.shields.io/badge/-Coding_Ninjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=F78D1AFF"></a></td>
-  <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue"></a></td>
-  <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://img.shields.io/badge/-HackerRank-308D46?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=308D46"></a></td>
-  <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031"><img src="https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458"></a></td>
-  <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031"><img src="https://img.shields.io/badge/-InterviewBit-orange?style=flat&amp;labelColor=blue&amp;logo=interviewbit&amp;logoColor=blue"></a></td>
-  <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031"><img src="https://img.shields.io/badge/-StopStalk-ff0000?style=flat&amp;labelColor=white&amp;logo=stopstalk&amp;logoColor=ff0000"></a></td>
-  <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16"></a></td>
-  <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031"></a></td>
+  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=leetcode&svgfill=white"></a></td>
+  <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=geeksforgeeks&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=F78D1A&logo=coding%20ninjas&svgfill=white"></a></td>
+  <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=work@tech&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=650458&logo=hackerearth&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=F78D1A&logo=interviewBit&svgfill=blue"></a></td>
+  <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=StopStalk&svgfill=white"></a></td>
+  <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FE7A16&logo=stackoverflow&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=kaggle&svgfill=white"></a></td>
 </table>
 <table border="3">
 	<td><img src="https://forthebadge.com/images/badges/for-you.svg" /></td>
