@@ -1684,8 +1684,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/csi-Abil"><img src="https://avatars.githubusercontent.com/u/101435994?v=4" width="100px;" alt=""/><br /><sub><b>csi-Abil</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=csi-Abil" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td>
     
 <!-- 14th Row -->    
-<!-- <tr>     
-<td align="center"><a href="https://github.com/shubhanshurav"><img src="https://avatars.githubusercontent.com/u/87806305?v=4" width="100px;" alt=""/><br /><sub><b>shubhanshurav</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=shubhanshurav" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td> -->
+<tr>     
+<td align="center"><a href="https://github.com/shubhanshurav"><img src="https://avatars.githubusercontent.com/u/87806305?v=4" width="100px;" alt=""/><br /><sub><b>shubhanshurav</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=shubhanshurav" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td>
 </table>
 
 
