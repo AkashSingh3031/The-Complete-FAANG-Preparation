@@ -11,25 +11,6 @@
  */
 class Solution {
 public:
-    
-// <................> Approach - 01 <................>(Recurisive Approach)  
-/*  
-
-    TreeNode* searchBST(TreeNode* root, int val) {
-            
-        if(root == NULL) return {};
-        
-        if(root->val == val) return root;
-        
-        if(root->val > val){
-            return searchBST(root->left,val);
-        }else{
-            return searchBST(root->right,val);
-        } 
-    }  
-    
-*/    
-        
 // <................> Approach - 02 <................>(Iterative Approach)
    
   TreeNode* searchBST(TreeNode* root, int val) {
