@@ -20,29 +20,3 @@ public:
     }
 };
 
-//<----------> GFG Question Solution <------->
-
-
-class Solution
-{
-    public:
-    //Function to reverse a linked list.
-    struct Node* reverseList(struct Node *head)
-    {
-        Node* curr = head;
-        Node* prev = NULL;
-        Node* move = NULL;
-        
-        while(curr!=NULL){
-            
-            move = curr -> next;
-            curr->next = prev;
-            prev = curr;
-            curr = move;
-            
-        }
-        return prev;
-    }
-    
-};
-    
