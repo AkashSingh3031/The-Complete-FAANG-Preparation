@@ -44,7 +44,7 @@
 			<th align="left"> 
 				📒Aptitude
 				<table>
-					<td align="center"><a href="https://amzn.to/3YDPAbP" target="_blank"><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3w5NS6e" target="_blank"><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -56,19 +56,19 @@
 			<th align="left"> 
 				📒C & C++ Language
 				<table>
-					<td align="center"><a href="https://amzn.to/3hI9iCC" target="_blank"><img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3v95Vru" target="_blank"><img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3XwpgPK" target="_blank"><img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3iEgyjy" target="_blank"><img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>C in Depth</b></sub></a><br /></td>
 					<tr>
-					<td align="center"><a href="https://amzn.to/3ja5k67" target="_blank"><img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3HUCXDu" target="_blank"><img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3GJD8PN" target="_blank"><img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Let Us C++</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3X9mUWZ" target="_blank"><img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>The Complete Reference <br> C++</b></sub></a><br /></td>
 				</table> 
 				📒Python Language
 				<table>
-					<td align="center"><a href="https://amzn.to/3VkfBKm" target="_blank"><img src="https://m.media-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3kiXeso" target="_blank"><img src="https://m.media-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Python</b></sub></a><br /></td>
 				</table> 
 				📒Java Language
 				<table>
-					<td align="center"><a href="https://amzn.to/3PRL0mw" target="_blank"><img src="https://m.media-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3IKptdJ" target="_blank"><img src="https://m.media-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Core Java</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -81,23 +81,23 @@
 			<th align="left"> 
 				📒Data Structures
 				<table>
-					<td align="center"><a href="https://amzn.to/3BSpus3" target="_blank"><img src="https://m.media-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Made Easy</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3hNWFWD" target="_blank"><img src="https://m.media-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Thinking with Python</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3ZzIzJw" target="_blank"><img src="https://m.media-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Made Easy</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3WaqeQv" target="_blank"><img src="https://m.media-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Data Structures <br> and Algorithms <br> Thinking with Python</b></sub></a><br /></td>
 				</table> 
 				📒Algorithms
 				<table>
-					<td align="center"><a href="https://amzn.to/3G8gdyw" target="_blank"><img src="https://m.media-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3WCn4p8" target="_blank"><img src="https://m.media-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3COZXQW" target="_blank"><img src="https://m.media-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Introduction to Algorithms</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3QGrsSd" target="_blank"><img src="https://m.media-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Algorithms</b></sub></a><br /></td>
 				</table>
 				<hr> 
 				📒Competitive Programming
 				<table>
-					<td align="center"><a href="https://amzn.to/3WwrXjG" target="_blank"><img src="https://m.media-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3X33UcN" target="_blank"><img src="https://m.media-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Guide to <br> Competitive Programming</b></sub></a><br /></td>
 				</table>
 				<hr> 
 				📒Coding Interviews
 				<table>
-					<td align="center"><a href="https://amzn.to/3W8POpP" target="_blank"><img src="https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3IWvkwy" target="_blank"><img src="https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/><br /><sub><b>Cracking the Coding Interview</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -109,24 +109,24 @@
 			<th align="left"> 
 				📒Object Oriented Programming (OOP)
 				<table>
-					<td align="center"><a href="https://amzn.to/3GcSzRC" target="_blank"><img src="https://m.media-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/><br /><sub><b>Object Oriented Programming <br> with C++ <br> E Ealagurusamy</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3GG9FpY" target="_blank"><img src="https://m.media-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/><br /><sub><b>Object Oriented Programming <br> with C++ <br> E Balagurusamy</b></sub></a><br /></td>
 				</table> 
 				📒Operating System (OS)
 				<table>
-					<td align="center"><a href="https://amzn.to/3HQpP28" target="_blank"><img src="https://m.media-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3GG9UBo" target="_blank"><img src="https://m.media-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Operating System</b></sub></a><br /></td>
 				</table> 
 				📒Database Management System (DBMS)
 				<table>
-					<td align="center"><a href="https://amzn.to/3WwzT53" target="_blank"><img src="https://m.media-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3CN1FT0" target="_blank"><img src="https://m.media-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/><br /><sub><b>Database Management System</b></sub></a><br /></td>
 				</table> 
 				📒Computer Network (CN)
 				<table>
-					<td align="center"><a href="https://amzn.to/3HTROOg" target="_blank"><img src="https://m.media-amazon.com/images/I/51vT3X2tdtL._SX409_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3ixBcBX" target="_blank"><img src="https://m.media-amazon.com/images/I/51vT3X2tdtL._SX409_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>Computer Network</b></sub></a><br /></td>
 				</table>
 				📒System Design
 				<table>
-					<td align="center"><a href="https://amzn.to/3G9Mo0o" target="_blank"><img src="https://m.media-amazon.com/images/I/4129HxbBnOL._SX331_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 1</b></sub></a><br /></td>
-					<td align="center"><a href="https://amzn.to/3PHbmrj" target="_blank"><img src="https://m.media-amazon.com/images/I/31wqdTUjz2L._SX348_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 2</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3H3KKOf" target="_blank"><img src="https://m.media-amazon.com/images/I/4129HxbBnOL._SX331_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 1</b></sub></a><br /></td>
+					<td align="center"><a href="https://amzn.to/3H4iOtA" target="_blank"><img src="https://m.media-amazon.com/images/I/31wqdTUjz2L._SX348_BO1,204,203,200_.jpg" width="100" alt=""/><br /><sub><b>System Design - Volume 2</b></sub></a><br /></td>
 				</table>
 			</th>
 		</tr>
@@ -1079,7 +1079,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Aptitude
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3YDPAbP" target="_blank">
+														<a href="https://amzn.to/3GDDG9H" target="_blank">
 															<img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/510vx4eIUoL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Quantitative Aptitude - <br> Dr. R S Aggarwal</b></sub>
@@ -1097,14 +1097,14 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒C & C++ Language
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3hI9iCC" target="_blank">
+														<a href="https://amzn.to/3CMf51r" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41a4CcXfN4L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Let Us C</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3v95Vru" target="_blank">
+														<a href="https://amzn.to/3CMfaCh" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51BFuRUjSWL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>C in Depth</b></sub>
@@ -1112,14 +1112,14 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 													</td>
 													<tr>
                                                     <td align="center">
-														<a href="https://amzn.to/3ja5k67" target="_blank">
+														<a href="https://amzn.to/3kfkh7w" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51YkwADIq5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Let Us C++</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3HUCXDu" target="_blank">
+														<a href="https://amzn.to/3XeVS0G" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51Uqe5PHbML._SX381_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>The Complete Reference <br> C++</b></sub>
@@ -1129,7 +1129,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Python Language
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3VkfBKm" target="_blank">
+														<a href="https://amzn.to/3ZBGNrp" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51Ss-7j3v5L._SX362_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Core Python</b></sub>
@@ -1139,7 +1139,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Java Language
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3PRL0mw" target="_blank">
+														<a href="https://amzn.to/3ZCI8yk" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51z+MsmqesL._SX258_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Core Java</b></sub>
@@ -1158,14 +1158,14 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Data Structures
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3BSpus3" target="_blank">
+														<a href="https://amzn.to/3khiOO8" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/417ExARdRYL._SX384_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Data Structures <br> and Algorithms <br> Made Easy</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3hNWFWD" target="_blank">
+														<a href="https://amzn.to/3QGs0HL" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41fWWCgWk6L._SX384_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Data Structures <br> and Algorithms <br> Thinking with Python</b></sub>
@@ -1175,14 +1175,14 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Algorithms
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3G8gdyw" target="_blank">
+														<a href="https://amzn.to/3kitQTm" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Introduction to Algorithms</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3WCn4p8" target="_blank">
+														<a href="https://amzn.to/3XwQXro" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41-RWwEls6L._SX400_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Algorithms</b></sub>
@@ -1193,7 +1193,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Competitive Programming
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3WwrXjG" target="_blank">
+														<a href="https://amzn.to/3ZDtJle" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41iVz+I5jOL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Guide to <br> Competitive Programming</b></sub>
@@ -1204,7 +1204,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Coding Interviews
 												<table>
 													<td align="center">
-														<a href="https://amzn.to/3W8POpP" target="_blank">
+														<a href="https://amzn.to/3kieVsf" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/41oYsXjLvZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100;" alt=""/>
 															<br>
 															<sub><b>Cracking the Coding Interview</b></sub>
@@ -1222,17 +1222,17 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Object Oriented Programming (OOP)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3GcSzRC" target="_blank">
+														<a href="https://amzn.to/3GJECJI" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51N4A59EAiL.jpg" width="100" alt=""/>
 															<br>
-															<sub><b>Object Oriented Programming <br> with C++ <br> E Ealagurusamy</b></sub>
+															<sub><b>Object Oriented Programming <br> with C++ <br> E Balagurusamy</b></sub>
 														</a><br />
 													</td>
                                                 </table> 
 												📒Operating System (OS)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3HQpP28" target="_blank">
+														<a href="https://amzn.to/3w15IXN" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51Qy2upM+aL._SY344_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Operating System</b></sub>
@@ -1242,7 +1242,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Database Management System (DBMS)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3WwzT53" target="_blank">
+														<a href="https://amzn.to/3GG6Gh5" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51cq3aAdqNL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Database Management System</b></sub>
@@ -1252,7 +1252,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒Computer Network (CN)
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3HTROOg" target="_blank">
+														<a href="https://amzn.to/3H3L27N" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/51vT3X2tdtL._SX409_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>Computer Network</b></sub>
@@ -1262,14 +1262,14 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
 												📒System Design
                                                 <table>
                                                     <td align="center">
-														<a href="https://amzn.to/3G9Mo0o" target="_blank">
+														<a href="https://amzn.to/3COeqws" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/4129HxbBnOL._SX331_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>System Design - Volume 1</b></sub>
 														</a><br />
 													</td>
                                                     <td align="center">
-														<a href="https://amzn.to/3PHbmrj" target="_blank">
+														<a href="https://amzn.to/3CIJk9x" target="_blank">
 															<img src="https://m.media-amazon.com/images/I/31wqdTUjz2L._SX348_BO1,204,203,200_.jpg" width="100" alt=""/>
 															<br>
 															<sub><b>System Design - Volume 2</b></sub>
