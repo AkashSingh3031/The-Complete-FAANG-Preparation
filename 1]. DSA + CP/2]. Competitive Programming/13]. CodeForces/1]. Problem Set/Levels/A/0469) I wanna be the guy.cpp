@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	int arr[100];
+	int arr[1000];
 	int n;
 	int p, q;
 	cin>>n>>p;
