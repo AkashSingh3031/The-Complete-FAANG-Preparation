@@ -102,19 +102,6 @@ public class Trie {
         node.isEndOfWord = false;
     }
 
-    // checks whether a prefix is present in Trie
-    public boolean startsWith(String prefix) {
-        TrieNode temp = root;
-        for (int i = 0; i < prefix.length(); i++) {
-            if (!temp.map.containsKey(prefix.charAt(i))) {
-                return false;
-            } else {
-                temp = temp.map.get(prefix.charAt(i));
-            }
-        }
-        return true;
-    }
-
     // When print is done to Trie toString metod is called
     @Override
     public String toString() {
