@@ -1797,7 +1797,7 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 
 ## `Placed Students in Awesome Companies` ✨🎉 `1`
 
-**Wonderful Messges** 👨🏻‍💻:       
+**Wonderful Messages** 👨🏻‍💻:       
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
