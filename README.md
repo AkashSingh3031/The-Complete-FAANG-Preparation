@@ -41,7 +41,7 @@
 					My Social Networks
 				</a> 
 				<br>
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparationcoding-profiles"> 
+				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#coding-profiles"> 
 					My Coding Profiles
 				</a> 
 			</th>
