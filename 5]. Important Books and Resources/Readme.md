@@ -24,15 +24,3 @@
 | 3.   | 📘DSA + CP <hr> 📘Top Problem Lists       | [1️⃣Data Structures](https://www.geeksforgeeks.org/data-structures) <br> [2️⃣Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms) <br> [3️⃣Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide) <hr> [1️⃣GFG SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation) <br>&emsp; [🔵Facebook(Meta) SDE Sheet](https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers) <br>&emsp; [🟠Amazon SDE Sheet](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers) <br>&emsp; [⚫Apple SDE Sheet](https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers) <br>&emsp; [🔴Netflix SDE Sheet](https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers) <br>&emsp; [🟢Google SDE Sheet](https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers) <br> [2️⃣Love Babbar DSA Sheet](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar)|
 | 4.   | 📘Technical Subject                        | [1️⃣Operating System](https://www.geeksforgeeks.org/operating-systems) <br> [2️⃣Database Management System](https://www.geeksforgeeks.org/dbms) <br> [3️⃣Computer Networks](https://www.geeksforgeeks.org/computer-network-tutorials) <br> [4️⃣System Design](https://www.geeksforgeeks.org/system-design-tutorial) <br>&emsp; [4️⃣🅰️Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns)|
 | 5.   | 📘Projects                                 | [1️⃣Computer Science Projects](https://www.geeksforgeeks.org/computer-science-projects)|
-
-## Complete Interview Preperation Content
-
-### INTERVIEW Questions And DSA Notes
-
-* [Top Interview Questions](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/01..%20Top%20Interview%20Questions%20Lists)
-* [Interview Preparation Books](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/02..%20Interview-Preparation-Books)
-* [DSA Questions Sheet](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/03..%20DSA-SHEETS)
-* [Data Structure Complete Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes)
-* [C++ & DSA books + Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/05..%20C%2B%2B%20%26%20DSA%20Books%2BNotes)
-* [FAANG DSA NOTES](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/06..%20FAANG-DSA-NOTES-iNeuron)
-* [6 Weeks to Interview Ready](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/07..%20%5B%206%20Weeks%20to%20Interview%20Ready%5D)
