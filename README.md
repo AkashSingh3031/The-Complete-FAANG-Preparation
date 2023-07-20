@@ -1853,7 +1853,7 @@ git checkout -b <your_branch_name>
 
 6. Stage your changes and commit
 ```css
-git add -A
+git add .
 
 git commit -m "<your_commit_message>"
 ```
