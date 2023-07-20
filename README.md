@@ -380,37 +380,44 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
             <th> SNo. </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff"> 
-					<img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge"> -->
+					<code>Miscellaneous_Stuff</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP"> 
-					<img src="https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge"> -->
+					<code>DSA + CP</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects"> 
-					<img src="https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge"> -->
+					<code>Core Subjects</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design"> 
-					<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"> -->
+					<code>System Design</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects"> 
-					<img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge"> -->
+					<code>Projects</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Important%20Books%20and%20Resources"> 
-					<img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge"> -->
+					<code>Important Books and Resources</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/6%5D.%20Behavioural%20Interview"> 
-					<img src="https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge"> -->
+					<code>Behavioural Questions</code>
 				</a>
             </th>
         </tr>
@@ -419,6 +426,8 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
         <tr>
             <td valign="top"> 1. </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -457,8 +466,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary> <img src="https://img.shields.io/badge/DSA+CP-green?style=plastic"> </summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -993,8 +1005,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Core_Subjects-crimson?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1055,6 +1070,8 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                 </table>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/System_Design-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1083,8 +1100,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Projects-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1153,8 +1173,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1568,8 +1591,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Behavioural_Questions-blue?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1588,6 +1614,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
         </tr>
     </tbody>
