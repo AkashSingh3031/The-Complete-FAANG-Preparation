@@ -16,7 +16,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AkashSingh3031?style=social&logo=followers&logoColor=black)](https://github.com/AkashSingh3031?tab=followers)
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=star&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers)
-[![GitHub Forks](https://custom-icon-badges.demolab.com/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=forks&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members)
+[![GitHub Forks](https://custom-icon-badges.demolab.com/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=fork&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members)
 [![GitHub Watchers](https://custom-icon-badges.demolab.com/github/watchers/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=eye&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/watchers)
 [![License](https://custom-icon-badges.demolab.com/badge/License-MIT-red.svg?logo=github&style=social&logo=law&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
 ![Size](https://custom-icon-badges.demolab.com/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=file-code&logoColor=black&label=Repo%20Size%20)
