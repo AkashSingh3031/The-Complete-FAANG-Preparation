@@ -41,73 +41,78 @@
 	<td><img src="https://forthebadge.com/images/badges/uses-git.svg" /></td>
 </table>
 
-### `Social Networks:`
-<table border="3">
-  <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
-  <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
-  <td align="center"><a href="https://github.com/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="Akash's GitHub" width="55"/></a></td>
-  <td align="center"><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Akash's Medium" width="55"/></a></td>
-  <td align="center"><a href="https://twitter.com/intent/follow?screen_name=akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Akash's Twitter" width="55" /></a></td>
-  <tr>
-  <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
-  <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
-  <td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
-  <td align="center"><a href="https://medium.com/@akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=medium&svgfill=white"></a></td>
-  <td align="center"><a href="https://twitter.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=1DA1F2&logo=twitter&svgfill=white"></a></td>
-  <tr>
-  <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="Akash's linkedin" width="55" /></a></td>
-  <td align="center"><a href="https://wa.me/919794423031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="Akash's WhatsApp" width="55" /></a></td>
-  <td align="center"><a href="https://t.me/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" alt="Akash's Telegram" width="55" /></a></td>
-  <td align="center"><a href="https://www.facebook.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="55" /></a></td>
-  <td align="center"><a href="https://www.instagram.com/akash.singh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Akash's Instagram" width="55" /></a></a></td>
-  <tr>
-  <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
-  <td align="center"><a href="https://wa.me/919794423031"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
-  <td align="center"><a href="https://t.me/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=1ca0f1&logo=telegram&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.facebook.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.instagram.com/akash.singh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
-</table>
+<details open> 
+  <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Social_Networks-orange?style=plastic&logo=person-fill&logoColor=crimson" width="200px" height="40px" /></a></summary>
+  <table border="3">
+    <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
+    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
+    <td align="center"><a href="https://github.com/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="Akash's GitHub" width="55"/></a></td>
+    <td align="center"><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Akash's Medium" width="55"/></a></td>
+    <td align="center"><a href="https://twitter.com/intent/follow?screen_name=akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Akash's Twitter" width="55" /></a></td>
+    <tr>
+    <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
+    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh03031@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
+    <td align="center"><a href="https://github.com/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
+    <td align="center"><a href="https://medium.com/@akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=medium&svgfill=white"></a></td>
+    <td align="center"><a href="https://twitter.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=1DA1F2&logo=twitter&svgfill=white"></a></td>
+    <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="Akash's linkedin" width="55" /></a></td>
+    <td align="center"><a href="https://wa.me/919794423031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="Akash's WhatsApp" width="55" /></a></td>
+    <td align="center"><a href="https://t.me/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" alt="Akash's Telegram" width="55" /></a></td>
+    <td align="center"><a href="https://www.facebook.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="55" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/akash.singh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Akash's Instagram" width="55" /></a></a></td>
+    <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+    <td align="center"><a href="https://wa.me/919794423031"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
+    <td align="center"><a href="https://t.me/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=1ca0f1&logo=telegram&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.facebook.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.instagram.com/akash.singh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
+  </table>
+</details>
 
-### `Coding Profiles:`
-<table border="3">
-  <td align="center"><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="55"/></a></td>
-  <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="65" height="55"/></a></td>
-  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.png" alt="Coding Ninjas Studio" width="65"/></a></td>
-  <td align="center"><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="work@tech" width="65"/></a></td>
-  <td align="center"><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="55"/></a></td>
-  <tr>
-  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=D29613&logo=leetcode&svgfill=black"></a></td>
-  <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=geeksforgeeks&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=fA7328&logo=Coding%20Ninjas%20Studio&svgfill=darkblue"></a></td>
-  <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=work@tech&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
-  <tr>
-  <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="55"/></a></td>
-  <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="InterviewBit" width="65" hright="65"/></a></td>
-  <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StopStalk.png" alt="StopStalk" width="65"/></a></td>
-  <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="55"/></a></td>
-  <td align="center"><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Akash's Kaggle" width="40"/></a></td>
-  <tr>
-  <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=650458&logo=hackerearth&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=F78D1A&logo=interviewBit&svgfill=blue"></a></td>
-  <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=StopStalk&svgfill=white"></a></td>
-  <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FE7A16&logo=stackoverflow&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=kaggle&svgfill=white"></a></td>
-  <tr>
-  <td align="center"><a href="https://www.sololearn.com/profile/11234680" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/sololearn.png" alt="SoloLearn" width="55"/></a></td>
-  <td align="center"><a href="https://app.codesignal.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codesignal.png" alt="CodeSignal" width="65" hright="65"/></a></td>
-  <td align="center"><a href="https://codepen.io/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codepen.png" alt="CodePen" width="65"/></a></td>
-  <td align="center"><a href="https://www.freecodecamp.org/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/freeCodeCamp.png" alt="freeCodeCamp" width="55"/></a></td>
-  <td align="center"><a href="https://jovian.com/akashsingh1245" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/jovian.png" alt="Jovian" width="40"/></a></td>
-  <tr>
-  <td align="center"><a href="https://www.sololearn.com/profile/11234680"><img src="https://readme-components.vercel.app/api?component=logo&fill=crimson&logo=SoloLearn&svgfill=blue"></a></td>
-  <td align="center"><a href="https://app.codesignal.com/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=Code%20Signal&svgfill=white"></a></td>
-  <td align="center"><a href="https://codepen.io/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CodePen&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.freecodecamp.org/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=0A0A23&logo=freeCodeCamp&svgfill=white"></a></td>
-  <td align="center"><a href="https://jovian.com/akashsingh1245"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=Jovian&svgfill=white"></a></td>
-</table>
+<details open> 
+  <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Profiles-cyan?style=plastic&logo=code&logoColor=red" width="200px" height="40px" /></a></summary>
+  <table border="3">
+    <td align="center"><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="55"/></a></td>
+    <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="65" height="55"/></a></td>
+    <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.png" alt="Coding Ninjas Studio" width="65"/></a></td>
+    <td align="center"><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="work@tech" width="65"/></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="55"/></a></td>
+    <tr>
+    <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=D29613&logo=leetcode&svgfill=black"></a></td>
+    <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=geeksforgeeks&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=fA7328&logo=Coding%20Ninjas%20Studio&svgfill=darkblue"></a></td>
+    <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=work@tech&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
+    <tr>
+    <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="55"/></a></td>
+    <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="InterviewBit" width="65" hright="65"/></a></td>
+    <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StopStalk.png" alt="StopStalk" width="65"/></a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="55"/></a></td>
+    <td align="center"><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Akash's Kaggle" width="40"/></a></td>
+    <tr>
+    <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=650458&logo=hackerearth&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=F78D1A&logo=interviewBit&svgfill=blue"></a></td>
+    <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=StopStalk&svgfill=white"></a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FE7A16&logo=stackoverflow&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=kaggle&svgfill=white"></a></td>
+    <tr>
+    <td align="center"><a href="https://www.sololearn.com/profile/11234680" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/sololearn.png" alt="SoloLearn" width="55"/></a></td>
+    <td align="center"><a href="https://app.codesignal.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codesignal.png" alt="CodeSignal" width="65" hright="65"/></a></td>
+    <td align="center"><a href="https://codepen.io/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codepen.png" alt="CodePen" width="65"/></a></td>
+    <td align="center"><a href="https://www.freecodecamp.org/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/freeCodeCamp.png" alt="freeCodeCamp" width="55"/></a></td>
+    <td align="center"><a href="https://jovian.com/akashsingh1245" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/jovian.png" alt="Jovian" width="40"/></a></td>
+    <tr>
+    <td align="center"><a href="https://www.sololearn.com/profile/11234680"><img src="https://readme-components.vercel.app/api?component=logo&fill=crimson&logo=SoloLearn&svgfill=blue"></a></td>
+    <td align="center"><a href="https://app.codesignal.com/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=Code%20Signal&svgfill=white"></a></td>
+    <td align="center"><a href="https://codepen.io/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CodePen&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.freecodecamp.org/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=0A0A23&logo=freeCodeCamp&svgfill=white"></a></td>
+    <td align="center"><a href="https://jovian.com/akashsingh1245"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=Jovian&svgfill=white"></a></td>
+  </table>
+</details>
 
----
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # `🏆 The Complete FAANG Preparation 🏆`
 
@@ -371,104 +376,59 @@ This repository contains a comprehensive collection of resources covering variou
 	</a>
 </h1>
 
-<table>
-    <thead>
-        <tr>
-            <th> SNo. </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff"> 
-<!-- 					<img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge"> -->
-					<code>Miscellaneous_Stuff</code>
-				</a>
-            </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP"> 
-<!-- 					<img src="https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge"> -->
-					<code>DSA + CP</code>
-				</a>
-            </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects"> 
-<!-- 					<img src="https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge"> -->
-					<code>Core Subjects</code>
-				</a>
-            </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design"> 
-<!-- 					<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"> -->
-					<code>System Design</code>
-				</a>
-            </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects"> 
-<!-- 					<img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge"> -->
-					<code>Projects</code>
-				</a>
-            </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Important%20Books%20and%20Resources"> 
-<!-- 					<img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge"> -->
-					<code>Important Books and Resources</code>
-				</a>
-            </th>
-            <th> 
-				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/6%5D.%20Behavioural%20Interview"> 
-<!-- 					<img src="https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge"> -->
-					<code>Behavioural Questions</code>
-				</a>
-            </th>
-        </tr>
-    </thead>
+<details open>
+  <summary align="center"><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-🏆_Full_Repository_Status-orange?style=flat&logoColor=orange" width="250px" height="40px" /></a></summary>
+  <table border="5" align="center">
     <tbody>
         <tr>
-            <td valign="top"> 1. </td>
             <td valign="top">
-			<details>
-			  <summary><img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=plastic"></summary>
-                <table border="5">
-                    <thead>
-                        <tr>
-                            <th> SNo. </th>
-                            <th> Contents </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th> 1. </th>
-                            <th align="left"> 
-								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning"> 
-									Aptitude & Reasoning 
-								</a>
-                            </th>
-                        </tr>
-                    </tbody>
-                    <tbody>
-                        <tr>
-                            <th> 2. </th>
-                            <th align="left"> 
-								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs"> 
-									Basic Programming MCQs 
-								</a>
-                            </th>
-                        </tr>
-                    </tbody>
-                    <tbody>
-                        <tr>
-                            <th> 3. </th>
-                            <th align="left"> 
-								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles"> 
-									Puzzles 
-								</a>
-                            </th>
-                        </tr>
-                    </tbody>
-                </table>
-			</details>
+				<details>
+				  <summary align="center"><img src="https://custom-icon-badges.demolab.com/badge/Miscellaneous_Stuff-orange?style=plastic&labelColor=black&logo=1" width="200px" height="25px"></summary>
+	                <table border="4">
+	                    <thead>
+	                        <tr>
+	                            <th> SNo. </th>
+	                            <th> Contents </th>
+	                        </tr>
+	                    </thead>
+	                    <tbody>
+	                        <tr>
+	                            <th> 1. </th>
+	                            <th align="left"> 
+									<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Aptitude%20%26%20Reasoning"> 
+										Aptitude & Reasoning 
+									</a>
+	                            </th>
+	                        </tr>
+	                    </tbody>
+	                    <tbody>
+	                        <tr>
+	                            <th> 2. </th>
+	                            <th align="left"> 
+									<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Basic%20Programming%20MCQs"> 
+										Basic Programming MCQs 
+									</a>
+	                            </th>
+	                        </tr>
+	                    </tbody>
+	                    <tbody>
+	                        <tr>
+	                            <th> 3. </th>
+	                            <th align="left"> 
+									<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff/Puzzles"> 
+										Puzzles 
+									</a>
+	                            </th>
+	                        </tr>
+	                    </tbody>
+	                </table>
+				</details>
             </td>
+			<tr>
             <td valign="top">
 			<details>
-			  <summary> <img src="https://img.shields.io/badge/DSA+CP-green?style=plastic"> </summary>
-                <table border="5">
+			  <summary align="center"> <img src="https://custom-icon-badges.demolab.com/badge/DSA+CP-green?style=plastic&labelColor=black&logo=2" width="200px" height="25px"> </summary>
+                <table border="4">
                     <thead>
                         <tr>
                             <th> SNo. </th>
@@ -1004,10 +964,11 @@ This repository contains a comprehensive collection of resources covering variou
                 </table>
 			</details>
             </td>
+			<tr>
             <td valign="top">
 			<details>
-			  <summary><img src="https://img.shields.io/badge/Core_Subjects-crimson?style=plastic"></summary>
-                <table border="5">
+			  <summary align="center"><img src="https://custom-icon-badges.demolab.com/badge/Core_Subjects-crimson?style=plastic&labelColor=black&logo=3" width="200px" height="25px"></summary>
+                <table border="4">
                     <thead>
                         <tr>
                             <th> SNo. </th>
@@ -1066,10 +1027,11 @@ This repository contains a comprehensive collection of resources covering variou
                     </tbody>
                 </table>
             </td>
+			<tr>
             <td valign="top">
 			<details>
-			  <summary><img src="https://img.shields.io/badge/System_Design-orange?style=plastic"></summary>
-                <table border="5">
+			  <summary align="center"><img src="https://custom-icon-badges.demolab.com/badge/System_Design-ff00ff?style=plastic&labelColor=black&logo=4" width="200px" height="25px"></summary>
+                <table border="4">
                     <thead>
                         <tr>
                             <th> SNo. </th>
@@ -1081,7 +1043,7 @@ This repository contains a comprehensive collection of resources covering variou
                             <th> 1. </th>
                             <th align="left"> 
 								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design/01%5D.%20Low%20Level%20Design"> 
-									Low Level Design
+									Low-Level Design
 								</a>
                             </th>
                         </tr>
@@ -1091,7 +1053,7 @@ This repository contains a comprehensive collection of resources covering variou
                             <th> 2. </th>
                             <th align="left"> 
 								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design/02%5D.%20High%20Level%20Design"> 
-									High Level Design 
+									High-Level Design 
 								</a>
                             </th>
                         </tr>
@@ -1099,10 +1061,11 @@ This repository contains a comprehensive collection of resources covering variou
                 </table>
 			</details>
             </td>
+			<tr>
             <td valign="top">
 			<details>
-			  <summary><img src="https://img.shields.io/badge/Projects-orange?style=plastic"></summary>
-                <table border="5">
+			  <summary align="center"><img src="https://custom-icon-badges.demolab.com/badge/Projects-ffff00?style=plastic&labelColor=black&logo=5" width="200px" height="25px"></summary>
+                <table border="4">
                     <thead>
                         <tr>
                             <th> SNo. </th>
@@ -1134,7 +1097,7 @@ This repository contains a comprehensive collection of resources covering variou
                             <th> 3. </th>
                             <th align="left"> 
 								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects/Internet%20of%20Things%20(IOT)"> 
-									Internet of Things (IOT)
+									Internet of Things (IoT)
 								</a>
                             </th>
                         </tr>
@@ -1172,10 +1135,11 @@ This repository contains a comprehensive collection of resources covering variou
                 </table>
 			</details>
             </td>
+			<tr>
             <td valign="top">
 			<details>
-			  <summary><img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=plastic"></summary>
-                <table border="5">
+			  <summary align="center"><img src="https://custom-icon-badges.demolab.com/badge/Important_Books_and_Resources-00ffff?style=plastic&labelColor=black&logo=6" width="200px" height="25px"></summary>
+                <table border="4">
                     <thead>
                         <tr>
                             <th> SNo. </th>
@@ -1590,10 +1554,11 @@ This repository contains a comprehensive collection of resources covering variou
                 </table>
 			</details>
             </td>
+			<tr>
             <td valign="top">
 			<details>
-			  <summary><img src="https://img.shields.io/badge/Behavioural_Questions-blue?style=plastic"></summary>
-                <table border="5">
+			  <summary align="center"><img src="https://custom-icon-badges.demolab.com/badge/Behavioural_Questions-blue?style=plastic&labelColor=black&logo=7" width="200px" height="25px"></summary>
+                <table border="4">
                     <thead>
                         <tr>
                             <th> SNo. </th>
@@ -1605,7 +1570,7 @@ This repository contains a comprehensive collection of resources covering variou
                             <th> 1. </th>
                             <th align="left"> 
 								<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/6%5D.%20Behavioural%20Interview/behavioural-interview-ques.md"> 
-									Behavioural Interview Questions 
+									Behavioral Interview Questions 
 								</a>
                             </th>
                         </tr>
@@ -1616,6 +1581,7 @@ This repository contains a comprehensive collection of resources covering variou
         </tr>
     </tbody>
 </table>
+</details>
 
 </br>
 
@@ -1629,9 +1595,9 @@ This repository contains a comprehensive collection of resources covering variou
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+<!-- markdown-lint-disable -->
 
 <table>
 <!-- 1st Row -->
