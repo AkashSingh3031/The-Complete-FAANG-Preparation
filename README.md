@@ -32,7 +32,7 @@
 [![License](https://custom-icon-badges.demolab.com/badge/License-MIT-red.svg?style=social&logo=law&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
 [![Size](https://custom-icon-badges.demolab.com/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=file-code&logoColor=black&label=Repo%20Size%20)](https://github.com/AkashSingh3031)
 <!-- [![Lines of code](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=github&label=Lines%20of%20Code)](https://github.com/AkashSingh3031) -->
-
+<!-- 
 <table border="3">
 	<td><img src="https://forthebadge.com/images/badges/built-by-developers.svg" /></td>
 	<td><img src="https://forthebadge.com/images/badges/uses-html.svg" /></td>
@@ -40,7 +40,7 @@
 	<td><img src="https://forthebadge.com/images/badges/uses-js.svg" /></td>
 	<td><img src="https://forthebadge.com/images/badges/uses-git.svg" /></td>
 </table>
-
+-->
 <details open> 
   <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Social_Networks-orange?style=plastic&logo=person-fill&logoColor=crimson" width="200px" height="40px" /></a></summary>
   <table border="3">
@@ -116,7 +116,8 @@
 
 # `🏆 The Complete FAANG Preparation 🏆`
 
-This repository contains a comprehensive collection of resources covering various topics, including Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions. It also includes Technical Subjects such as Operating Systems, Database Management Systems, SQL, Computer Networks, and Object-Oriented Programming. Additionally, you will find System Design materials covering Low-Level Design (LLD) and High-Level Design (HLD). Lastly, the repository offers a variety of Miscellaneous content, including Programming Multiple Choice Questions (MCQs), Puzzles, Aptitude questions, and Reasoning problems. The programming languages used for demonstration purposes are C++, Python, Java, and JavaScript.
+Ready to unlock a treasure trove of knowledge? <br>
+Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We've got Technical Subjects like Operating Systems, Database Management Systems, SQL, Computer Networks, and Object-Oriented Programming, all waiting for you. 💡 Explore captivating System Design materials for Low-Level Design (LLD) and High-Level Design (HLD). Plus, test your skills with Programming MCQs, Puzzles, Aptitude questions, and Reasoning problems, all showcased in C++, Python, Java, and JavaScript. 🌐
 
 <!-- # [`Community Exchange`](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=sort%3Astar_desc)
 <code>[![Community Exchange](https://user-images.githubusercontent.com/60146338/207290439-271ff95f-e528-4d84-86b5-eff13c384f55.png)](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=The-Complete-FAANG-Preparation)
