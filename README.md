@@ -4,13 +4,24 @@
 
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme)
 
+<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Total_Views-black?style=plastic&logo=eye&logoColor=2CFF00" width="200px" height="40px" /></a></summary>	
 <p align="center">
 	<code><img src="https://profile-counter.glitch.me/{The-Complete-FAANG-Preparation}/count.svg" alt="Views Count" width="500px" height="80px" /></code>
 </p>
 
-<p align="center">
-    <img src="https://readme-jokes.vercel.app/api" width="450px" />
-</p>
+<details open> 
+	<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/😂_Random_Jokes-cyan?style=plastic" width="200px" height="40px" /></a></summary>
+	<p align="center">
+	    <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=00ffffff" width="450px" />
+	</p>
+</details>
+
+<details open> 
+	<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/✍️_Random_Dev_Quote-crimson?style=plastic" width="200px" height="40px" /></a></summary>
+	<p align="center">
+		<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="450px">
+	</p>
+</details>
 
 [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
@@ -42,7 +53,7 @@
 </table>
 -->
 <details open> 
-  <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Social_Networks-orange?style=plastic&logo=person-fill&logoColor=crimson" width="200px" height="40px" /></a></summary>
+  <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
   <table border="3">
     <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
     <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
