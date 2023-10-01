@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gmail.kgec.project.MapView">
+
+    <item
+        android:id="@+id/map_normal"
+        android:title="Normal"/>
+
+    <item
+        android:id="@+id/map_satellite"
+        android:title="Satelite"/>
+    <item
+        android:id="@+id/map_hybrid"
+        android:title="Hybrid"/>
+
+
+
+</menu>
