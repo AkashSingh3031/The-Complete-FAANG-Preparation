@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="day">day</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="enter_city_name">ENTER CITY NAME</string>
+    <string name="updated_at">UPDATED AT</string>
+</resources>

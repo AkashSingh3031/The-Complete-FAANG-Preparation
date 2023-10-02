@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="mic_desc" translatable="false">mic for search</string>
+    <string name="day">day</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="enter_city_name">ENTER CITY NAME</string>
+    <string name="updated_at">UPDATED AT</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+</resources>
