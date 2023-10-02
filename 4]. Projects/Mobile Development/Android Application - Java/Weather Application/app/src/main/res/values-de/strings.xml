@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wettervorhersage</string>
+    <string name="humidity">FEUCHTIGKEIT</string>
+    <string name="wind">WIND</string>
+    <string name="pressure">DRUCK</string>
+    <string name="day">TAG</string>
+    <string name="enter_city_name">NAMEN DER STADT EINGEBEN</string>
+    <string name="updated_at">AKTUALISIERT AM</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Der Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+</resources>

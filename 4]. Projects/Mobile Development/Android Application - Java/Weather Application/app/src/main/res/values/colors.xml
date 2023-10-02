@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#80f9ff</color>
+    <color name="purple_500">#00dae6</color>
+    <color name="purple_700">#00ADB5</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Colors -->
+    <color name="navBarColor">#00ADB5</color>
+    <color name="mainBGColor">#222831</color>
+    <color name="blockBGColor">#454B54</color>
+    <color name="textColor">#EEEEEE</color>
+    <color name="textHintColor">#80EEEEEE</color>   <!-- 50% -->
+
+</resources>

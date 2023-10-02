@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prévisions météorologiques</string>
+    <string name="humidity">HUMIDITÉ</string>
+    <string name="wind">VENT</string>
+    <string name="pressure">PRESSION</string>
+    <string name="day">JOURNÉE</string>
+    <string name="enter_city_name">ENTRER LE NOM DE LA VILLE</string>
+    <string name="updated_at">MISE À JOUR À</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+</resources>
