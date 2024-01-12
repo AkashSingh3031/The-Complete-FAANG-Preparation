@@ -23,8 +23,8 @@ This aim is to use CoreData to develop a dynamic Master/Detail app with persiste
 
 # screenshots 
 <div align="left">
-    <img src="/screenshots/img1.png" width="200px"</img>
-    <img src="/screenshots/img2.png" width="200px"</img>
-    <img src="/screenshots/img3.png" width="200px"</img>
-    <img src="/screenshots/img4.png" width="200px"</img>
+    <img src="./screenshots/img1.png" width="200px"</img>
+    <img src="./screenshots/img2.png" width="200px"</img>
+    <img src="./screenshots/img3.png" width="200px"</img>
+    <img src="./screenshots/img4.png" width="200px"</img>
 </div>
