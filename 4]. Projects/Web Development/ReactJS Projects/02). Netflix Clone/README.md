@@ -18,7 +18,7 @@
   clone this repo
 
   ```
-  gti clone https://github.com/Sukhendra523/netflix-clone.git
+  git clone https://github.com/Sukhendra523/netflix-clone.git
   ```
 
 - Step-2:
