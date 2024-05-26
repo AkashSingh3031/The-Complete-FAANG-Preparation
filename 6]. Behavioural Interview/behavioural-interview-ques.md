@@ -42,7 +42,7 @@ Only by combining our two contributions would we be able to succeed. We focused 
 The most challenging situation for me, I would say was in my internship my team was dealing with a big project. 
 All the employees were very serious about this BIG PROJECT because it was one of the largest projects in monetary terms that the company had ever received. 
 The project was, however, in our reach and we would have done it without much of hustling. But, the problem arose here when one of our software expert resigned in the middle of the project and our work halted. 
-Since I had some experience with required softare technology, I was asked to do it for that Big Project. It was quite a time since I had done that work. I was afraid that I won’t be able to do it. But, I recalled all that I have learned and gave it a shot and hit the bull’s eye.
+Since I had some experience with required software technology, I was asked to do it for that Big Project. It was quite a time since I had done that work. I was afraid that I won’t be able to do it. But, I recalled all that I have learned and gave it a shot and hit the bull’s eye.
 ```
 
 ### Amazon Leadership Principles
