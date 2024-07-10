@@ -16,7 +16,7 @@
   clone this repo
 
   ```
-  gti clone https://github.com/Sukhendra523/google-clone.git
+  git clone https://github.com/Sukhendra523/google-clone.git
   ```
 
 - Step-2:

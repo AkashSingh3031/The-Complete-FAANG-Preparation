@@ -1,6 +1,6 @@
 #Author : Akash Khandelwal
 
-#Importing Important Library
+#Importing Important Libraries
 from pygame import mixer
 import wolframalpha
 import time
@@ -49,7 +49,7 @@ def news():
      except Exception as e:
               speak("No Internet connection")
 
-#Function for fecthing weather report
+#Function for fetching weather report
 def Weather_Report(cityname):
      api_address = 'http://api.openweathermap.org/data/2.5/weather?appid=1ee020e53372311cc5131630c27b7427&q='
 
@@ -104,7 +104,7 @@ def wishMe():
     time.sleep(2)
 
 
-#Function for Taking command From User
+#Function for Taking commands From User
 def takeCommand():
      # It takes Microphone input from user
      r = sr.Recognizer()
@@ -126,7 +126,7 @@ def takeCommand():
          return "None"
      return query
 
-#It's Validate to User
+#It Validates the User
 def check_password():
     global i
     speak("Enter Your Password:")
@@ -184,7 +184,7 @@ if __name__ == '__main__':
                       time.sleep(5)
 
                elif 'open stack overflow' in query:
-                    speak("PLease Wait sir Opeaning Stack Overflow")
+                    speak("Please wait sir, opening Stack Overflow")
                     webbrowser.open("stackoverflow.com")
                     time.sleep(10)
 
@@ -204,7 +204,7 @@ if __name__ == '__main__':
                     os.startfile(codepath)
 
                elif 'goodbye' in query or 'you can go now' in query:
-                    speak("ok sir goodbye it's nice conservation with you")
+                    speak("goodbye sir it's nice conversation with you")
                     exit()
                elif 'open instagram' in query:
                     speak("Ok sir, Opening Instagram")
@@ -229,7 +229,7 @@ if __name__ == '__main__':
 
 
                elif 'who is akash khandelwal' in query:
-                    speak("Akash khandelwal is a Computer Science Graduate Apart from that he well qualified Programmer and developer")
+                    speak("Akash Khandelwal is a Computer Science Graduate Apart from that he is a well-qualified Programmer and developer")
 
                elif 'i am coming' in query:
                     speak("Where are you going")
@@ -379,7 +379,7 @@ if __name__ == '__main__':
                          speak("tell me only time")
 
                elif 'write a note' in query:
-                   speak("waht should i write,sir")
+                   speak("what should i write, sir")
                    note = takeCommand()
                    file = open("jarvis.txt",'w')
                    speak("sir,Should i include date and time")
