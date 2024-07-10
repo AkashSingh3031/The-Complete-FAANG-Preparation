@@ -55,7 +55,7 @@
    -  **LAN (Local Area Network):**
       -  It is used for a small geographical location like office, hospital, school, etc.
  
-   -  **HAN (House Area Network):**
+   -  **HAN (Home Area Network):**
       -  It is actually a LAN that is used within a house and used to connect homely devices like personal computers, phones, printers, etc.
 
    -  **CAN (Campus Area Network):**
