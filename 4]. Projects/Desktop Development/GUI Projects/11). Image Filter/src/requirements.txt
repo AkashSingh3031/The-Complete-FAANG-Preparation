@@ -1,6 +1,6 @@
 matplotlib==3.2.2
 numpy==1.22.3
-opencv_python==4.5.4.58
+opencv_python==4.8.1.78
 Pillow==10.3.0
 PyQt5==5.15.6
 scikit_image==0.14.2
