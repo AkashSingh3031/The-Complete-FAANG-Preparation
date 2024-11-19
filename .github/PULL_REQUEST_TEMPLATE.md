@@ -21,13 +21,13 @@
 - Description of changes
 
 ## **Screenshots** 
-- (Add Runnig Work Demo Image)
+- (Add Running Work Demo Image)
 
 ## Checklist ✅
 - [ ] I've read the instructions on the README file before submitting my application.
 - [ ] I've read the [Contributing Guidelines](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/CONTRIBUTING.md).
 - [ ] I've checked the issue list before deciding what to submit.
-- [ ] I've follow [Tree of Index](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#tree-of-index).
-- [ ] I've add work in proper folder
-- [ ] I've not delete/modify previous codes.
+- [ ] I've followed [Tree of Index](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#tree-of-index).
+- [ ] I've added work in the proper folder
+- [ ] I've not deleted/modified previous codes.
 
