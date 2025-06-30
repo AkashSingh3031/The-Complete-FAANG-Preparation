@@ -1,3 +1,10 @@
+#include <set>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<int> Solution::solve(vector<int> &A, vector<int> &B, int C) {
     int n = A.size();
     vector<int> ans;

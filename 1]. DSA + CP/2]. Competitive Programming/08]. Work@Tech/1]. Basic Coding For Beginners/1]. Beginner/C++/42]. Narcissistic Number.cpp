@@ -8,6 +8,14 @@ int countDigit(int n)
     return 1 + countDigit(n / 10);
 }
 
+int intPow(int base, int exp) {
+    int result = 1;
+    for(int i = 0; i < exp; i++) {
+        result *= base;
+    }
+    return result;
+}
+
 bool check(int n)
 {
     int l = countDigit(n);
@@ -16,7 +24,7 @@ bool check(int n)
 
     while (dup)
     {
-        sum += pow(dup % 10, l);
+        sum += intPow(dup % 10, l);
         dup /= 10;
     }
  

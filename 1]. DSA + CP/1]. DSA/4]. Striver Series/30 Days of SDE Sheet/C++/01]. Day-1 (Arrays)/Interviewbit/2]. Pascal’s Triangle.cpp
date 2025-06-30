@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<vector<int>> Solution::solve(int A) {
     vector<vector<int>> mat(A);
     for(int i=0; i<A; i++) {

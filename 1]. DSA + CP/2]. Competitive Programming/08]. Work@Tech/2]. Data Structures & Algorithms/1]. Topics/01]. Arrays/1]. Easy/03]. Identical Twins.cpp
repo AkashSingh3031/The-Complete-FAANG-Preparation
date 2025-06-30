@@ -1,3 +1,11 @@
+#include <unordered_map>
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Examples-1:
     Array: [1, 2, 3, 2, 1]

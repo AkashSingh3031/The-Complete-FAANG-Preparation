@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
     Time complexity: O(N + MAX_VALUE)
     Space complexity: O(MAX_VALUE)

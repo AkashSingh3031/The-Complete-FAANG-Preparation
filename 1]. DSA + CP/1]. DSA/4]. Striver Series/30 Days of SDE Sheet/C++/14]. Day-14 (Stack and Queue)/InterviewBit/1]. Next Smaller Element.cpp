@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<int> Solution::prevSmaller(vector<int> &A) {
     int n = A.size();
     reverse(A.begin(), A.end());

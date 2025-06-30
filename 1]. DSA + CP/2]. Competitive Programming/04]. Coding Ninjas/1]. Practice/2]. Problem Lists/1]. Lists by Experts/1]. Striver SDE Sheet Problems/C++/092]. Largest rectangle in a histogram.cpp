@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
  int largestRectangle(vector < int > & height) {
      // Write your code here.
      int ret = 0;

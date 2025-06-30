@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 	Time complexity: O(E x log(N))
 	Space complexity: O(N)

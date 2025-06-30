@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 private:
     void fun(int i,vector<int>arr,vector<int>&subset,vector<vector<int>>&ans)

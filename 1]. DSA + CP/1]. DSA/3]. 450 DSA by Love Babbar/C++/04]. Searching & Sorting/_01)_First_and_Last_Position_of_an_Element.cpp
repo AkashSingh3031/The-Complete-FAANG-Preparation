@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 // First and last occurrences of x 
 // Link : https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
 

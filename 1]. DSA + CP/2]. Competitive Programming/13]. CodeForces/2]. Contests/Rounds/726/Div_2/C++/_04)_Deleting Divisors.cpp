@@ -26,8 +26,9 @@ int main()
 
         if(n%2) cout<<"Bob"<<endl;
         else{
-            ll x=log2(n);
-            if(pow(2,x)==n){
+            // Check if n is a power of 2 using bitwise operation
+            if((n & (n-1)) == 0) {
+                ll x = __builtin_ctzll(n); // Count trailing zeros to get the power
                 if(x%2) cout<<"Bob"<<endl;
                 else cout<<"Alice"<<endl;
             }

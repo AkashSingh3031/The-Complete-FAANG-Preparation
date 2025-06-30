@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 string kthPermutation(int n, int k) {
     // Write your code here.
     vector<int>arr;
