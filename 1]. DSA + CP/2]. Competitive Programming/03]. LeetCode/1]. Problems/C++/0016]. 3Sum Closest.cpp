@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Example 1:
     Input: nums = [-1,2,1,-4], target = 1

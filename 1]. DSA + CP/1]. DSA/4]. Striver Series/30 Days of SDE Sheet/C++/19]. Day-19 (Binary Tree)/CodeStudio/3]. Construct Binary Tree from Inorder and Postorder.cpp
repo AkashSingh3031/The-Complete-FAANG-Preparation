@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /************************************************************
    
    Following is the TreeNode class structure

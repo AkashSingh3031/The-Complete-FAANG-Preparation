@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void func(int index,int sum,vector<int>arr,vector<int> &sumOfSubsets){
     
     if(index==arr.size()){

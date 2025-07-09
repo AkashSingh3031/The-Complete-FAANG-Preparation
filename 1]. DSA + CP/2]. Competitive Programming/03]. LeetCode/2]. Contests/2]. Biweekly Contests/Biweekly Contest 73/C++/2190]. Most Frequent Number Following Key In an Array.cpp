@@ -1,3 +1,10 @@
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int mostFrequent(vector<int>& nums, int key) {

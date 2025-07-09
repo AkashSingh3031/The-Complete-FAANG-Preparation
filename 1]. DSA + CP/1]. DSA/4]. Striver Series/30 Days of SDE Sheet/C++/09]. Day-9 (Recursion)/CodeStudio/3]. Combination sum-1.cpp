@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void Sum(vector<int> &arr,int n,int i,int k, vector<int> &v,vector<vector<int>>&ans) {
     if(k==0) {
         ans.push_back(v);

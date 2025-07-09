@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {

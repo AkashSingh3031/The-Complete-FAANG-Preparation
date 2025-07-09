@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Examples
     A: [1, 1, 3, 2, 3, 1, 1, 1]

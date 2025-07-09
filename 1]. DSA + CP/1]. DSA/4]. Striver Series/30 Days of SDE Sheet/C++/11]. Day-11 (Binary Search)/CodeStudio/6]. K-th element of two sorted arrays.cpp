@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int numbersLessThan(vector<int> &row1, vector<int> &row2,int n)
 {
     int ans=0;
