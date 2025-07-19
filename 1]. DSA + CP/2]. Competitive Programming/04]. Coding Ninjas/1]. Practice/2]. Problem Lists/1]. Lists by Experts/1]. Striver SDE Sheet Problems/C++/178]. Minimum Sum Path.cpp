@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int minSumPath(vector<vector<int>> &grid) {
     int m = grid.size();
     int n = grid[0].size(); 

@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 bool isPossible(int n, int m, vector<int> time,long long int mid){
    int dayCount = 1;
    long long int timeSum = 0;

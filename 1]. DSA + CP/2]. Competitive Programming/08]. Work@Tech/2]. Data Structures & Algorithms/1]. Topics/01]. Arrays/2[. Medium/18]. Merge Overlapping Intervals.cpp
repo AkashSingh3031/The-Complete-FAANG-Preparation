@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Example:
     Intervals: [[1, 2], [2, 3], [1, 4], [5, 6]]

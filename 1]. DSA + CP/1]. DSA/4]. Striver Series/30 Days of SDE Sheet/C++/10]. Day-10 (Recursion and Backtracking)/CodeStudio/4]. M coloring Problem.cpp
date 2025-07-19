@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 bool ispossible(vector<vector<int>> &mat,vector<int>&color,int node,int col,int n){
     for(int i=0;i<n;i++){
         if(node!=i && mat[node][i]==1 && color[i]==col)

@@ -1,6 +1,10 @@
+import java.util.*;
+
 public class Solution {
     public ArrayList<ArrayList<Integer>> zigzagLevelOrder(TreeNode root) {
         ArrayList<ArrayList<Integer>> alist=new ArrayList<ArrayList<Integer>>();
+        
+        if(root == null) return alist;
         
         Queue<TreeNode> q=new LinkedList<>();
         q.add(root);

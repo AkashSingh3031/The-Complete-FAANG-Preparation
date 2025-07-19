@@ -8,7 +8,7 @@ struct Node {
 };
  
 // Size of linked list
-int size = 0;
+int list_size = 0;
  
 // function to create and return a Node
 Node* getNode(int data)
@@ -27,7 +27,7 @@ void insertPos(Node** current, int pos, int data)
 {
     // This condition to check whether the
     // position given is valid or not.
-    if (pos < 1 || pos > size + 1)
+    if (pos < 1 || pos > list_size + 1)
         cout << "Invalid position!" << endl;
     else {
  
@@ -52,7 +52,7 @@ void insertPos(Node** current, int pos, int data)
               // pointer pointing to the address of next Node
               current = &(*current)->next;
         }
-        size++;
+        list_size++;
     }
 }
  
@@ -76,7 +76,7 @@ int main()
     head->next->next = getNode(8);
     head->next->next->next = getNode(10);
  
-    size = 4;
+    list_size = 4;
  
     cout << "Linked list before insertion: ";
     printList(head);

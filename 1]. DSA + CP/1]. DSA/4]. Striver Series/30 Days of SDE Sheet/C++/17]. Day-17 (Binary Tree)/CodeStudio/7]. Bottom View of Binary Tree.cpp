@@ -1,3 +1,10 @@
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*************************************************************
  
     Following is the Binary Tree node structure.

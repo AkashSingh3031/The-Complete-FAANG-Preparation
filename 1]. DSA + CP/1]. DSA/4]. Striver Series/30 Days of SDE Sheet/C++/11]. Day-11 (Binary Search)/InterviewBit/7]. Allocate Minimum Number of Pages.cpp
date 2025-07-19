@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 bool good(vector<int> A, int m, int mid){
     if(A[0]>mid){
         return false;
