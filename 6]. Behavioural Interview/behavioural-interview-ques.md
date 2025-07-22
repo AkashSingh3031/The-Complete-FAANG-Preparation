@@ -5,7 +5,6 @@
 - Check their wikipedia page and their official website
 - Do check out their Mission and Values
 
-
 ### Use STAR technique
 Use the STAR Method. You should be familiar with this strategy so you can implement it in your answers. This is a great way to guarantee that your answer has structure and includes all the information that the interviewer is looking for. You should make a point of using STAR when answering all behavioral interview questions.
 
@@ -46,6 +45,7 @@ Since I had some experience with required software technology, I was asked to do
 ```
 
 ### Amazon Leadership Principles
+
 [Amazon LP](https://www.youtube.com/watch?v=6LQrs-m-40o)
 
 ### Googlyness
@@ -53,3 +53,4 @@ Since I had some experience with required software technology, I was asked to do
 
 ### Leadership Series
 [FAANG Leadership Series](https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL)
+
