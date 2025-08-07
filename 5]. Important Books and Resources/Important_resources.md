@@ -31,3 +31,4 @@
    - [InterviewBit](https://www.interviewbit.com/practice/)
    - [BinarySearch](https://binarysearch.com/)
 5. [Interview Experience](https://www.geeksforgeeks.org/company-interview-corner/)
+6. [Technical Interview Questions](https://labex.io/tutorials/linux-technical-interview-questions-and-answers-593708)
