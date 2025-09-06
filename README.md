@@ -1618,7 +1618,7 @@ Dive into this repository, a comprehensive resource covering Data Structures, Al
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://prepverse.vercel.app/)** <br><br> <a href="https://wa.me/919794423031"><img src="https://img.shields.io/badge/-WhatsApp-075E54?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=075E54"></a> <a href="https://t.me/akashsingh3031"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1"></a> <br> <a href="https://www.linkedin.com/in/akashsingh3031/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8"></a> <a href="https://www.facebook.com/akashsingh3031"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=4267B2"></a> <br> <a href="https://www.instagram.com/akash.singh3031"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&amp;labelColor=FCAF45&amp;logo=instagram&amp;logoColor=FD1D1D"></a> <a href="https://twitter.com/akashsingh3031"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1DA1F2"></a> |
 
-## `Awesome Contributors` ✨🎉 `87`
+## `Awesome Contributors` ✨🎉 `89`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -1830,6 +1830,10 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/sanskaarz"><img src="https://avatars.githubusercontent.com/u/93852920?v=4" width="100px;" alt=""/><br /><sub><b>sanskaarz</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=sanskaarz" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td>
 
 <td align="center"><a href="https://github.com/ananya8606"><img src="https://avatars.githubusercontent.com/u/52853286?v=4" width="100px;" alt=""/><br /><sub><b>ananya8606</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=ananya8606" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td>
+
+<td align="center"><a href="https://github.com/ShreyaN15"><img src="https://avatars.githubusercontent.com/u/119808754?v=4" width="100px;" alt=""/><br /><sub><b>ShreyaN15</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=ShreyaN15" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td>
+
+<td align="center"><a href="https://github.com/jackieoft"><img src="https://avatars.githubusercontent.com/u/186546080?v=4" width="100px;" alt=""/><br /><sub><b>jackieoft</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=jackieoft" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">📊</a></td>
 </table>
 
 ## `Placed Students in Awesome Companies` ✨🎉 `1`
