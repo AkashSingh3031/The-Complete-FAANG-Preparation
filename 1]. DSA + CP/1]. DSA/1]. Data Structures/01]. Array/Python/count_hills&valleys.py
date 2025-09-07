@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def countHillValley(self, nums: List[int]) -> int:
         count = 0
@@ -18,9 +20,22 @@ class Solution:
                     count += 1
                 prev = cur
             i = k
-
         return count
 
+# Main function to test the solution
+if __name__ == '__main__':
+    solution = Solution()
 
-nums=[1,5,3,8,2,9]
-print(countHillValley(nums))
+    # Example test cases
+    test_cases = [
+        [2, 4, 1, 1, 6, 5],       # Expected output: 3 (hill at 4, valley at 1, hill at 6)
+        [6, 6, 6],                # Expected output: 0 (flat line)
+        [1, 2, 3, 4, 5],          # Expected output: 0 (strictly increasing)
+        [5, 4, 3, 2, 1],          # Expected output: 0 (strictly decreasing)
+        [1, 3, 2, 4, 1],          # Expected output: 3 (hill at 3, valley at 2, hill at 4)
+        [1, 2, 2, 3, 2, 2, 1],    # Expected output: 2 (hill at 3, valley at 2)
+    ]
+
+    for i, nums in enumerate(test_cases, 1):
+        result = solution.countHillValley(nums)
+        print(f"Test Case {i}: {nums} → Hills & Valleys = {result}")
