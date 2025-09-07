@@ -20,3 +20,7 @@ class Solution:
             i = k
 
         return count
+
+
+nums=[1,5,3,8,2,9]
+print(countHillValley(nums))
