@@ -1,3 +1,11 @@
+#include <unordered_map>
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<int> Solution::dNums(vector<int> &A, int B) {
     unordered_map<int,int> m;
     vector<int> v;

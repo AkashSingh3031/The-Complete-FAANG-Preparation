@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 bool dfs(vector<vector<int>> &maze,int i,int j,vector<vector<int>> &ans,int n,vector<vector<int>> &res){
    if(i<0 || j<0 || i>=n || j>=n || maze[i][j]==0 || ans[i][j]==1)
        return 0;

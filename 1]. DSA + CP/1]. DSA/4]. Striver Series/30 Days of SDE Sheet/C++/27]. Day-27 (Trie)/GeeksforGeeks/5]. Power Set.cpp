@@ -9,7 +9,7 @@ class Solution{
 		    // Code here
 		    vector<string> v;
 		    int n = s.length();
-		    int powSize = pow(2,n);
+		    int powSize = (1 << n); // Use bit shifting instead of pow(2,n)
 		    for(int countNo=0;countNo<powSize;countNo++)
 		    {
 		        string str ="";

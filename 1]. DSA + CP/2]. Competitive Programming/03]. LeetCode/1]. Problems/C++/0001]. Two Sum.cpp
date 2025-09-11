@@ -1,3 +1,11 @@
+#include <unordered_map>
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Example 1:
   Input: nums = [2,7,11,15], target = 9

@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     bool iscycle(vector<int> adj[],vector<int> &vis,int id){
