@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int maxProfit(vector<int> &values, vector<int> &weights, int n, int w)
 {
     // Write your code here

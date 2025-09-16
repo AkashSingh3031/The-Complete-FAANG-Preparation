@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void solve(int i, int j, vector<vector<int>> &image, int n, int m, int oldColor, int newColor){
     if(i<0 || j<0 || i>n-1 || j>m-1 || image[i][j] != oldColor) return;
     

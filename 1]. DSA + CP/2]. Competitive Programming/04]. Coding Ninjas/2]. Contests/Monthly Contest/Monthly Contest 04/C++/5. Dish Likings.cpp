@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
     Time complexity: O(N * D + D * 2 ^ D + Q * D)
     Space complexity: O(2 ^ D)

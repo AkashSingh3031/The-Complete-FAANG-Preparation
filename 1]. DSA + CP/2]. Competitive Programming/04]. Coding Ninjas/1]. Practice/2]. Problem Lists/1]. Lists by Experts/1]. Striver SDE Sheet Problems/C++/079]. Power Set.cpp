@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void helper(vector<int>&v,int i,vector<int>&subset,vector<vector<int>> &ans){
  
     if(i==v.size())

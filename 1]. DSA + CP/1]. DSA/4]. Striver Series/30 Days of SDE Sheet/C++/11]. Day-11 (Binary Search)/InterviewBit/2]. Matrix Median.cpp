@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int Solution::findMedian(vector<vector<int> > &A) {
     vector<int> ans;
     for(int i=0;i<A.size();i++)

@@ -1,3 +1,10 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+#include <unordered_map>
+using namespace std;
+
 vector<int> twoSum(vector<int>& A, int target) {
     
      vector<int> ans;
@@ -18,4 +25,4 @@ vector<int> twoSum(vector<int>& A, int target) {
         return ans;
         
     }
- 
+

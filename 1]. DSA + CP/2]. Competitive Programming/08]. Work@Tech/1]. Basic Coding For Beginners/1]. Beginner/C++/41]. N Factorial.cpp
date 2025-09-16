@@ -7,8 +7,15 @@ int main() {
 	cin >> t;
 	
 	while(t--) {
-		long long res=1;
 		cin >> n;
+		
+		// Check for overflow - factorial of numbers > 20 will overflow long long
+		if(n > 20) {
+			cout << "Value too large for computation" << endl;
+			continue;
+		}
+		
+		long long res=1;
 		for(int i=1; i<=n; i++)
 			res *= i;
 		cout << res << endl;

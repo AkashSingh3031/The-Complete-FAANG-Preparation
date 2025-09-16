@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 // Link : https://leetcode.com/problems/find-the-duplicate-number/
 /*
 Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.

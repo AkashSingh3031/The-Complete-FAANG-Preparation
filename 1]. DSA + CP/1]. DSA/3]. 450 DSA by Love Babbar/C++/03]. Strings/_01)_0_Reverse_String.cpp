@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 //Link: https://leetcode.com/problems/reverse-string/
 /*
 Write a function that reverses a string. The input string is given as an array of characters s.

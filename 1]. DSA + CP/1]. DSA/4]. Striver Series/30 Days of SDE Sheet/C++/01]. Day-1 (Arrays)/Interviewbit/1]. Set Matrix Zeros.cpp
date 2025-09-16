@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void Solution::setZeroes(vector<vector<int>> &matrix) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.

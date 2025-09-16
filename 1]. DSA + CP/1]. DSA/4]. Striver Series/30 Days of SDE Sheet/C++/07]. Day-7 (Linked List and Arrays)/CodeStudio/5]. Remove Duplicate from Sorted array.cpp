@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int removeDuplicates(vector<int> &arr, int n) {
 	// Write your code here.
     if(arr.size() == 0)

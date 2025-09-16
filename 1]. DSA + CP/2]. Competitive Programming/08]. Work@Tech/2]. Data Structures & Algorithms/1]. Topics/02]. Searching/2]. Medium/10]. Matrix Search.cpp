@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 /*
 Example-1:
     Matrix:
@@ -21,6 +24,9 @@ Example-2:
 */
 
 bool searchMatrix(vector<vector<int>> &matrix, int key) {
+    if (matrix.empty() || matrix[0].empty()) {
+        return false;
+    }
    	int rowSize = matrix.size(), columnSize = matrix[0].size();
    	int low = 0, high = rowSize - 1, mid, row = - 1;
    	while (low <= high) {

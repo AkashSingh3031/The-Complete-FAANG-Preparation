@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 bool possible(vector<vector<int>>&ans,int x,int y)
 {
     int n=ans.size();
