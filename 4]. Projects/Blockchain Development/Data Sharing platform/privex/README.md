@@ -282,4 +282,4 @@ Contributions are welcome! Read [CONTRIBUTING.md](./CONTRIBUTING.md) for guideli
 
 ## License
 
-[MIT](./LICENSE) © PriveX Contributors
+This project is licensed under the [MIT License](../../../../LICENSE) of this repository.
