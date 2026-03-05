@@ -1,0 +1,115 @@
+.manual-page {
+    padding: 100px 24px 80px;
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.manual-hero {
+    text-align: center;
+    margin-bottom: 56px;
+}
+
+.manual-title {
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 900;
+    letter-spacing: -1px;
+    color: var(--color-text);
+    margin-bottom: 16px;
+}
+
+.manual-subtitle {
+    font-size: 1rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+}
+
+.manual-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.step-card {
+    padding: 22px 24px;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.step-card:hover {
+    border-color: rgba(59, 130, 246, 0.3);
+}
+
+.step-card--open {
+    border-color: rgba(59, 130, 246, 0.4);
+    background: rgba(59, 130, 246, 0.04);
+}
+
+.step-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.step-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.step-num {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--color-accent);
+    opacity: 0.7;
+    flex-shrink: 0;
+}
+
+.step-icon {
+    font-size: 1.4rem;
+    flex-shrink: 0;
+}
+
+.step-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.step-chevron {
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    transition: var(--transition);
+    flex-shrink: 0;
+}
+
+.step-points {
+    list-style: none;
+    margin-top: 18px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 30px;
+    border-top: 1px solid var(--color-border);
+    padding-top: 18px;
+}
+
+.step-point {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+}
+
+.point-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--color-accent);
+    flex-shrink: 0;
+    margin-top: 7px;
+}

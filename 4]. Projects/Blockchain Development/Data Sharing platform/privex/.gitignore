@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Build outputs
+client/build/
+artifacts/
+cache/
+client/src/artifacts/
+
+# Environment variables — NEVER commit these
+.env
+client/.env
+
+# But DO commit the example templates
+!.env.example
+!client/.env.example
+
+# Hardhat
+typechain/
+typechain-types/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

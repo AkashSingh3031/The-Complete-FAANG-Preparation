@@ -1,0 +1,19 @@
+{
+    "name": "privex",
+    "version": "1.0.0",
+    "description": "Decentralized file storage and sharing dApp powered by blockchain and IPFS",
+    "scripts": {
+        "compile": "hardhat compile",
+        "test": "hardhat test",
+        "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+        "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+        "node": "hardhat node",
+        "client": "cd client && npm start",
+        "setup": "npm install && cd client && npm install"
+    },
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+        "hardhat": "^2.22.7",
+        "dotenv": "^16.0.3"
+    }
+}

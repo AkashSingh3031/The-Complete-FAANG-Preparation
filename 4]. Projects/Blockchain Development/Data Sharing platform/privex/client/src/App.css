@@ -1,0 +1,35 @@
+/* App shell */
+.app-shell {
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-main {
+    flex: 1;
+    position: relative;
+    z-index: 2;
+}
+
+.global-error-banner {
+    position: fixed;
+    top: 72px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 24px;
+    background: rgba(239, 68, 68, 0.15);
+    border: 1px solid rgba(239, 68, 68, 0.4);
+    backdrop-filter: blur(16px);
+    border-radius: 50px;
+    color: #fca5a5;
+    font-size: 0.875rem;
+    font-weight: 500;
+    box-shadow: 0 4px 24px rgba(239, 68, 68, 0.2);
+    white-space: nowrap;
+    max-width: 90vw;
+}

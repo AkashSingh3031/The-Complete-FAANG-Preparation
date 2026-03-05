@@ -1,0 +1,121 @@
+.display-section {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.display-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.display-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.search-bar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.search-input {
+    flex: 1;
+    min-width: 200px;
+    padding: 10px 16px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    color: var(--color-text);
+    font-size: 0.85rem;
+    font-family: var(--font-mono);
+    transition: var(--transition);
+    outline: none;
+}
+
+.search-input::placeholder {
+    color: var(--color-text-muted);
+    opacity: 0.6;
+}
+
+.search-input:focus {
+    border-color: var(--color-accent);
+    background: rgba(59, 130, 246, 0.04);
+}
+
+.files-loading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    padding: 16px 0;
+}
+
+.files-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    padding: 48px 24px;
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    text-align: center;
+}
+
+.files-empty-icon {
+    font-size: 2.5rem;
+    opacity: 0.5;
+}
+
+.files-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 12px;
+}
+
+.file-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    padding: 20px 12px;
+    cursor: pointer;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: rgba(255, 255, 255, 0.03);
+    transition: var(--transition);
+    width: 100%;
+    text-align: center;
+}
+
+.file-card:hover {
+    border-color: var(--color-accent);
+    background: rgba(59, 130, 246, 0.07);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(59, 130, 246, 0.1);
+}
+
+.file-card-icon {
+    font-size: 2rem;
+}
+
+.file-card-name {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--color-text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.file-card-id {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+}
