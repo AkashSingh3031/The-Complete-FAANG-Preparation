@@ -1,0 +1,123 @@
+.about-page {
+    padding-top: 64px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.about-hero {
+    padding: 80px 24px 60px;
+    text-align: center;
+}
+
+.about-title {
+    font-size: clamp(2.4rem, 6vw, 4.2rem);
+    font-weight: 900;
+    letter-spacing: -2px;
+    color: var(--color-text);
+    line-height: 1.1;
+    margin-bottom: 24px;
+}
+
+.about-desc {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    line-height: 1.75;
+    max-width: 580px;
+    margin: 0 auto;
+}
+
+.about-principles {
+    padding: 0 24px 80px;
+}
+
+.principles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+.principle-card {
+    padding: 28px 24px;
+    transition: var(--transition);
+}
+
+.principle-card:hover {
+    border-color: rgba(59, 130, 246, 0.3);
+    transform: translateY(-3px);
+}
+
+.principle-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 10px;
+}
+
+.principle-desc {
+    font-size: 0.86rem;
+    color: var(--color-text-muted);
+    line-height: 1.65;
+}
+
+.about-tech {
+    padding: 0 24px 80px;
+}
+
+.tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 14px;
+}
+
+.tech-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 24px 16px;
+    gap: 8px;
+    transition: var(--transition);
+}
+
+.tech-card:hover {
+    border-color: rgba(59, 130, 246, 0.35);
+    transform: translateY(-2px);
+}
+
+.tech-card-icon {
+    font-size: 2rem;
+}
+
+.tech-card-name {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.tech-card-desc {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+}
+
+.about-cta {
+    margin: 0 24px 80px;
+    padding: 48px 32px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.about-cta h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--color-text);
+    letter-spacing: -0.5px;
+}
+
+.about-cta p {
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    max-width: 420px;
+}

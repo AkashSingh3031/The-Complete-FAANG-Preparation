@@ -1,0 +1,118 @@
+.upload-section {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.section-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 4px;
+}
+
+.dropzone {
+    border: 2px dashed var(--color-border);
+    border-radius: var(--radius-md);
+    padding: 36px 24px;
+    cursor: pointer;
+    transition: var(--transition);
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.dropzone:hover,
+.dropzone--active {
+    border-color: var(--color-accent);
+    background: rgba(59, 130, 246, 0.05);
+}
+
+.dropzone--has-file {
+    padding: 18px 24px;
+    border-style: solid;
+    border-color: rgba(16, 185, 129, 0.4);
+    background: rgba(16, 185, 129, 0.04);
+}
+
+.dropzone-prompt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+}
+
+.dropzone-icon {
+    font-size: 2.4rem;
+    opacity: 0.6;
+}
+
+.dropzone-text {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+}
+
+.dropzone-hint {
+    font-size: 0.775rem;
+    color: var(--color-text-muted);
+    opacity: 0.6;
+}
+
+.file-ready {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.file-ready-icon {
+    font-size: 1.8rem;
+    flex-shrink: 0;
+}
+
+.file-ready-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 280px;
+}
+
+.file-ready-size {
+    font-size: 0.775rem;
+    color: var(--color-text-muted);
+    margin-top: 2px;
+}
+
+.file-clear {
+    margin-left: auto;
+    background: none;
+    border: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    transition: var(--transition);
+    font-size: 0.75rem;
+    flex-shrink: 0;
+}
+
+.file-clear:hover {
+    background: rgba(239, 68, 68, 0.12);
+    border-color: rgba(239, 68, 68, 0.4);
+    color: #fca5a5;
+}
+
+.upload-btn {
+    width: 100%;
+    justify-content: center;
+    margin-top: 4px;
+}
+
+.upload-message {
+    margin-top: 0;
+}

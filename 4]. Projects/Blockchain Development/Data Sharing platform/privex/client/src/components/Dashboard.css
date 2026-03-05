@@ -1,0 +1,113 @@
+.dash-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(4, 7, 14, 0.75);
+    backdrop-filter: blur(6px);
+    z-index: 200;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 80px 16px 16px;
+    overflow-y: auto;
+}
+
+.dash-panel {
+    width: 100%;
+    max-width: 900px;
+    border-radius: var(--radius-xl);
+    overflow: hidden;
+    box-shadow: 0 32px 80px rgba(0, 0, 0, 0.6);
+    animation: slideUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.dash-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 28px 32px 20px;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.dash-title {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: var(--color-text);
+    letter-spacing: -0.3px;
+    margin-bottom: 6px;
+}
+
+.dash-account {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+}
+
+.dash-account-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--color-success);
+    box-shadow: 0 0 7px var(--color-success);
+}
+
+.font-mono {
+    font-family: var(--font-mono);
+}
+
+.dash-close {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.dash-close:hover {
+    background: rgba(239, 68, 68, 0.15);
+    border-color: rgba(239, 68, 68, 0.4);
+    color: #fca5a5;
+}
+
+.dash-body {
+    padding: 28px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+@media (max-width: 600px) {
+    .dash-overlay {
+        padding: 64px 0 0;
+    }
+
+    .dash-panel {
+        border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    }
+
+    .dash-header,
+    .dash-body {
+        padding: 20px;
+    }
+}
