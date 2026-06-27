@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<int> Solution::repeatedNumber(const vector<int> &arr) {
     int missing_no=0, repeating_no=0;
     int n = arr.size();

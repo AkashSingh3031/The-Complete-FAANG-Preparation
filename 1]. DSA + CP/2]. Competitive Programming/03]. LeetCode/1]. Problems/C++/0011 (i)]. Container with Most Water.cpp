@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Example 1:
     Input: height = [1,8,6,2,5,4,8,3,7]

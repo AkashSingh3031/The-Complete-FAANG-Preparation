@@ -1,4 +1,13 @@
 #include<bits/stdc++.h>
+
+int intPow(int base, int exp) {
+    int result = 1;
+    for(int i = 0; i < exp; i++) {
+        result *= base;
+    }
+    return result;
+}
+
 vector<int> stringMatch(string &str, string &pat) {
     int n=str.length();
     int m=pat.length();
@@ -6,8 +15,8 @@ vector<int> stringMatch(string &str, string &pat) {
     int hashP=0;
     int hashT=0;
     for(int i=0;i<m;i++){
-        hashP+=((pat[i]-'A'+1)*pow(5,i));
-        hashT+=((str[i]-'A'+1)*pow(5,i));
+        hashP+=((pat[i]-'A'+1)*intPow(5,i));
+        hashT+=((str[i]-'A'+1)*intPow(5,i));
     }
 
     int flag=0;
@@ -26,7 +35,7 @@ vector<int> stringMatch(string &str, string &pat) {
     
     flag=0;
     for(int i=m;i<n;i++){
-        hashT=((hashT-(str[i-m]-'A'+1))/5)+((str[i]-'A'+1)*pow(5,m-1));
+        hashT=((hashT-(str[i-m]-'A'+1))/5)+((str[i]-'A'+1)*intPow(5,m-1));
         if(hashT==hashP){
             bool isEqual=true;
             for(int j=0;j<m;j++){

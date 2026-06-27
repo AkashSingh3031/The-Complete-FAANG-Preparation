@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class KthLargest {
 public:
     priority_queue<int, vector<int>, greater<int>> pq;

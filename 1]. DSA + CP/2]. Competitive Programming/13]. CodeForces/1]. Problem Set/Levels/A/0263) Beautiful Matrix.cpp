@@ -7,8 +7,8 @@ int main()
 {   
     int temp= 0 ;
     int i_one , j_one,move = 0;
-    for(int i=0; i<=4; i++){ 
-        for(int j=0; j<=4; j++){
+    for(int i=0; i<5; i++){ 
+        for(int j=0; j<5; j++){
             cin>>temp;
             if(temp == 1){
                 i_one = i;

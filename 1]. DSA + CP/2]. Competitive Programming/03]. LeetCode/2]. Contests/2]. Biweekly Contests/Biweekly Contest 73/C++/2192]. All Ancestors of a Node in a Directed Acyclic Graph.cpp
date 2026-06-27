@@ -1,3 +1,10 @@
+#include <set>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     vector<int> solve(vector<vector<int>>& arr, int num, int n) {

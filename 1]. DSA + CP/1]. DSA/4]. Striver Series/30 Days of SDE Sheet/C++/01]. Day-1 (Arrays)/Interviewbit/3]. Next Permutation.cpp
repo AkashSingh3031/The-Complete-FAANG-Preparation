@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<int> Solution::nextPermutation(vector<int> &A) {
     int n = A.size(), l, r; // 'l' is pivot and 'r' is rightmost successor
         

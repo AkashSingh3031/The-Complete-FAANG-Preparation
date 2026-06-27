@@ -1,11 +1,22 @@
+#include <unordered_map>
+#include <map>
 /*
 Example 1:
-  Input: input = "dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext"
+  Input: input = "dir
+	subdir1
+	subdir2
+		file.ext"
   Output: 20
 Explanation: We have only one file, and the absolute path is "dir/subdir2/file.ext" of length 20.
 
 Example 2:
-  Input: input = "dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext"
+  Input: input = "dir
+	subdir1
+		file1.ext
+		subsubdir1
+	subdir2
+		subsubdir2
+			file2.ext"
   Output: 32
 Explanation: We have two files:
     "dir/subdir1/file1.ext" of length 21
@@ -28,7 +39,7 @@ public:
         path_len[0] = 0;
 
         while (getline(ss, token)) {
-            auto pos = token.find_last_of("\t");
+            auto pos = token.find_last_of("	");
             string name = (pos != std::string::npos) ? token.substr(pos + 1) : token;
             
             int depth = token.size() - name.size();

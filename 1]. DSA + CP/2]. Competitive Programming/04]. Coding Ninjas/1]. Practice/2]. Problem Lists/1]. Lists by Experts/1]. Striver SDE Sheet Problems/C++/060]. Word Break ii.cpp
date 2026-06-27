@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void words(string &s, int start, vector<string> &dictionary, vector<string> &ans, string &curr) {
     // We've reached end of string
     if(start >= s.size()) {

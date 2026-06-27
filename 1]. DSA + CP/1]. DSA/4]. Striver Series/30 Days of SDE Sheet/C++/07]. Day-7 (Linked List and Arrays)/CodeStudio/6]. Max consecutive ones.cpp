@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int consecutiveOnes(vector<int>& arr){
     //Write your code here.
     int total = 0;

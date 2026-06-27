@@ -1,3 +1,5 @@
+#include <unordered_map>
+#include <map>
 class LFUCache {
 public:
     LFUCache(int capacity) {

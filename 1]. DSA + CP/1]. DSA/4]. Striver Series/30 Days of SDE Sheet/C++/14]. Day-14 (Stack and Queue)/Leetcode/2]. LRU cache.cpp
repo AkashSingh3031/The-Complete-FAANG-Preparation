@@ -1,3 +1,5 @@
+#include <unordered_map>
+#include <map>
 class LRUCache {
 public:
     list<pair<int,int>> l;

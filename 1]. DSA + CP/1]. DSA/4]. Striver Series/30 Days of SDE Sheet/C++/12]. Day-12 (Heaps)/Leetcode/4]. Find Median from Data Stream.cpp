@@ -1,3 +1,4 @@
+#include <set>
 class MedianFinder {
 public:
     MedianFinder() {}

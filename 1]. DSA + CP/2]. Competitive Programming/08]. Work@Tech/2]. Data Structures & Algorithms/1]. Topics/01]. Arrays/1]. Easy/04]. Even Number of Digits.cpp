@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 /*
 Example:
     Array: [42, 564, 5775, 34, 123, 454, 1, 5, 45, 3556, 23442]

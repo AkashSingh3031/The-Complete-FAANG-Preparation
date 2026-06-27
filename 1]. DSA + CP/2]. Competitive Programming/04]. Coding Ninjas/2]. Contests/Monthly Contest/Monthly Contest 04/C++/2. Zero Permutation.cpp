@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 /*
     Time Complexity: O(N)
     Space Complexity: O(N)
@@ -17,7 +20,7 @@ vector<int> zeroPermutation(vector<int> &array) {
     }
 
     // Get the sum of the array.
-    int sum = (n * (n + 1)) / 2;
+    long long sum = (long long)n * (n + 1) / 2;
 
     // If sum of array is odd it is impossible.
     if (sum % 2 == 1) {
@@ -29,7 +32,7 @@ vector<int> zeroPermutation(vector<int> &array) {
 
     // For making 'sum' == 0 , positive elements sums upto '(sum/2)'.
     // And negative elements sums upto '(sum/2)'.
-    int targetSum = sum / 2;
+    long long targetSum = sum / 2;
     while (targetSum) {
 
         // If targetSum is greater than or equal to the 'currentNum' element.

@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 void findpermutations(int index, string&s, vector<string>&ans)
 {
     if(index==s.size())

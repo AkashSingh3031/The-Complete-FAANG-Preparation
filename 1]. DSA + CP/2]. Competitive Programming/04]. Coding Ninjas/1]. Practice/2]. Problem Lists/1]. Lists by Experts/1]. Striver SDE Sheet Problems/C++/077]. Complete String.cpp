@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 struct node{
     node *next[26]={NULL};
     bool isLeaf=false;

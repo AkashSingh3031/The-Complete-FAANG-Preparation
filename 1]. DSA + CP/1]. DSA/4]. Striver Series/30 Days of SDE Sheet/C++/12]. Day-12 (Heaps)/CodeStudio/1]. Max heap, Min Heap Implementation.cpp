@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 vector<int> minHeap(int n, vector<vector<int>>& q) {
     // Write your code here.
     priority_queue<int, vector<int>, greater<int>> pq;

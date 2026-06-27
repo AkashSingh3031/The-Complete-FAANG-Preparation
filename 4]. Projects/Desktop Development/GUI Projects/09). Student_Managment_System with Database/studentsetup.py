@@ -14,7 +14,7 @@ shortcut_table = [
      "DesktopFolder",   #Directory_
      "Student_Data_Management_System",  #Name
      "TARGETDIR", #Component_
-     "[TARGETDIR]\Student_Data_Management_System.exe", #Target
+     "[TARGETDIR]\\Student_Data_Management_System.exe", #Target
      None,  #Arguments
      None,  #Description
      None,  #Hotkey

@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 // Find pivot element
 
 // Link : http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/

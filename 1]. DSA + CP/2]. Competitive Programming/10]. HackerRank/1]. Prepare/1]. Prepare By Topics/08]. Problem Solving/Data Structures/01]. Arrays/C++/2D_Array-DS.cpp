@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 // Practice > Data Structures > Arrays2D > Array-DS
 
 // Problem Link - https://www.hackerrank.com/challenges/2d-array/submissions/code/229967785

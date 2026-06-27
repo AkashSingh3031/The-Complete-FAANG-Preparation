@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
  int removeDuplicates(vector<int>& nums) {    
         int k = 0,n = nums.size();
         

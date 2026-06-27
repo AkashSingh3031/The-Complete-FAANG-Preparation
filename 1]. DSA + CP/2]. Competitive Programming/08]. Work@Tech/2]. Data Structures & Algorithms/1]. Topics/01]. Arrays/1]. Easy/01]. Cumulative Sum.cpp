@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 /*
 Examples-1:
     Initial Array: [1, 2, 3, 4]
@@ -13,7 +16,7 @@ Examples-3:
 */
 
 vector<int> getCumulativeSum(vector<int> &arr) {
-   vector<int> cumulativeSum(n);
+   vector<int> cumulativeSum(arr.size());
    cumulativeSum[0] = arr[0];
    for (int i = 1; i < arr.size(); i++) {
        cumulativeSum[i] = cumulativeSum[i - 1] + arr[i];

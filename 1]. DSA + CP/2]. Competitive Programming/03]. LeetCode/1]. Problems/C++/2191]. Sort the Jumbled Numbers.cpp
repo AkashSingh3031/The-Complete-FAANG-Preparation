@@ -1,3 +1,10 @@
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int solve(vector<int>& mapping, int num) {

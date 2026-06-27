@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     void findCombination(vector<vector<int>>& res, const int order, const int target, vector<int>& local, const vector<int>& num)

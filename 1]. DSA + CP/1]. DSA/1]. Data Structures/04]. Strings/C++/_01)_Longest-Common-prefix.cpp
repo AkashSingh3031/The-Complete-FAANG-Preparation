@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 string longestCommonPrefix(vector<string>& strs) {
         
         //for string the final answer

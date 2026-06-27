@@ -11,6 +11,14 @@ int order(int x)
     return n;
 }
 
+int intPow(int base, int exp) {
+    int result = 1;
+    for(int i = 0; i < exp; i++) {
+        result *= base;
+    }
+    return result;
+}
+
 int main() {
 	// your code goes here
 	int t;
@@ -23,7 +31,7 @@ int main() {
 		int temp = num, sum = 0;
 		while (temp) {
 			int r = temp % 10;
-			sum += pow(r, n);
+			sum += intPow(r, n);
 			temp = temp / 10;
 		}
 

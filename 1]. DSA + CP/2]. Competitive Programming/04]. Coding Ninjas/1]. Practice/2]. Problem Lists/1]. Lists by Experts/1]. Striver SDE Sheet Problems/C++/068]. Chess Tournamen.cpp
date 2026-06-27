@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 bool canPlace(int dist,int c,vector<int> positions,int n){
     int ninjasplaced=1;
     int recentplacedat=0;

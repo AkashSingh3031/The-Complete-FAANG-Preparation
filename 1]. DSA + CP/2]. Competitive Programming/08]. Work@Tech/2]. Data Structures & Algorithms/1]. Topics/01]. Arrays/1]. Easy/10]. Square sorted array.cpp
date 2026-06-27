@@ -1,3 +1,7 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
+
 /*
 Example:
     Array: [6, -8, 3, -1, 4]

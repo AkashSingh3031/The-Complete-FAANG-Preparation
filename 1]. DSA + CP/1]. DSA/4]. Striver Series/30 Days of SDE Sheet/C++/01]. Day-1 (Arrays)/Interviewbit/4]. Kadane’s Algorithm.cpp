@@ -1,3 +1,9 @@
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int Solution::maxSubArray(const vector<int> &A) {
     int curr_sum = A[0], max_sum = A[0];
     for(int i=1; i<A.size(); i++)

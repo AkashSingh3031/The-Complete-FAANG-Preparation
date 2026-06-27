@@ -1,3 +1,6 @@
+#include <vector>
+using namespace std;
+
 /*
 Example-1:
     Array: [-5, -3, -2, 3, 4, 6, 7, 8]
@@ -12,10 +15,10 @@ int binarySearch (vector<int> arr, int low, int high) {
    	if (high > low) {
        	int mid = (high + low) / 2;
 		
-       	if (arr[mid] < 0 && arr[mid + 1] >= 0) {
+       	if (mid + 1 < arr.size() && arr[mid] < 0 && arr[mid + 1] >= 0) {
            	return mid;
        	} 
-		else if (arr[mid] >= 0 && arr[mid + 1] >= 0) {
+		else if (mid + 1 < arr.size() && arr[mid] >= 0 && arr[mid + 1] >= 0) {
            	return binarySearch(arr, 0, mid);
        	} 
 		else {

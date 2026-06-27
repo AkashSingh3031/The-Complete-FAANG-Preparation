@@ -1,3 +1,10 @@
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int Solution::solve(vector<int> &A, int B) {
     map<int,int> mp;
     int xr =0 , count = 0;
