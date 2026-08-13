@@ -1922,7 +1922,7 @@ git push -u origin <your_branch_name>
 	</td>
 	<tr>
 	<td>
-		<a href="https://star-history.com/#AkashSingh3031/The-Complete-FAANG-Preparation&Timeline"><img src="https://api.star-history.com/svg?repos=AkashSingh3031/The-Complete-FAANG-Preparation&type=Timeline&theme=dark" width="100%" height="100%"></a>
+		<a href="https://star-history.dera.page/#AkashSingh3031/The-Complete-FAANG-Preparation&Timeline"><img src="https://star-history.dera.page/svg?repos=AkashSingh3031/The-Complete-FAANG-Preparation&type=Timeline&theme=dark" width="100%" height="100%"></a>
 	</td>
 </table>
 
