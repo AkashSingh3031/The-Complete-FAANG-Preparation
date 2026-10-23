@@ -5,7 +5,7 @@
 
   <h1> Binary Search</h1>
 
-[BinarySearch Program](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/1%5D.%20DSA/2%5D.%20Algorithms/01%5D.%20Searching%20Algorithms/Java/BinarSearch.java)
+[BinarySearch Program](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/1%5D.%20DSA%20%2B%20CP/1%5D.%20DSA/2%5D.%20Algorithms/01%5D.%20Searching%20Algorithms/Java/BinarSearch.java)
 
 - Binary Search is a faster-search algorithm and efficient for searching in a `sorted array`. Thats's `Binary search works on ordered lits only!`.
 - The Algorithm works by comparing a search key `K` with the array's middle element `A[mid]`. (i.e., if `K==A[mid]`).
@@ -24,7 +24,7 @@
 
 
             l<--0; r<-(n-1);
-        ---<while l<r do
+        ---<while l<=r do
         |    mid<-[l+r]/2
         |   if K=A[mid] return mid
         |       else if K<A[mid] r<-mid-1
@@ -36,7 +36,7 @@
         Step 1 − Take Array's Element as Input and A Search key Called K.
         Step 2 − Left points to the low index.
         Step 3 − Right points to the high.
-        Step 4 − While Left is smaller then Right.
+        Step 4 − While Left is less than or equal to Right.
         Step 5 - Add Left and Right Indices(Index) and Divide it by 2 (mid=(l+r)/2) and assign the value to MID.
         Step 6 − Match the K element with the MID if This is True (matches), Then return the element with mid.
         Step 7 − If the K element is smaller then MID element. Then, assign the R element with MID-1 (K<A[mid]..r=mid-1).
